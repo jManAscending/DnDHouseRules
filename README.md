@@ -27,8 +27,9 @@ Range/melee does not affect lethality.  Psychic damage can be made nonlethal wit
 ## Incapacitated damage
 If a creature is incapacitated for any reason, it cannot benefit from a DEX bonus to its AC.  
 If a creature is indefinitely incapacitated and there is no other threat around, any lethal attack roll that would deal damage is an instant kill.  
-If a creature is incapacitated in the middle of active combat, any attack has advantage, and any melee hit or point-blank ranged hit is a critical.  
+If a creature is incapacitated for any reason in the middle of active combat, any attack has advantage, and any melee hit or point-blank ranged hit is a critical.  
 If a creature is incapacitated for an arbitrary amount of time but will not be incapacitated once attacked (e.g. sleeping), any attack has advantage, and any hit is a critical.  
+If a creature is incapacitated for a limited amount of time outside of combat via a spell or other magical effect (e.g. Sleep/Hold Person), any melee or point-blank ranged attack will automatically hit, any other attack has advantage, and any hit is a critical.
 
 ## Prone creatures
 Tiles with Prone creatures count as Difficult Terrain.  
