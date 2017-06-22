@@ -25,50 +25,52 @@
 Range/melee does not affect lethality.  Psychic damage can be made nonlethal without issue; targets will drop to 0 and be stable.  Bludgeoning damage can be made nonlethal if it is the result of an attack roll, and targets will drop to 0 and be stable.  Necrotic damage canot be specified to be nonlethal.  Piercing, Slashing, and all other types of elemental damage can be made nonlethal if and only if the damage was dealt as the result of an attack roll.  If such an attack reduces the target to 0, the creature drops unconscious and unstable, making death saving throws according to player rules.  PCs at 0 HP will follow RAW for the most part, with one exception - if an NPC makes a nonlethal Bludgeoning or Psychic attack against a PC and they drop to 0, the PC will be immediately stable.
 
 ## Incapacitated damage
-If a creature is incapacitated for any reason, it cannot benefit from a DEX bonus to its AC
-If a creature is indefinitely incapacitated and there is no other threat around, any lethal attack roll that would deal damage is an instant kill
-If a creature is incapacitated in the middle of active combat, any attack has advantage, and any melee hit or point-blank ranged hit is a critical
-If a creature is incapacitated for an arbitrary amount of time but will not be incapacitated once attacked (e.g. sleeping), any attack has advantage, and any hit is a critical
+If a creature is incapacitated for any reason, it cannot benefit from a DEX bonus to its AC.  
+If a creature is indefinitely incapacitated and there is no other threat around, any lethal attack roll that would deal damage is an instant kill.  
+If a creature is incapacitated in the middle of active combat, any attack has advantage, and any melee hit or point-blank ranged hit is a critical.  
+If a creature is incapacitated for an arbitrary amount of time but will not be incapacitated once attacked (e.g. sleeping), any attack has advantage, and any hit is a critical.  
 
 ## Prone creatures
-Tiles with Prone creatures count as Difficult Terrain
-A creature cannot willingly drop Prone if it is occupying a Prone creature's space; if it is forced to go Prone by an effect, it is pushed 5ft away in a direction that makes sense for the effect.
-If a creature is occupying a Prone creature's space, the Prone creature has half-cover
-If a hostile creature is occupying a Prone creature's space, the Prone creature cannot stand up until it is in a space of its own
-A Prone creature can make a Shove attack on a creature occupying its space without disadvantage
+Tiles with Prone creatures count as Difficult Terrain.  
+A creature cannot willingly drop Prone if it is occupying a Prone creature's space; if it is forced to go Prone by an effect, it is pushed 5ft away in a direction that makes sense for the effect.  
+If a creature is occupying a Prone creature's space, the Prone creature has half-cover.  
+If a hostile creature is occupying a Prone creature's space, the Prone creature cannot stand up until it is in a space of its own.  
+A Prone creature can make a Shove attack on a creature occupying its space without disadvantage.  
 
 ## Dual Wielding
-One-handed Light ranged weapons can be wielded in the off hand, and a bonus action can be used to attack (without your proficiency bonus, and still without adding the modifier to damage)
-Any one-handed or versatile ranged weapon can be wielded in the off hand with proficiency (if applicable) if the wielder has the Dual Wielder feat (though the +1 to AC will not apply unless dual wielding melee weapons)
-Note: it still takes an extra bonus action to draw a second weapon at the start of combat without the Dual Wielding feat, and you still need both hands to load a crossbow or gun
-The Crossbow Expert feat does not apply to guns
-As in RAW, at least one hand must still be free to provide somatic components for a spell, unless the spellcaster has the War Caster feat
+One-handed Light ranged weapons can be wielded in the off hand, and a bonus action can be used to attack (without your proficiency bonus, and still without adding the modifier to damage).  
+Any one-handed or versatile ranged weapon can be wielded in the off hand with proficiency (if applicable) if the wielder has the Dual Wielder feat (though the +1 to AC will not apply unless dual wielding melee weapons).  
+Note: it still takes an extra bonus action to draw a second weapon at the start of combat without the Dual Wielding feat, and you still need both hands to load a crossbow or gun.  
+The Crossbow Expert feat does not apply to guns.  
+As in RAW, at least one hand must still be free to provide somatic components for a spell, unless the spellcaster has the War Caster feat.
 
 ## Enchanting
-Enchanting an item first requires that you understand the formula for putting that enchantment on that item and are able to cast the spell you are trying to enchant the item with.
-Cantrip enchantments are incredibly cheap and usually only take a single ritual that takes an hour + the casting time of the spell (though it does require you know the spell you're enchanting with)
-Higher level spells are more difficult, and require more than one performance of the enchanting ritual (potentially becoming ridiculously expensive for spells which require costly material components)
-Most of the uses of the ritual will be to prepare the item to recieve the enchantment in a final ritual potentially taking way longer (anywhere from 3 to 13 hours)
-There is no limit to how many times you can perform the preparation ritual other than spell slots and time
-There is always a chance the final ritual will fuck up royally; the chance gets exponentially higher with high level spells and steadily lower with more casts of the preparation ritual
-Consumables such as scrolls and potions are similarly easy to craft
-For more information, I have a whole goddamn homebrewed encyclopedia to reference on this one
+Enchanting an item first requires that you understand the formula for putting that enchantment on that item and are able to cast the spell you are trying to enchant the item with.  
+Cantrip enchantments are incredibly cheap and usually only take a single ritual that takes an hour + the casting time of the spell (though it does require you know the spell you're enchanting with).  
+Higher level spells are more difficult, and require more than one performance of the enchanting ritual (potentially becoming ridiculously expensive for spells which require costly material components).  
+Most of the uses of the ritual will be to prepare the item to recieve the enchantment in a final ritual potentially taking way longer (anywhere from 3 to 13 hours).  
+There is no limit to how many times you can perform the preparation ritual other than spell slots and time.  
+There is always a chance the final ritual will fuck up royally; the chance gets exponentially higher with high level spells and steadily lower with more casts of the preparation ritual.  
+Consumables such as scrolls and potions are similarly easy to craft.  
+For more information, I have a whole goddamn homebrewed encyclopedia to reference on this one.
 
 ## Disenchanting
-It is possible to learn an item's enchantment formula by disenchanting it if you are proficient in Arcana.  This will most likely destroy the item beyond repair, and is not guaranteed to actually teach you the full formula.
+It is possible to learn an item's enchantment formula by disenchanting it if you are proficient in Arcana.  This will most likely destroy the item beyond repair, and is not guaranteed to actually teach you the full formula.  
 If you wish to get rid of the enchantment on an item without breaking it, there are two ways:
 * Performing the enchantment ritual with the Dispel Magic spell, and making an Arcana check with a DC of 10 + spell level
 * Breaking the object and fixing it again, either with Mending or just plain glue 
 
 ## Actions and Spells in Combat
-It is possible to use an Action on your turn to use an ability that would normally be a Bonus Action or Reaction, and it is possible to use your Bonus Action on your turn to use an ability that would normally be your Reaction.  Reactions will refresh at the start of your turn (meaning if you use a Reaction on your turn, you cannot take another until the start of your next turn).  If you cast more than one spell on your turn, their combined level must not add up to more than the highest level spell slot you have.  Cantrips count as level 0.
+It is possible to use an Action on your turn to use an ability that would normally be a Bonus Action or Reaction, and it is possible to use your Bonus Action on your turn to use an ability that would normally be your Reaction.  
+Reactions will refresh at the start of your turn (meaning if you use a Reaction on your turn, you cannot take another until the start of your next turn).  
+If you cast more than one spell on your turn, their combined level must not add up to more than the highest level spell slot you have.  Cantrips count as level 0.
 
 ## Potions
-Drinking a potion in combat is a bonus action.  Feeding a Potion to another character is an Action.  If you are currently under the effect of at least one potion or if you have already drank a potion this turn, drinking another will require a Consititution saving throw with a DC equal to 10 + the combined spell levels of all relevent potions.  On a success, the new potion takes effect.  On a failure you throw up, can't benefit from the new potion, and attacks against you have advantage until the start of your next turn.
+Drinking a potion in combat is a bonus action.  Feeding a Potion to another character is an Action.  
+If you are currently under the effect of at least one potion or if you have already drank a potion this turn, drinking another will require a Consititution saving throw with a DC equal to 10 + the combined spell levels of all relevent potions.  On a success, the new potion takes effect.  On a failure you throw up, can't benefit from the new potion, and attacks against you have advantage until the start of your next turn.
 
 ## Identifying Magic Items
-An Arcana check can reveal whether an item has magical properties or not, and sometimes part of the nature of the magic if the effects are readily apparent.  Focusing on an item over a short rest does not reveal the nature of the item unless you attune to it.
-
+An Arcana check can reveal whether an item has magical properties or not, and sometimes part of the nature of the magic if the effects are readily apparent.  Focusing on an item over a short rest does not reveal the nature of the item unless you attune to it.  
 See the specific spell changes for information on Identify and Detect Magic.
 
 ## Cursed Items
