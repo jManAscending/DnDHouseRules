@@ -1,6 +1,26 @@
 # DnD House Rules
 ### While the campaign is in progress, players will be notified of changes to these rules.
 
+## Table of Contents
+[Nonlethality](https://github.com/jManAscending/DnDHouseRules#nonlethality)  
+[Incapacitated Damage](https://github.com/jManAscending/DnDHouseRules#incapacitated-damage)  
+[Prone creatures](https://github.com/jManAscending/DnDHouseRules#prone-creatures)  
+[Dual Wielding](https://github.com/jManAscending/DnDHouseRules#dual-wielding)  
+[Enchanting](https://github.com/jManAscending/DnDHouseRules#enchanting)  
+[Disenchanting](https://github.com/jManAscending/DnDHouseRules#disenchanting)  
+[Actions and Spells in Combat](https://github.com/jManAscending/DnDHouseRules#actions-and-spells-in-combat)  
+[Potions](https://github.com/jManAscending/DnDHouseRules#potions)  
+[Identifying Magic Items](https://github.com/jManAscending/DnDHouseRules#identifying-magic-items)  
+[Cursed Items](https://github.com/jManAscending/DnDHouseRules#cursed-items)  
+[Preparing Spells](https://github.com/jManAscending/DnDHouseRules#preparing-spells)  
+[Extra Spells](https://github.com/jManAscending/DnDHouseRules#extra-spells)  
+[Cantrips as 1st Level Spells](https://github.com/jManAscending/DnDHouseRules#cantrips-as-1st-level-spells)  
+[Social Encounters](https://github.com/jManAscending/DnDHouseRules#social-encounters)  
+[Reviving Creatures](https://github.com/jManAscending/DnDHouseRules#reviving-creatures)  
+[Travel Paces](https://github.com/jManAscending/DnDHouseRules#travel-paces)  
+[Specific Spell Changes](https://github.com/jManAscending/DnDHouseRules#specific-spell-changes)  
+[Feat Changes](https://github.com/jManAscending/DnDHouseRules#feat-changes)  
+
 ## Nonlethality
 Range/melee does not affect lethality.  Psychic damage can be made nonlethal without issue; targets will drop to 0 and be stable.  Bludgeoning damage can be made nonlethal if it is the result of an attack roll, and targets will drop to 0 and be stable.  Necrotic damage canot be specified to be nonlethal.  Piercing, Slashing, and all other types of elemental damage can be made nonlethal if and only if the damage was dealt as the result of an attack roll.  If such an attack reduces the target to 0, the creature drops unconscious and unstable, making death saving throws according to player rules.  PCs at 0 HP will follow RAW for the most part, with one exception - if an NPC makes a nonlethal Bludgeoning or Psychic attack against a PC and they drop to 0, the PC will be immediately stable.
 
@@ -26,7 +46,7 @@ As in RAW, at least one hand must still be free to provide somatic components fo
 
 ## Enchanting
 Enchanting an item first requires that you understand the formula for putting that enchantment on that item and are able to cast the spell you are trying to enchant the item with.
-Cantrip enchantments are incredibly cheap and take only a single ritual that takes an hour + the casting time of the spell (though it does require you know the spell you're enchanting with)
+Cantrip enchantments are incredibly cheap and usually only take a single ritual that takes an hour + the casting time of the spell (though it does require you know the spell you're enchanting with)
 Higher level spells are more difficult, and require more than one performance of the enchanting ritual (potentially becoming ridiculously expensive for spells which require costly material components)
 Most of the uses of the ritual will be to prepare the item to recieve the enchantment in a final ritual potentially taking way longer (anywhere from 3 to 13 hours)
 There is no limit to how many times you can perform the preparation ritual other than spell slots and time
@@ -35,7 +55,7 @@ Consumables such as scrolls and potions are similarly easy to craft
 For more information, I have a whole goddamn homebrewed encyclopedia to reference on this one
 
 ## Disenchanting
-It is possible to learn an item's enchantment formula by disenchanting it if you are proficient in Arcana.  This will most likely destroy the item, and is not guaranteed to actually teach you the full formula.
+It is possible to learn an item's enchantment formula by disenchanting it if you are proficient in Arcana.  This will most likely destroy the item beyond repair, and is not guaranteed to actually teach you the full formula.
 If you wish to get rid of the enchantment on an item without breaking it, there are two ways:
 * Performing the enchantment ritual with the Dispel Magic spell, and making an Arcana check with a DC of 10 + spell level
 * Breaking the object and fixing it again, either with Mending or just plain glue 
@@ -64,7 +84,7 @@ Spells can be prepared soon after the end of a long rest or during a short rest.
 ## Extra Spells
 All spells listed on https://donjon.bin.sh/5e/spells/ are canon (both from the PHB and EE), and can be used by PCs and NPCs alike.  The only exception is 9th level spells, which don't exist in this world yet.  If any character reaches the point where they have a 9th level spell slot, they are among the most powerful casters in the world.
 
-## Cantrips as 1st level spells
+## Cantrips as 1st Level Spells
 Apart from cantrips that have been selected via RAW, the cantrip list for each class can be treated as an extension of the class' first level spell list.
 
 ## Social Encounters
@@ -92,5 +112,5 @@ Travel on roads halves travel time.  Travel though difficult terrain (hills, for
 * Detect Magic: Does not give the 'school' of magic, it instead gives the 'general nature' of the magic.  Sometimes this can be specific enough to identify the enchantment, other times it's more generic and useless than the school.
 * Control Flames: Can be used on magical flames under the caster's control
 
-## Feat changes
+## Feat Changes
 * Lucky: Whenever more than one d20 was rolled for something, the circumstances of the original roll must be finalized before choosing between the original die and the Luck die.  For example, if you roll with disadvantage and then use Luck, you cannot choose the higher of the two original rolls - you have to choose between the lower of the original ones or the Luck die.
