@@ -15,6 +15,7 @@
 [Preparing Spells](https://github.com/jManAscending/DnDHouseRules#preparing-spells)  
 [Extra Spells](https://github.com/jManAscending/DnDHouseRules#extra-spells)  
 [Cantrips as 1st Level Spells](https://github.com/jManAscending/DnDHouseRules#cantrips-as-1st-level-spells)  
+[Scrolls](https://github.com/jManAscending/DnDHouseRules#scrolls)  
 [Social Encounters](https://github.com/jManAscending/DnDHouseRules#social-encounters)  
 [Reviving Creatures](https://github.com/jManAscending/DnDHouseRules#reviving-creatures)  
 [Travel Paces](https://github.com/jManAscending/DnDHouseRules#travel-paces)  
@@ -89,6 +90,12 @@ All spells listed on https://donjon.bin.sh/5e/spells/ are canon (both from the P
 
 ## Cantrips as 1st Level Spells
 Apart from cantrips that have been selected via RAW, the cantrip list for each class can be treated as an extension of the class' first level spell list.
+
+## Scrolls
+You do not need to have a spell on your class' spell list in order to actually use a scroll with that spell.  However, magic is broken down into two categories: Divine and Arcane.  If you are a Divine caster, you can use any spell scroll scribed by another Divine caster.  If you are an Arcane caster, you can use any scroll scribed by another Arcane caster.  
+Wizards, Sorcerers, Warlocks, Bards, Artificers, Eldritch Knights, and Arcane Tricksters are Arcane casters.  
+Druids, Rangers, Clerics, and Paladins are Divine casters.  
+If you do not have a spell slot high enough to cast a spell on a scroll, you still need to roll a spellcasting check to use it.
 
 ## Social Encounters
 NPCs and PCs will almost never roll for Persuation against PCs.  Instead, PCs have to be persuaded by actually persuading the character's player.  The only exception to this is if the PC is Charmed or under the influence of the Friends cantrip, in which case a Persuation check can be made without advantage.  Both PCs and NPCs will only have to roll for Deception when contested by another character's active Insight check.
