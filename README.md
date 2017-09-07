@@ -114,13 +114,15 @@ Travel on roads halves travel time.  Travel though difficult terrain (hills, for
 
 ## Specific Spell Changes
 * Magic Missile: If prepared as a first level spell, it can be cast as an Action without using a spell slot.  Casting it this way creates only a single dart.
-* Teleportation Circle: No longer completely consumes the chalk and ink, but the chalk and ink lasts for at most 50 castings before they must be replaced (basically making it 1 gp per cast).  Permanent Circles can be created using the homebrewed Enchantment rules (likely requiring up to about 85 casts of the spell, each one in an hour-long ritual except the last one which is 7 hours long, costing around 85 gp) or by RAW (casting it every day for a year, each cast taking 1 minute and in total costing around 365 gp)
-* Forbiddance: Similar to TC, can be made permanent either via the homebrew system (taking up to about 148 castings, but not consuming the components) or by RAW (casting it 30 days in a row and having the spell absorb the components)
+* Teleportation Circle: No longer completely consumes the chalk and ink, but the chalk and ink lasts for at most 50 castings before they must be replaced (basically making it 1 gp per cast).  Permanent Circles can be created using the homebrewed Enchantment rules or RAW
+* Forbiddance: Similar to TC, can be made permanent either via the homebrew system or RAW
 * Plane Shift: Attuning the forked rod to other planes is a very precise process that requires either good research or experimentation.  The resonant frequency of the Material Plane is known by high-level casters and not that difficult to research if you know where to look, but the resonant frequency of other planes is still being studied.  The rod itself costs about 250 gp in materials and a successful Tinkering check to craft, but cannot be crafted without knowledge of the proper frequency for the target plane, which cannot be studied from anywhere but that plane.  The more obscure the plane is and the further it is from the Prime Material, the more difficult the Tinkering check to craft the rod.
 * Armor of Agathys: While you have the temporary HP, you also have resistance to cold damage.
 * Identify: Can identify curses if and only if the cursed item was enchanted with an equal or lower spell level than the one used to cast Identify.  Ritual casting Identify makes it count as 1st level.
 * Detect Magic: Does not give the 'school' of magic, it instead gives the 'general nature' of the magic.  Sometimes this can be specific enough to identify the enchantment, other times it's more generic and useless than the school.
 * Control Flames: Can be used on magical flames under the caster's control
+* Find Steed: Steed can take the form of any Large or Medium Beast of CR 1 or lower, with no Fly or Swim speed, and that the caster has seen before.
+* Find Familiar: Familiar can take the form of any Tiny or Small CR 0 Beast that the caster has seen before
 
 ## Feat Changes
 * Lucky: Whenever more than one d20 was rolled for something, the circumstances of the original roll must be finalized before choosing between the original die and the Luck die.  For example, if you roll with disadvantage and then use Luck, you cannot choose the higher of the two original rolls - you have to choose between the lower of the original ones or the Luck die.
