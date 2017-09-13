@@ -123,7 +123,7 @@ Travel on roads halves travel time.  Travel though difficult terrain (hills, for
 * Control Flames: Can be used on magical flames under the caster's control
 * Find Steed: Steed can take the form of any Large or Medium Beast of CR 1 or lower, with no Fly or Swim speed, and that the caster has seen before.
 * Find Familiar: Familiar can take the form of any Tiny or Small CR 0 Beast that the caster has seen before
-* Barksin: Does not require concentration
+* Barkskin: Does not require concentration
 * Stoneskin: Grants resistance to non-siege Bludgeoning/Piercing/Slashing damage, and grants a damage threshold of 5 for all types of damage except for Psychic, Poison, and Force
 
 ## Feat Changes
