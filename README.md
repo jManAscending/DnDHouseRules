@@ -123,6 +123,8 @@ Travel on roads halves travel time.  Travel though difficult terrain (hills, for
 * Control Flames: Can be used on magical flames under the caster's control
 * Find Steed: Steed can take the form of any Large or Medium Beast of CR 1 or lower, with no Fly or Swim speed, and that the caster has seen before.
 * Find Familiar: Familiar can take the form of any Tiny or Small CR 0 Beast that the caster has seen before
+* Barksin: Does not require concentration
+* Stoneskin: Grants resistance to non-siege Bludgeoning/Piercing/Slashing damage, and grants a damage threshold of 5 for all types of damage except for Psychic, Poison, and Force
 
 ## Feat Changes
 * Lucky: Whenever more than one d20 was rolled for something, the circumstances of the original roll must be finalized before choosing between the original die and the Luck die.  For example, if you roll with disadvantage and then use Luck, you cannot choose the higher of the two original rolls - you have to choose between the lower of the original ones or the Luck die.
