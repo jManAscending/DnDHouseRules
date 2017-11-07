@@ -14,10 +14,14 @@
 [Cursed Items](https://github.com/jManAscending/DnDHouseRules#cursed-items)  
 [Preparing Spells](https://github.com/jManAscending/DnDHouseRules#preparing-spells)  
 [Extra Spells](https://github.com/jManAscending/DnDHouseRules#extra-spells)  
+[Unearthed Arcana](https://github.com/jManAscending/DnDHouseRules#unearthed-arcana)  
 [Cantrips as 1st Level Spells](https://github.com/jManAscending/DnDHouseRules#cantrips-as-1st-level-spells)  
 [Scrolls](https://github.com/jManAscending/DnDHouseRules#scrolls)  
 [Social Encounters](https://github.com/jManAscending/DnDHouseRules#social-encounters)  
+[Companion Creatures](https://github.com/jManAscending/DnDHouseRules#companion-creatures)  
+[Fallen Classes](https://github.com/jManAscending/DnDHouseRules#fallen-classes)  
 [Reviving Creatures](https://github.com/jManAscending/DnDHouseRules#reviving-creatures)  
+[Magic Item Types](https://github.com/jManAscending/DnDHouseRules#magic-item-types)  
 [Travel Paces](https://github.com/jManAscending/DnDHouseRules#travel-paces)  
 [Specific Spell Changes](https://github.com/jManAscending/DnDHouseRules#specific-spell-changes)  
 [Feat Changes](https://github.com/jManAscending/DnDHouseRules#feat-changes)  
@@ -88,20 +92,33 @@ Spells can be prepared soon after the end of a long rest or during a short rest.
 ## Extra Spells
 All spells listed on https://donjon.bin.sh/5e/spells/ are canon (both from the PHB and EE), and can be used by PCs and NPCs alike.  The only exception is 9th level spells, which don't exist in this world yet.  If any character reaches the point where they have a 9th level spell slot, they are among the most powerful casters in the world.
 
+## Unearthed Arcana
+Any UA material that has been used by at least one NPC is fair game for PCs to use as well.  Otherwise, UA material requires DM approval.
+
 ## Cantrips as 1st Level Spells
 Apart from cantrips that have been selected via RAW, the cantrip list for each class can be treated as an extension of the class' first level spell list.
 
 ## Scrolls
 You do not need to have a spell on your class' spell list in order to actually use a scroll with that spell.  However, magic is broken down into two categories: Divine and Arcane.  If you are a Divine caster, you can use any spell scroll scribed by another Divine caster.  If you are an Arcane caster, you can use any scroll scribed by another Arcane caster.  
-Wizards, Sorcerers, Warlocks, Bards, Artificers, Eldritch Knights, and Arcane Tricksters are Arcane casters.  
+Wizards, Sorcerers, Bards, Artificers, Eldritch Knights, and Arcane Tricksters are Arcane casters.  
 Druids, Rangers, Clerics, and Paladins are Divine casters.  
+Warlocks can be either, depending on Patron (but usually are Divine).  
 If you do not have a spell slot high enough to cast a spell on a scroll, you still need to roll a spellcasting check to use it.
 
 ## Social Encounters
 NPCs and PCs will almost never roll for Persuation against PCs.  Instead, PCs have to be persuaded by actually persuading the character's player.  The only exception to this is if the PC is Charmed or under the influence of the Friends cantrip, in which case a Persuation check can be made without advantage.  Both PCs and NPCs will only have to roll for Deception when contested by another character's active Insight check.
 
+## Companion Creatures
+If you have a telepathic connection with a companion creature that you control and that creature rolls initiative at the same time as you, that creature does not roll initiative for itself, and instead acts on your turn.
+
+## Fallen Classes
+If a character loses the favor of an entity that granted them powers and has them stripped away, all the character's levels in the relevent class will be replaced by one level of a "Fallen x" class, and their XP will be reset down to the minimum amount for their new character level.  The "Fallen x" class will include every nonmagical feature the character had gained up until that point, including HP and Hit Dice, but not including Proficiency Bonus.  Subsequently gained levels in other classes will not grant new HP or Hit Dice until the character has surpassed the character level at which they fell.  If the character does not already have levels in any other classes at the time they fall, they do not need to meet the prerequisites to multiclass into any other class, but must still have a valid roleplay reason to multiclass.
+
 ## Reviving Creatures
 Spells which bring a lost soul back from the Astral Plane will automatically succeed if and only if the soul is able and willing to return.  If the soul is not willing, a spellcasting ability check must be performed by the caster against the deceased creature's passive WIS save.  On a success, the soul will be forced back by the terms of the spell.  If this check fails or if the soul is not available in the Astral Plane to be retrieved, the spell consumes its components and ends without any effect.
+
+## Magic Item Types (setting specific)
+There are three types of magic items: Artifacts, Relics, and Modern Items.  Artifacts are practically indestructable and very powerful, but are extremely rare (for example, the Frozen Stone).  Relics are magic items enchanted during the crafting process, and can produce a wide range of effects (for example, the Bag of Holding).  Modern Items are enchanted post-crafting through a series of rituals, and usually just recreate a spell's effects directly (for example, Blade Warded Armor).  All enchanting/disenchanting rules in this list apply solely to Modern Items.
 
 ## Travel Paces
 Pace | Speed | Effects
@@ -125,6 +142,9 @@ Travel on roads halves travel time.  Travel though difficult terrain (hills, for
 * Find Familiar: Familiar can take the form of any Tiny or Small CR 0 Beast that the caster has seen before
 * Barkskin: Does not require concentration
 * Stoneskin: Grants resistance to non-siege Bludgeoning/Piercing/Slashing damage, and grants a damage threshold of 5 for all types of damage except for Psychic, Poison, and Force
+* Sending: If you use the Sending spell to contact someone who knows you by a fake identity, they interpret it as coming from the identity they know.  If the recipent knows multiple identities belonging to the caster but does not know that they are the same person, the caster can decide which identity the Sending spell will use.
 
 ## Feat Changes
 * Lucky: Whenever more than one d20 was rolled for something, the circumstances of the original roll must be finalized before choosing between the original die and the Luck die.  For example, if you roll with disadvantage and then use Luck, you cannot choose the higher of the two original rolls - you have to choose between the lower of the original ones or the Luck die.
+* Diplomat (UA): replace the third feature with "You learn the Charm Person spell, and can cast it once per long rest without expending a spell slot.  Charisma is your spellcasting ability for this spell."
+* Menacing (UA): replace the third feature with "You learn the Cause Fear (UA) spell, and can cast it once per long rest without expending a spell slot.  Charisma is your spellcasting ability for this spell."
