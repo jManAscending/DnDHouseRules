@@ -7,7 +7,8 @@
 [Ranged Dual Wielding](https://github.com/jManAscending/DnDHouseRules#ranged-dual-wielding)  
 [Enchanting](https://github.com/jManAscending/DnDHouseRules#enchanting-setting-specific)  
 [Disenchanting](https://github.com/jManAscending/DnDHouseRules#disenchanting-setting-specific)  
-[Actions and Spells in Combat](https://github.com/jManAscending/DnDHouseRules#actions-and-spells-in-combat)  
+[Action Economy](https://github.com/jManAscending/DnDHouseRules#action-economy)  
+[Spells in Combat](https://github.com/jManAscending/DnDHouseRules#spells-in-combat)  
 [Potions](https://github.com/jManAscending/DnDHouseRules#potions)  
 [Identifying Magic Items](https://github.com/jManAscending/DnDHouseRules#identifying-magic-items)  
 [Cursed Items](https://github.com/jManAscending/DnDHouseRules#cursed-items)  
@@ -55,13 +56,15 @@ If you wish to get rid of the enchantment on an item without breaking it, there 
 * Performing the enchantment ritual with the Dispel Magic spell, and making an Arcana check with a DC of 10 + spell level
 * Breaking the object and fixing it again, either with Mending or just plain glue 
 
-## Actions and Spells in Combat
+## Action Economy
 It is possible to use an Action on your turn to use an ability that would normally be a Bonus Action or Reaction, and it is possible to use your Bonus Action on your turn to use an ability that would normally be your Reaction.  
+
+## Spells in Combat
 If you cast more than one spell on your turn, their combined level must not add up to more than the highest level spell slot you have.  Cantrips count as level 0.
 
 ## Potions
 Drinking a potion in combat is a bonus action.  Feeding a Potion to another character is an Action.  
-If you are currently under the effect of at least one potion or if you have already drank a potion this turn, drinking another will require a Consititution saving throw with a DC equal to 10 + the combined spell levels of all relevent potions.  On a success, the new potion takes effect.  On a failure you throw up, can't benefit from the new potion, and attacks against you have advantage until the start of your next turn.
+If you are currently under the effect of at least one potion, drinking another non-instant potion will require a Consititution saving throw with a DC equal to 10 + the combined spell levels of all relevent potions.  On a success, the new potion takes effect.  On a failure you throw up, can't benefit from the new potion, and attacks against you have advantage until the start of your next turn.
 
 ## Identifying Magic Items
 An Arcana check can reveal whether an item has magical properties or not, and sometimes part of the nature of the magic if the effects are readily apparent.  Focusing on an item over a short rest does not reveal the nature of the item unless you attune to it.  
@@ -131,5 +134,6 @@ Travel on main roads halves travel time.  Travel though difficult terrain (hills
 
 ## Feat Changes
 * Lucky: Whenever more than one d20 was rolled for something, the circumstances of the original roll must be finalized before choosing between the original die and the Luck die.  For example, if you roll with disadvantage and then use Luck, you cannot choose the higher of the two original rolls - you have to choose between the lower of the original ones or the Luck die.
-* Diplomat (UA): replace the third feature with "You learn the Charm Person spell, and can cast it once per long rest without expending a spell slot.  Charisma is your spellcasting ability for this spell."
-* Menacing (UA): replace the third feature with "You learn the Cause Fear (UA) spell, and can cast it once per long rest without expending a spell slot.  Charisma is your spellcasting ability for this spell."
+* Tavern Brawler: With this feat, your Unarmed Strikes have the Finesse property.
+* Diplomat (UA): replace the third feature with "You learn the Charm Person spell, and can cast it at first level once per long rest without expending a spell slot.  Charisma is your spellcasting ability for this spell."
+* Menacing (UA): replace the third feature with "You learn the Cause Fear spell, and can cast it at first level once per long rest without expending a spell slot.  Charisma is your spellcasting ability for this spell."
