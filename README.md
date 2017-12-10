@@ -131,6 +131,7 @@ Travel on main roads halves travel time.  Travel though difficult terrain (hills
 * Barkskin: Does not require concentration
 * Stoneskin: Grants resistance to non-siege Bludgeoning/Piercing/Slashing damage, and grants a damage threshold of 5 for all types of damage except for Psychic and Poison.
 * Sending: If you use the Sending spell to contact someone who knows you by a fake identity, they interpret it as coming from the identity they know.  If the recipent knows multiple identities belonging to the caster but does not know that they are the same person, the caster can decide which identity the Sending spell will use.
+* Healing Spirit: Moving the spirit is a free action on your turn; healing requires a Bonus Action.
 
 ## Feat Changes
 * Lucky: Whenever more than one d20 was rolled for something, the circumstances of the original roll must be finalized before choosing between the original die and the Luck die.  For example, if you roll with disadvantage and then use Luck, you cannot choose the higher of the two original rolls - you have to choose between the lower of the original ones or the Luck die.
