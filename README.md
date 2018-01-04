@@ -22,6 +22,8 @@
 [Fallen Classes](https://github.com/jManAscending/DnDHouseRules#fallen-classes)  
 [Magic Item Types](https://github.com/jManAscending/DnDHouseRules#magic-item-types-setting-specific)  
 [Travel Paces](https://github.com/jManAscending/DnDHouseRules#travel-paces)  
+[Fall Damage](https://github.com/jManAscending/DnDHouseRules#fall-damage)  
+[Inspiration](https://github.com/jManAscending/DnDHouseRules#inspiration)  
 [Specific Spell Changes](https://github.com/jManAscending/DnDHouseRules#specific-spell-changes)  
 [Feat Changes](https://github.com/jManAscending/DnDHouseRules#feat-changes)  
 
@@ -116,6 +118,20 @@ Standard|1 hex/day|cannot stealth
 Fast|2 hexes/day|-5 to passive perception, cannot stealth
 
 Travel on main roads halves travel time.  Travel though difficult terrain (hills, forest) doubles travel time if not on a main road.  Ships and Airships cannot travel at a Fast pace except with magical help.
+
+## Fall Damage
+Falling damage compounds: 1d6 per 10ft fallen, per 10ft fallen. (Example: falling 40ft will deal 4d6+3d6+2d6+1d6)
+
+The maximum remains at 200ft, or 210d6.
+
+If your speed is greater than 0 when you hit the ground, you can make an Acrobatics check (DC=10+{feet fell}/10) to reduce your effective fall distance by 10ft before damage is rolled.
+
+## Inspiration
+When you spend your inspiration, you can get an ability or spell that your class will have in the next two levels, for up to one round.  If you are multiclassed, you instead choose an ability or spell one level ahead from any of your classes.  
+
+If you are planning to multiclass with your next level, you may choose from the level 1 abilities of that class, but must use your next level to multiclass.  Similarly, if you use an ability that you would have had to choose when leveling, you are locked into that choice for when you level up, and cannot spend future inspiration on conflicting options.
+
+Alternatively, you can still spend it as a free use of the Lucky feat.
 
 ## Specific Spell Changes
 * Magic Missile: If prepared as a first level spell, it can be cast as an Action without using a spell slot.  Casting it this way creates only a single dart.
