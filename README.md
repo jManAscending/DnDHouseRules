@@ -131,8 +131,6 @@ When you spend your inspiration, you can get an ability or spell that your class
 
 If you are planning to multiclass with your next level, you may choose from the level 1 abilities of that class, but must use your next level to multiclass.  Similarly, if you use an ability that you would have had to choose when leveling, you are locked into that choice for when you level up, and cannot spend future inspiration on conflicting options.
 
-Alternatively, you can still spend it as a free use of the Lucky feat.
-
 ## Specific Spell Changes
 * Magic Missile: If prepared as a first level spell, it can be cast as an Action without using a spell slot.  Casting it this way creates only a single dart.
 * Teleportation Circle: No longer completely consumes the chalk and ink, but the chalk and ink lasts for at most 50 castings before they must be replaced (basically making it 1 gp per cast).  Permanent Circles can be created using the homebrewed Enchantment rules or RAW
