@@ -146,6 +146,7 @@ If you are planning to multiclass with your next level, you may choose from the 
 * Stoneskin: Grants resistance to non-siege Bludgeoning/Piercing/Slashing damage, and grants a damage threshold of 5 for all types of damage except for Psychic and Poison.
 * Sending: If you use the Sending spell to contact someone who knows you by a fake identity, they interpret it as coming from the identity they know.  If the recipent knows multiple identities belonging to the caster but does not know that they are the same person, the caster can decide which identity the Sending spell will use.
 * Healing Spirit: Moving the spirit is a free action on your turn; healing requires a Bonus Action.
+* Ceremony: When cast on a sentient target, invokes a mission/journey within the target(s)' mind.  The benefits of the spell only happen if this mission is successful.  If there is a skill check involved in the casting, the skill check's results determine the difficulty of the mission.  In addition, it is possible to use the Ceremony spell for more than just the listed uses, though the benefits depend entirely on DM interpretation of the situation.
 
 ## Feat Changes
 * Lucky: Whenever more than one d20 was rolled for something, the circumstances of the original roll must be finalized before choosing between the original die and the Luck die.  For example, if you roll with disadvantage and then use Luck, you cannot choose the higher of the two original rolls - you have to choose between the lower of the original ones or the Luck die.
