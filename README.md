@@ -25,7 +25,7 @@
 [Fall Damage](https://github.com/jManAscending/DnDHouseRules#fall-damage)  
 [Inspiration](https://github.com/jManAscending/DnDHouseRules#inspiration)  
 [Downtime](https://github.com/jManAscending/DnDHouseRules#downtime)  
-[Downtime](https://github.com/jManAscending/DnDHouseRules#multiclassing)  
+[Multiclassing](https://github.com/jManAscending/DnDHouseRules#multiclassing)  
 [Specific Spell Changes](https://github.com/jManAscending/DnDHouseRules#specific-spell-changes)  
 [Feat Changes](https://github.com/jManAscending/DnDHouseRules#feat-changes)  
 
