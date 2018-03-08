@@ -24,6 +24,8 @@
 [Travel Paces](https://github.com/jManAscending/DnDHouseRules#travel-paces)  
 [Fall Damage](https://github.com/jManAscending/DnDHouseRules#fall-damage)  
 [Inspiration](https://github.com/jManAscending/DnDHouseRules#inspiration)  
+[Downtime](https://github.com/jManAscending/DnDHouseRules#downtime)  
+[Downtime](https://github.com/jManAscending/DnDHouseRules#multiclassing)  
 [Specific Spell Changes](https://github.com/jManAscending/DnDHouseRules#specific-spell-changes)  
 [Feat Changes](https://github.com/jManAscending/DnDHouseRules#feat-changes)  
 
@@ -130,6 +132,25 @@ If your speed is greater than 0 when you hit the ground, you can make an Acrobat
 When you spend your inspiration, you can get an ability or spell that your class will have in the next two levels, for up to one round.  If you are multiclassed, you instead choose an ability or spell one level ahead from any of your classes.  
 
 If you are planning to multiclass with your next level, you may choose from the level 1 abilities of that class, but must use your next level to multiclass.  Similarly, if you use an ability that you would have had to choose when leveling, you are locked into that choice for when you level up, and cannot spend future inspiration on conflicting options.
+
+## Downtime
+You can use downtime days to gain abilities beyond those listed in your class.  You must have some roleplay reason to want the abilities, a roleplay justification for how you're leanring, and must describe at least partially what you are doing during downtime to train.  You may train on your own for free (minus required materials), but the training will go faster if you train under someone who has the feature you are training to get.  Each downtime day requires approximately 8 hours of uninturrupted training.
+
+Ability | Days Required | Comments
+-----|-------|--------
+Weapon Proficiency|30 days|none
+Language|~40 days|time may vary
+Skill/Tool Proficiency|80 days|none
+Skill/Tool Expertise|120 days|requires skill proficiency
+Armor Proficiency|120 days|requires previous tier proficiency
+Feat|240 days|none
+Level Up|variable|proficiency bonus\*100 XP per downtime day
+Other Class Feature|variable|Depends on DM judgement calls
+
+Each downtime day training under someone with proficiency will count as two downtime days towards the total.  If they have expertise in the tool/skill, it will count triple, but likely cost more.  Prices may vary depending on in-story context.  If you want a specific class feature, it will require training under someone of the relevent class.
+
+## Multiclassing
+If you want to multiclass, please let me know well in advance, and I will leave bread crumbs here and there for you.  You will need a very solid roleplay reason to want to multiclass, and another solid roleplay excuse for how you will gain the new class features.  If you multiclass into any "learned" class, you will need to spend downtime training in your new class features.  In the time directly leading up to and after your multiclass, I will slowly give you the level one features of that class depending on how you roleplay it.
 
 ## Specific Spell Changes
 * Magic Missile: If prepared as a first level spell, it can be cast as an Action without using a spell slot.  Casting it this way creates only a single dart.
