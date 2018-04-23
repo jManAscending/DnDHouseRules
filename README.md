@@ -50,9 +50,9 @@ Cantrip enchantments are incredibly cheap and usually only take a single ritual 
 Higher level spells are more difficult, and require more than one performance of the enchanting ritual (potentially becoming ridiculously expensive for spells which require costly material components).  
 Most of the uses of the ritual will be to prepare the item to recieve the enchantment in a final ritual potentially taking way longer (anywhere from 3 to 13 hours).  
 There is no limit to how many times you can perform the preparation ritual other than spell slots and time.  
-There is always a chance the final ritual will fuck up royally; the chance gets exponentially higher with high level spells and steadily lower with more casts of the preparation ritual.  
+There is always a chance the final ritual will fail; the chance gets exponentially higher with high level spells and steadily lower with more casts of the preparation ritual.  
 Consumables such as scrolls and potions are similarly easy to craft.  
-For more information, I have a whole goddamn homebrewed encyclopedia to reference on this one.
+To enchant anything, you need Enchanting Tools.  Wizards and Artificers have proficiency for free, any other character can optionally choose it as an Artisan Tool proficiency with their class or background.
 
 ## Disenchanting (setting specific)
 It is possible to learn an item's enchantment formula by disenchanting it if you are proficient in Arcana.  This will most likely destroy the item beyond repair, and is not guaranteed to actually teach you the full formula.  
