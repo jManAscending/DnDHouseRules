@@ -172,5 +172,7 @@ If you want to multiclass, please let me know well in advance, and I will leave 
 ## Feat Changes
 * Lucky: Whenever more than one d20 was rolled for something, the circumstances of the original roll must be finalized before choosing between the original die and the Luck die.  For example, if you roll with disadvantage and then use Luck, you cannot choose the higher of the two original rolls - you have to choose between the lower of the original ones or the Luck die.
 * Tavern Brawler: With this feat, your Unarmed Strikes have the Finesse property.
+* Sharpshooter: Instead of -5/+10, the tradeoff is -prof/+ 1d{2x prof} (e.g. -2/+1d4, -3/+1d6, etc.)
+* Great Weapon Master: Instead of -5/+10, the tradeoff is -prof/+1d{2x prof} (e.g. -2/+1d4, -3/+1d6, etc.)
 * Diplomat (UA): replace the third feature with "You learn the Charm Person spell, and can cast it at first level once per long rest without expending a spell slot.  Charisma is your spellcasting ability for this spell."
 * Menacing (UA): replace the third feature with "You learn the Cause Fear spell, and can cast it at first level once per long rest without expending a spell slot.  Charisma is your spellcasting ability for this spell."
