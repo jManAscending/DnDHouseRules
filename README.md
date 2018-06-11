@@ -141,9 +141,9 @@ The ranged weapon does not have to be Light if the wielder has the Dual Wielder 
 The Crossbow Expert feat does not apply to guns.  
 
 ## Scrolls
-There are 3 known types of magic in the world that can be inscribed in a spell scroll: Arcane, Divine, and Natural.  If you can cast at least one spell of first level or higher, you can use any spell scroll of the type of magic of that spell.  Which type of caster you are depends on how you got your magic.  Ther are plenty of other, rarer types of magic as well, but those cannot be inscribed as scrolls.
+There are 3 known types of magic in the world that can be inscribed in a spell scroll: Arcane, Divine, and Natural.  If you can cast at least one spell of first level or higher, you can use any spell scroll of the same type of magic.  Which type of caster you are depends on how you got your magic.  There are plenty of rarer types of magic as well, but those generally cannot be inscribed as scrolls.
 
-If you have proficiency in Arcana, you can use Arcane spell scrolls even if you do not know any first level Arcane spells.  If you do not know any first level Arcane spells, you must make the Arcana check to use it with disadvantage.  You must have proficiency in Arcana to scribe a scroll of any kind.
+If you have proficiency in Arcana, you can use Arcane spell scrolls even if you do not know any first level Arcane spells.  If you do not know any Arcane spells, you must make an Arcana check to use it, with disadvantage.  You must have proficiency in Arcana to scribe a scroll of any kind.
 
 ## Spells Per Turn
 If you cast more than one spell on your turn, their combined level must not add up to more than the highest level spell slot you have.  Cantrips count as level 0.
