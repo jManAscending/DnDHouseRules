@@ -62,11 +62,11 @@ Ability | Points Required | Comments
 -----|-------|--------
 Weapon Proficiency|30|none
 Firearm Proficiency|15|applies to firing, repairing requires tools
-Language|60|
+Language|60|none
 Skill/Tool Proficiency|80|none
 Skill/Tool Expertise|120|requires skill proficiency
 Armor Proficiency|120|requires previous tier proficiency
-Feat|240|none
+Feat|240|you may get portions of the feat over time
 Other Class Feature|variable|Depends on DM judgement calls
 
 Each downtime day training under someone with proficiency will double the points you gain for that day.  If they have expertise in the tool/skill, it will count triple.  Prices for training may vary depending on in-story context.  If you want a specific class feature, it will require training under someone of the relevant class.
