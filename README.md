@@ -16,6 +16,7 @@
 [Fall Damage](https://github.com/jManAscending/DnDHouseRules#fall-damage)  
 [Fallen Classes](https://github.com/jManAscending/DnDHouseRules#fallen-classes)  
 [Firearms](https://github.com/jManAscending/DnDHouseRules#firearms)  
+[Hit Points](https://github.com/jManAscending/DnDHouseRules#hit-points)  
 [Identifying Magic Items](https://github.com/jManAscending/DnDHouseRules#identifying-magic-items)  
 [Incapacitation](https://github.com/jManAscending/DnDHouseRules#incapacitation)  
 [Inspiration](https://github.com/jManAscending/DnDHouseRules#inspiration)  
@@ -101,6 +102,9 @@ If a Paladin, Cleric, or Warlock loses the favor of an entity that granted them 
 Firearms in this campaign are based around the type of firearm used in Matt's Gunslinger subclass.  For right now, the firearm table in the 1.3 Gunslinger sheet is the canon firearm table for the setting.  The only difference between Artificer-made and Gunslinger-made firearms is the use of thunder magic instead of gunpowder.
 
 A large part of the reason guns are becoming popular is the fact that it is much easier to learn how to use them than other ranged weapons, some of which can take a lifetime of training to use effectively.  To reflect this, firearm proficiency can be gained in half the time as other weapon proficiencies, though repairing them after a misfire still requires proficiency in an appropriate tool.
+
+## Hit Points
+When rolling a hit die on a level up, if the die lands on a 1, you may reroll it until it lands on anything else.
 
 ## Identifying Magic Items
 An Arcana check may reveal whether an item has magical properties or not, and sometimes part of the nature of the magic if the effects are readily apparent.  Focusing on an item over a short rest does not reveal the nature of the item unless you attune to it.  
