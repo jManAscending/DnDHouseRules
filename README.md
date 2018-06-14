@@ -27,6 +27,7 @@
 [Potions](https://github.com/jManAscending/DnDHouseRules#potions)  
 [Preparing Spells](https://github.com/jManAscending/DnDHouseRules#preparing-spells)  
 [Ranged Dual Wielding](https://github.com/jManAscending/DnDHouseRules#ranged-dual-wielding)  
+[Resurrection](https://github.com/jManAscending/DnDHouseRules#resurrection)  
 [Scrolls](https://github.com/jManAscending/DnDHouseRules#scrolls)  
 [Spells Per Turn](https://github.com/jManAscending/DnDHouseRules#spells-per-turn)  
 [Surprise Rounds](https://github.com/jManAscending/DnDHouseRules#surprise-rounds)  
@@ -143,6 +144,9 @@ Spells can be prepared soon after the end of a long rest or during a short rest.
 One-handed Light ranged weapons can be wielded in the off hand, and a bonus action can be used to attack as if using the Two Weapon Fighting mechanics.  
 The ranged weapon does not have to be Light if the wielder has the Dual Wielder feat, but the +1 to AC will not apply unless both weapons are melee weapons.  
 The Crossbow Expert feat does not apply to guns.  
+
+## Resurrection
+After being resurrected via Revivify, Raise Dead, or similar magic, you automatically have one failed death save.  After being resurrected twice, you have two permanently failed death saves.  After being resurrected for a third time, the next time you hit 0 HP, you die instantly and cannot be revived.  This restriction does not apply to Zealot Barbarians, the Reincarnate spell, or Undead.
 
 ## Scrolls
 There are 3 known types of magic in the world that can be inscribed in a spell scroll: Arcane, Divine, and Natural.  If you can cast at least one spell of first level or higher, you can use any spell scroll of the same type of magic.  Which type of caster you are depends on how you got your magic.  There are plenty of rarer types of magic as well, but those generally cannot be inscribed as scrolls.
