@@ -146,7 +146,7 @@ The ranged weapon does not have to be Light if the wielder has the Dual Wielder 
 The Crossbow Expert feat does not apply to guns.  
 
 ## Resurrection
-After being resurrected via Revivify, Raise Dead, or similar magic, you automatically have one failed death save.  After being resurrected twice, you have two permanently failed death saves.  After being resurrected for a third time, the next time you hit 0 HP, you die instantly and cannot be revived.  This restriction does not apply to Zealot Barbarians, the Reincarnate spell, or Undead.
+After being resurrected via Revivify, Raise Dead, or similar magic, you automatically have one failed death save.  After being resurrected twice, you have two permanently failed death saves.  After being resurrected for a third time, the next time you would normally be unconscious and unstable, you die instantly and cannot be revived.  This restriction does not apply to Zealot Barbarians, the Reincarnate spell, or Undead.
 
 ## Scrolls
 There are 3 known types of magic in the world that can be inscribed in a spell scroll: Arcane, Divine, and Natural.  If you can cast at least one spell of first level or higher, you can use any spell scroll of the same type of magic.  Which type of caster you are depends on how you got your magic.  There are plenty of rarer types of magic as well, but those generally cannot be inscribed as scrolls.
