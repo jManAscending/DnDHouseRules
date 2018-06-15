@@ -4,9 +4,9 @@
 ## Table of Contents
 [Action Economy](https://github.com/jManAscending/DnDHouseRules#action-economy)  
 [Cantrips](https://github.com/jManAscending/DnDHouseRules#cantrips)  
+[Character Creation](https://github.com/jManAscending/DnDHouseRules#character-creation)  
 [Companion Creatures](https://github.com/jManAscending/DnDHouseRules#companion-creatures)  
 [Cursed Items](https://github.com/jManAscending/DnDHouseRules#cursed-items)  
-[Custom Backgrounds](https://github.com/jManAscending/DnDHouseRules#custom-backgrounds)  
 [Crit Damage](https://github.com/jManAscending/DnDHouseRules#crit-damage)  
 [Downtime](https://github.com/jManAscending/DnDHouseRules#downtime)  
 [Drawing Weapons Magically](https://github.com/jManAscending/DnDHouseRules#drawing-weapons-magically)  
@@ -43,6 +43,15 @@ It is possible to use an Action on your turn to use an ability that would normal
 ## Cantrips
 Apart from cantrips that have been selected via RAW, the cantrip list for each class can be treated as an extension of the class' first level spell list.  In addition, if you have the Spellcasting feature, you may swap out one cantrip from that class each time you gain a level in the class that grants it.
 
+## Character Creation
+For your background, you may choose any two skill proficiencies and one tool (or weapon) proficiency, if you don't think the ones provided by whichever background you choose fit your character's backstory.  If you really want to, I can also create a custom background feature for you, but bear in mind that I have screwed that up before.
+
+When rolling stats, use 4d6 drop lowest 6 times, and reroll all 6 if the total is less than 70.
+
+You start with the equipment provided in your class features in addition to the starting wealth listed for your class.  If you are higher than level 3, you can also roll extra d4s equal to your proficiency bonus with your starting wealth.  You may spend starting wealth on anything in the PHB before the first session, and trade out starting equipment for extra starting wealth.
+
+You also start with a number of magic items equal to your proficiency bonus. One of these is a basic magic weapon, with a bonus to attack and damage equal to your proficiency bonus divided by 2, rounded down.  Another is a cantrip-enchanted magic item (ask the DM).  Beyond that, you can choose a magic item from the DMG, in increasing order of rarity (starting at Uncommon).  For example, with a proficiency bonus of +4, you gain a cantrip-based item, a +2 weapon, an Uncommon magic item, and a Rare magic item.
+
 ## Companion Creatures
 If you have a telepathic connection with a companion creature that you control and that creature rolls initiative at the same time as you, that creature does not roll initiative for itself, and instead acts on your turn.
 
@@ -50,9 +59,6 @@ If you have a telepathic connection with a companion creature that you control a
 Cursed items have two main properties that set them apart from other magic items:
 * They cannot be de-attuned (and sometimes cannot be physically removed) unless targeted by specific spells such as Remove Curse or Greater Restoration.
 * They may or may not have abilities that are not learned at the time of initial attunement.
-
-## Custom Backgrounds
-You may choose any two skill proficiencies and one tool (or weapon) proficiency, if you don't think the ones provided by whichever background you choose fit your character's backstory.  If you really want to, I can also create a custom background feature for you, but bear in mind that I have screwed that up before.
 
 ## Crit Damage
 If you choose to add dice from a resource or ability after you hit instead of before, the additional dice are not doubled if the attack is a critical.
