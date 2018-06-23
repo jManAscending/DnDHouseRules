@@ -183,6 +183,7 @@ Any spell or ability with a 7 day duration or cooldown has that time reduced to 
 * Druids, while wildshaped, count as dual type Humanoid/Beast.
 * Druid level 20 capstone: If at the start of your turn you have no uses of Wild Shape remaining and are not wildshaped, you regain 1 use of Wild Shape.
 * Monk level 20 capstone: If you have less than 4 ki points remaining, you can spend an Action to center yourself and regain 1 ki point.
+* Monk Weapons count as Finesse, including Unarmed Strikes
 * Rangers of the Beast or Hunter conclave can use either the PHB or Revised Ranger stats.  If you choose the PHB Beastmaster, the subclass is changed as follows:
   * Your beast companion rolls its own initiative, and has its own Movement, Action, Bonus Action, and Reaction, though it loses multiattack (if it has one) until level 11.
   * At level 7, you can command your beast companion using your Bonus Action.  Your beast companion can immediately use its Reaction to take the Attack, Dash, Dodge, or Help actions.
