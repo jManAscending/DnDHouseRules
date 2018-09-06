@@ -72,12 +72,14 @@ Weapon Proficiency|30|none
 Firearm Proficiency|15|applies to firing, repairing requires tools
 Language|60|none
 Skill/Tool Proficiency|80|none
-Skill/Tool Expertise|120|requires skill proficiency
+Skill/Tool Expertise|90|requires skill proficiency
 Armor Proficiency|120|requires previous tier proficiency
+Half-Feat|120|feats that also give +1 to a stat; you don't get the +1 from the feat
++1 to an Ability Score|120|up to a maximum of 20
 Feat|240|you may get portions of the feat over time
-Other Class Feature|variable|Depends on DM judgement calls
+Other Class Feature|variable|depends on DM judgement calls
 
-Each downtime day training under someone with proficiency will double the points you gain for that day.  If they have expertise in the tool/skill, it will count triple.  Prices for training may vary depending on in-story context.  If you want a specific class feature, it will require training under someone of the relevant class.
+Each downtime day training under someone with proficiency will double the points you gain for that day.  If they have expertise in the tool/skill and are teaching you mere proficiency, it will count triple.  Prices for training may vary depending on in-story context.  If you want a specific class feature, it will require training under someone of the relevant class.
 
 ## Drawing Weapons Magically
 If you have a class feature that says you can magically conjure or summon a weapon in your hand, it counts as a free object interaction, similar to actually drawing a weapon.
