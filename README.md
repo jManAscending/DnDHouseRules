@@ -106,11 +106,17 @@ All spells, all feats, and most backgrounds from the PHB, EE, XGE, and SCAG are 
 Items not from official WotC material require heavy DM scutiny to be accepted, and may be reworked on the fly.  
 
 ## Fall Damage
-Falling damage compounds: 1d6 per 10ft fallen, per 10ft fallen. (Example: falling 40ft will deal 4d6+3d6+2d6+1d6)
+Falling damage compounds: 1d6 bludgeoning per 10ft fallen, per 10ft fallen. (Example: falling 40ft will deal 4d6+3d6+2d6+1d6)
 
-The maximum remains at 200ft, or 210d6.
+The maximum depends on the creature's size.  The bigger you are, the harder you fall: 
+* Tiny creatures have a maximum of 20ft, or 3d6
+* Small creatures have a maximum of 50ft, or 15d6
+* Medium creatures have a maximum of 100ft, or 55d6
+* Large creatures have a a maximum of 150ft, or 120d6
+* Huge creatures have a maximum of 200ft, or 210d6
+* Gargantuan creatures have a maximum of 250ft, or 325d6
 
-If your speed is greater than 0 when you hit the ground, you can make a Dexterity saving throw (DC=10+{feet fell}/10) to reduce your effective fall distance by 10ft before damage is rolled.  Evasion does not apply to this save.
+If your speed is greater than 0 when you hit the ground, you can make a Dexterity saving throw (DC=10+{feet fell}/10) to reduce your effective fall distance by 10ft before damage is rolled.  Evasion does not apply to this save.  If you have resistance or immunity to nonmagical bludgeoning damage, it applies to fall damage unless specifically stated otherwise.
 
 ## Fallen Classes
 If a Paladin, Cleric, or Warlock loses the favor of an entity that granted them powers, the player may have those powers stripped away.  All the character's levels in the relevent class will be replaced by one level of a "Fallen x" class.  The "Fallen x" class will include every nonmagical class feature the character had gained up until that point, including HP and Hit Dice, but not including Proficiency Bonus.  Subsequently gained levels in other classes will not grant new HP or Hit Dice until the character has surpassed the character level at which they fell, nor will they grant ASIs until the new classes' ASIs outnumebr the number of ASIs they has under the first class.  If the character does not already have levels in any other classes at the time they fall, they do not need to meet the ability score prerequisites to multiclass into any other class, but must still have a valid roleplay reason to multiclass.
