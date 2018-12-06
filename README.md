@@ -35,6 +35,7 @@
 [Suffocation](https://github.com/jManAscending/DnDHouseRules#suffocation)  
 [Surprise Rounds](https://github.com/jManAscending/DnDHouseRules#surprise-rounds)  
 [Travel Paces](https://github.com/jManAscending/DnDHouseRules#travel-paces)  
+[Weapon Classifications](https://github.com/jManAscending/DnDHouseRules#weapon-classifications)  
 [Week Length](https://github.com/jManAscending/DnDHouseRules#week-length)  
 [Class Changes](https://github.com/jManAscending/DnDHouseRules#class-changes)  
 [Feat Changes](https://github.com/jManAscending/DnDHouseRules#feat-changes)  
@@ -76,8 +77,8 @@ You can use downtime to gain abilities beyond those listed in your class.  You m
 
 Ability | Points Required | Comments
 -----|-------|--------
-Weapon Proficiency|30|none
-Firearm Proficiency|15|applies to firing, repairing requires tools
+Simple Weapon Proficiency|15|none
+Martial Weapon Proficiency|30|none
 Language|60|none
 Skill/Tool Proficiency|80|none
 Skill/Tool Expertise|90|requires skill proficiency
@@ -119,12 +120,12 @@ The maximum depends on the creature's size.  The bigger you are, the harder you 
 If your speed is greater than 0 when you hit the ground, you can make a Dexterity saving throw (DC=10+{feet fell}/10) to reduce your effective fall distance by 10ft before damage is rolled.  Evasion does not apply to this save.  If you have resistance or immunity to nonmagical bludgeoning damage, it applies to fall damage unless specifically stated otherwise.
 
 ## Fallen Classes
-If a Paladin, Cleric, or Warlock loses the favor of an entity that granted them powers, the player may have those powers stripped away.  All the character's levels in the relevent class will be replaced by one level of a "Fallen x" class.  The "Fallen x" class will include every nonmagical class feature the character had gained up until that point, including HP and Hit Dice, but not including Proficiency Bonus.  Subsequently gained levels in other classes will not grant new HP or Hit Dice until the character has surpassed the character level at which they fell, nor will they grant ASIs until the new classes' ASIs outnumebr the number of ASIs they has under the first class.  If the character does not already have levels in any other classes at the time they fall, they do not need to meet the ability score prerequisites to multiclass into any other class, but must still have a valid roleplay reason to multiclass.
+If a Paladin, Cleric, or Warlock loses the favor of an entity that granted them powers, the player may have those powers stripped away.  All the character's levels in the relevent class will be replaced by one level of a "Fallen x" class.  The "Fallen x" class will include every nonmagical class feature the character had gained up until that point, including HP and Hit Dice, but not including Proficiency Bonus.  Subsequently gained levels in other classes will not grant new HP or Hit Dice until the character has surpassed the character level at which they fell, nor will they grant ASIs until the new classes' ASIs outnumber the ASIs they had under the first class.  If the character does not already have levels in any other classes at the time they fall, they do not need to meet the ability score prerequisites to multiclass into any other class, but must still have a valid roleplay reason to take the new class.
 
 ## Firearms
 Firearms in this campaign are based around the type of firearm used in Matt's Gunslinger subclass.  For right now, the firearm table in the 1.3 Gunslinger sheet is the canon firearm table for the setting.  The only difference between Artificer-made and Gunslinger-made firearms is the use of thunder magic instead of gunpowder.
 
-A large part of the reason guns are becoming popular is the fact that it is much easier to learn how to use them than other ranged weapons, some of which can take a lifetime of training to use effectively.  To reflect this, firearm proficiency can be gained in half the time as other weapon proficiencies, though repairing them after a misfire still requires proficiency in an appropriate tool.
+A large part of the reason guns are becoming popular is the fact that it is much easier to learn how to use them than other ranged weapons, some of which can take a lifetime of training to use effectively.  To reflect this, firearms are now considered Simple ranged weapons, though repairing them after a misfire still requires a separate proficiency in an appropriate tool or the Mending cantrip.
 
 ## Hit Points
 When rolling a hit die on a level up, if the die lands on a 1, you may reroll it until it lands on anything else.
@@ -205,6 +206,11 @@ Fast|2 hexes/day|-5 to passive perception, cannot stealth
 Travel on main roads halves travel time, and is much safer than travel through wilderness.  Travel though difficult terrain (hills, forest) doubles travel time if not on a road.
 
 On a ship, travel paces are listed in miles per hour.  Since each hex is 24 miles, the speed of the ship in mph is equal to the number of hexes it can travel at a normal pace.  Ships can travel at a slow pace, but cannot travel faster without magical help.
+
+## Weapon Classifications
+The following weapons have been reclassified from Martial to Simple: Firearms, Shortswords
+
+The following weapons have been reclassified from Simple to Martial: Javelins, Light Crossbows
 
 ## Week Length
 Any spell or ability with a 7 day duration or cooldown has that time reduced to 6 days.
