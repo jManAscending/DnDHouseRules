@@ -191,7 +191,7 @@ If you cast more than one spell on your turn, their combined level must not add 
 ## Suffocation
 You can hold your breath for a number of minutes equal to 1 + your Con modifier (minimum 30 seconds).  Every time you take damage while holding your breath, the number of rounds you have left is halved.  You immediately lose all your breath if you cast a spell using Verbal components, activate a magic item with a command word, or you are Incapacitated.  
 
-If at the end of your turn you have no air left and wish to continue trying to hold your breath, make a Con save.  The DC starts at 10, then increases by 2 each successive round of choking.  On a failure, you drop to 0 HP, becoming unconscious and unstable, and you cannot regain HP until you can beathe again.
+If at the end of your turn you have no air left and wish to continue trying to hold your breath, make a Con save.  The DC starts at 10, then increases by 2 with each successive round of choking.  On a failure, you drop to 0 HP, becoming unconscious and unstable, and you cannot regain HP until you can breathe again.
 
 ## Surprise Rounds
 The Surprised condition wears off after one full round has passed, instead of on a surprised creature's first turn
