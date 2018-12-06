@@ -53,7 +53,7 @@ When you make a spellcasting character, multiclass into a spellcasting class, or
 If you are starting this character from level 1 with a different casting stat, you may change their starting saving proficiencies if they do not normally start with proficiency in saves from their new casting stat.  All characters must have one proficiency from the 3 more common saves (Dex, Wis, Con) and one proficiency from the 3 less common saves (Int, Cha, Str), so the save proficiency you replace must be in the same group as your new casting stat.
 
 ## Character Creation
-For your background, you may choose any two skill proficiencies and one tool (or weapon) proficiency, if you don't think the ones provided by whichever background you choose fit your character's backstory.  If you really want to, I can also create a custom background feature for you, but bear in mind that I have screwed that up before.
+For your background, you may choose any two skill proficiencies and any two tool/weapon proficiencies or languages, if you don't think the ones provided by whichever background you choose fit your character's backstory.  If you really want to, I can also create a custom background feature for you, but bear in mind that I have screwed that up before.
 
 When rolling stats, use 4d6 drop lowest 6 times, and reroll all 6 if the total is less than 70.
 
@@ -210,7 +210,7 @@ On a ship, travel paces are listed in miles per hour.  Since each hex is 24 mile
 ## Weapon Classifications
 The following weapons have been reclassified from Martial to Simple: Firearms, Shortswords
 
-The following weapons have been reclassified from Simple to Martial: Javelins, Light Crossbows
+The following weapons have been reclassified from Simple to Martial: Javelins, Light Crossbows, Shortbows
 
 ## Week Length
 Any spell or ability with a 7 day duration or cooldown has that time reduced to 6 days.
