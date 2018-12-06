@@ -4,6 +4,7 @@
 ## Table of Contents
 [Action Economy](https://github.com/jManAscending/DnDHouseRules#action-economy)  
 [Cantrips](https://github.com/jManAscending/DnDHouseRules#cantrips)  
+[Changed Casting Stat](https://github.com/jManAscending/DnDHouseRules#changed-casting-stat)  
 [Character Creation](https://github.com/jManAscending/DnDHouseRules#character-creation)  
 [Companion Creatures](https://github.com/jManAscending/DnDHouseRules#companion-creatures)  
 [Cursed Items](https://github.com/jManAscending/DnDHouseRules#cursed-items)  
@@ -30,6 +31,7 @@
 [Resurrection](https://github.com/jManAscending/DnDHouseRules#resurrection)  
 [Scrolls](https://github.com/jManAscending/DnDHouseRules#scrolls)  
 [Spells Per Turn](https://github.com/jManAscending/DnDHouseRules#spells-per-turn)  
+[Suffocation](https://github.com/jManAscending/DnDHouseRules#suffocation)  
 [Surprise Rounds](https://github.com/jManAscending/DnDHouseRules#surprise-rounds)  
 [Travel Paces](https://github.com/jManAscending/DnDHouseRules#travel-paces)  
 [Week Length](https://github.com/jManAscending/DnDHouseRules#week-length)  
@@ -41,7 +43,10 @@
 It is possible to use an Action on your turn to use an ability that would normally be a Bonus Action or Reaction, and it is possible to use your Bonus Action on your turn to use an ability that would normally be your Reaction.  
 
 ## Cantrips
-Apart from cantrips that have been selected via RAW, the cantrip list for each class can be treated as an extension of the class' first level spell list.  In addition, if you have the Spellcasting feature, you may swap out one cantrip from that class each time you gain a level in the class that grants it.
+Apart from cantrips that have been selected via RAW, the cantrip list for each class can be treated as an extension of the class' first level spell list.  In addition, if you have the Spellcasting or Pact Magic feature, you may swap out one cantrip from that class each time you gain a level in the class that grants it.
+
+## Changed Casting Stat
+When you make a spellcasting character, multiclass into a spellcasting class, or otherwise gain the ability to cast spells from a class or feat, you may request for the class' spellcasting ability score to change to a different one, if you can give a solid roleplay reason for it.  For example, you may decide that your warlock gained their power through studying forgotten research of an eldritch entity, and thus uses Intelligence as their casting stat.  Once you start playing this character as a spellcaster, you may not change their casting stat.
 
 ## Character Creation
 For your background, you may choose any two skill proficiencies and one tool (or weapon) proficiency, if you don't think the ones provided by whichever background you choose fit your character's backstory.  If you really want to, I can also create a custom background feature for you, but bear in mind that I have screwed that up before.
@@ -134,7 +139,9 @@ If a creature is indefinitely incapacitated and there is no other threat around,
 XP will not be kept track of, or given out.  All PCs will be the same level, regardless of deaths, and the PCs will level upon a DM judgement call.  If a player is a Fallen Cleric, Paladin, or Warlock, they will gain levels slightly faster until they catch back up
 
 ## Multiclassing
-If you want to multiclass, please let me know well in advance, and I will leave bread crumbs here and there for you.  You will need a roleplay reason to want to multiclass, and another roleplay excuse for how you will gain the new class features.  If you multiclass into any "learned" class, you will need to spend at least some downtime training for your new class features.  In the time directly leading up to and after your multiclass, I will slowly give you the level one features of that class depending on how you roleplay it.
+If you want to multiclass, please let me know well in advance, and I will leave bread crumbs here and there for you.  You will need a roleplay reason to want to multiclass, and another roleplay excuse for how you will gain the new class features.  If you multiclass into any "learned" class, you will need to spend at least some downtime training for your new class features.  In the time directly leading up to and after your multiclass, I will slowly give you the level one features of that class depending on how you roleplay it.  Alternatively, if you are multiclassing into a 'gifted power' class, you will gain most of your level one features at once when it happens in the roleplay.
+
+The multiclass prerequisites can be changed around or ignored depending on your primary ability scores for your build.  For example, you do not need 13 Str to multiclass as a paladin if you use Dexterity for all your attack rolls, but you would need 13 Dex.  Bear in mind that I am more lenient with the prerequisites to multiclass out of a class than the prerequisites for multiclassing in.
 
 ## Ninth Level Spells
 9th level spells can only be cast by literal Gods.  If you level up to the point where you have a 9th level spell slot and have the opportunity to learn a spell, it cannot be of 9th level.  However, you can still upcast lower level spells using your 9th level slot.
@@ -163,6 +170,11 @@ If you have proficiency in Arcana, you can use Arcane spell scrolls even if you 
 
 ## Spells Per Turn
 If you cast more than one spell on your turn, their combined level must not add up to more than the highest level spell slot you have.  Cantrips count as level 0.
+
+## Suffocation
+You can hold your breath for a number of minutes equal to 1 + your Con modifier (minimum 30 seconds).  Every time you take damage while holding your breath, the number of rounds you have left is halved.  You immediately lose all your breath if you cast a spell using Verbal components, activate a magic item with a command word, or you are Incapacitated.  
+
+If at the end of your turn you have no air left and wish to continue trying to hold your breath, make a Con save.  The DC starts at 10, then increases by 2 each successive round of choking.  On a failure, you drop to 0 HP, becoming unconscious and unstable, and you cannot regain HP until you can beathe again.
 
 ## Surprise Rounds
 The Surprised condition wears off after one full round has passed, instead of on a surprised creature's first turn
