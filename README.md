@@ -29,6 +29,7 @@
 [Preparing Spells](https://github.com/jManAscending/DnDHouseRules#preparing-spells)  
 [Ranged Dual Wielding](https://github.com/jManAscending/DnDHouseRules#ranged-dual-wielding)  
 [Resurrection](https://github.com/jManAscending/DnDHouseRules#resurrection)  
+[Sailing](https://github.com/jManAscending/DnDHouseRules#sailing)  
 [Scrolls](https://github.com/jManAscending/DnDHouseRules#scrolls)  
 [Spells Per Turn](https://github.com/jManAscending/DnDHouseRules#spells-per-turn)  
 [Suffocation](https://github.com/jManAscending/DnDHouseRules#suffocation)  
@@ -47,6 +48,8 @@ Apart from cantrips that have been selected via RAW, the cantrip list for each c
 
 ## Changed Casting Stat
 When you make a spellcasting character, multiclass into a spellcasting class, or otherwise gain the ability to cast spells from a class or feat, you may request for the class' spellcasting ability score to change to a different one, if you can give a solid roleplay reason for it.  For example, you may decide that your warlock gained their power through studying forgotten research of an eldritch entity, and thus uses Intelligence as their casting stat.  Once you start playing this character as a spellcaster, you may not change their casting stat.
+
+If you are starting this character from level 1 with a different casting stat, you may change their starting saving proficiencies if they do not normally start with proficiency in saves from their new casting stat.  All characters must have one proficiency from the 3 more common saves (Dex, Wis, Con) and one proficiency from the 3 less common saves (Int, Cha, Str), so the save proficiency you replace must be in the same group as your new casting stat.
 
 ## Character Creation
 For your background, you may choose any two skill proficiencies and one tool (or weapon) proficiency, if you don't think the ones provided by whichever background you choose fit your character's backstory.  If you really want to, I can also create a custom background feature for you, but bear in mind that I have screwed that up before.
@@ -163,10 +166,17 @@ The Crossbow Expert feat does not apply to guns.
 ## Resurrection
 After being resurrected via Revivify, Raise Dead, or similar magic, you automatically have one failed death save.  After being resurrected twice, you have two permanently failed death saves.  After being resurrected for a third time, the next time you would normally be unconscious and unstable, you die instantly and cannot be revived.  This restriction does not apply to Zealot Barbarians, the Reincarnate spell, or Undead.
 
+## Sailing
+Most of the rules and statblocks from the UA Ships at Sea will now be used for sailing rules.  This includes travel paces, combat speeds, crash damage, ship stats and parts, and crew roles.  The following modifications to the UA are as follows:
+* Morale and Mutiny will be handled by RP, with no "crew quality score" or similar values
+* Skill checks while sailing are based on the relevent tool or skill, using the proficiency bonus of whoever's leading that task, but may be made using the ship's stats.
+* Full Speed Ahead and Fire At Will cannot be used.
+* In-combat repairs as an Action can use a DC 15 Carpenter's Tools check to regain 2d6 hull HP, or 8d6 hull HP with the Fabricate spell (requires Carpenter's Tools proficiency), or 1 HP with Mending (if the hull has more than 1 HP).
+
 ## Scrolls
 There are 3 known types of magic in the world that can be inscribed in a spell scroll: Arcane, Divine, and Natural.  If you can cast at least one spell of first level or higher, you can use any spell scroll of the same type of magic.  Which type of caster you are depends on how you got your magic.  There are plenty of rarer types of magic as well, but those generally cannot be inscribed as scrolls.
 
-If you have proficiency in Arcana, you can use Arcane spell scrolls even if you do not know any first level Arcane spells.  If you do not know any Arcane spells, you must make an Arcana check to use it, with disadvantage.  You must have proficiency in Arcana to scribe a scroll of any kind.
+If you have proficiency in Arcana, you can use Arcane spell scrolls even if you do not know any Arcane spells.  The same applies to Religion for Divine scrolls and Nature for Natural scrolls.  If you do not know any spells of the relevent casting type, you must make an Arcana, Religion, or Nature check to use the scroll, with disadvantage.  You must have proficiency in Arcana to scribe Arcane scrolls, Religion to scribe Divine scrolls, and Nature to scribe Natural scrolls.  You can only scribe scrolls for spells you have the ability to cast on your own.
 
 ## Spells Per Turn
 If you cast more than one spell on your turn, their combined level must not add up to more than the highest level spell slot you have.  Cantrips count as level 0.
@@ -186,7 +196,9 @@ Slow|2 days/hex|+5 to passive perception, can stealth
 Standard|1 hex/day|cannot stealth
 Fast|2 hexes/day|-5 to passive perception, cannot stealth
 
-Travel on main roads halves travel time, and is much safer than travel through wilderness.  Travel though difficult terrain (hills, forest) doubles travel time if not on a road.  Ships and Airships cannot travel at a Fast pace except with magical help.
+Travel on main roads halves travel time, and is much safer than travel through wilderness.  Travel though difficult terrain (hills, forest) doubles travel time if not on a road.
+
+On a ship, travel paces are listed in miles per hour.  Since each hex is 24 miles, the speed of the ship in mph is equal to the number of hexes it can travel at a normal pace.  Ships can travel at a slow pace, but cannot travel faster without magical help.
 
 ## Week Length
 Any spell or ability with a 7 day duration or cooldown has that time reduced to 6 days.
