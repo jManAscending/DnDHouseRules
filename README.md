@@ -109,7 +109,7 @@ Items not from official WotC material require heavy DM scutiny to be accepted, a
 Falling damage compounds: 1d6 bludgeoning per 10ft fallen, per 10ft fallen. (Example: falling 40ft will deal 4d6+3d6+2d6+1d6)
 
 The maximum depends on the creature's size.  The bigger you are, the harder you fall: 
-* Tiny creatures have a maximum of 20ft, or 3d6
+* Tiny creatures have a maximum of 10ft, or 1d6
 * Small creatures have a maximum of 50ft, or 15d6
 * Medium creatures have a maximum of 100ft, or 55d6
 * Large creatures have a a maximum of 150ft, or 120d6
