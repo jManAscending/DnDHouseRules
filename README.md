@@ -201,11 +201,11 @@ Pace | Speed | Effects
 -----|-------|--------
 Slow|2 days/hex|+5 to passive perception, can stealth
 Standard|1 hex/day|cannot stealth
-Fast|2 hexes/day|-5 to passive perception, cannot stealth
+Fast|2 hexes/day|-5 to passive perception, cannot stealth, 1 point of exhaustion for every day of travel past the first.
 
-Travel on main roads halves travel time, and is much safer than travel through wilderness.  Travel though difficult terrain (hills, forest) doubles travel time if not on a road.
+Travel on roads is much safer than through the wilderness.  Difficult terrain (hills, forest) doubles travel time if not on a road.  When traveling at a fast pace on horseback or in a horse-drawn cart, the horses take the exhaustion instead of the riders.
 
-On a ship, travel paces are listed in miles per hour.  Since each hex is 24 miles, the speed of the ship in mph is equal to the number of hexes it can travel at a normal pace.  Ships can travel at a slow pace, but cannot travel faster without magical help.
+On a ship, travel paces are listed in miles per hour.  Since each hex is 24 miles, the speed of the ship in mph is equal to the number of hexes it can travel per day at a normal pace.  Ships can travel at a slow pace to be stealthy or perceptive, but cannot travel faster without magical help.
 
 ## Weapon Classifications
 The following weapons have been reclassified from Martial to Simple: Firearms, Shortswords
