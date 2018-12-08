@@ -107,15 +107,13 @@ All spells, all feats, and most backgrounds from the PHB, EE, XGE, and SCAG are 
 Items not from official WotC material require heavy DM scutiny to be accepted, and may be reworked on the fly.  
 
 ## Fall Damage
-Falling damage compounds: 1d6 bludgeoning per 10ft fallen, per 10ft fallen. (Example: falling 40ft will deal 4d6+3d6+2d6+1d6)
-
-The maximum depends on the creature's size.  The bigger you are, the harder you fall: 
-* Tiny creatures have a maximum of 10ft, or 1d6
-* Small creatures have a maximum of 50ft, or 15d6
-* Medium creatures have a maximum of 100ft, or 55d6
-* Large creatures have a a maximum of 150ft, or 120d6
-* Huge creatures have a maximum of 200ft, or 210d6
-* Gargantuan creatures have a maximum of 250ft, or 325d6
+Falling damage compounds: 1 die per 10ft fallen, per 10ft fallen.  All creatures' fall damage caps at 100ft (55 dice), but the damage dice change based on the creature's size - the bigger you are, the harder you fall.
+* Tiny creatures take 1 damage per 10ft, to a maximum of 55 points
+* Small creatures take 1d4 damage per 10 ft, to a maximum of 55d4
+* Medium creatures take 1d6 damage per 10 ft, to a maximum of 55d6
+* Large creatures take 1d8 damage per 10 ft, to a maximum of 55d8
+* Huge creatures take 1d10 damage per 10 ft, to a maximum of 55d10
+* Gargantuan creatures take 1d12 damage per 10 ft, to a maximum of 55d12
 
 If your speed is greater than 0 when you hit the ground, you can make a Dexterity saving throw (DC=10+{feet fell}/10) to reduce your effective fall distance by 10ft before damage is rolled.  Evasion does not apply to this save.  If you have resistance or immunity to nonmagical bludgeoning damage, it applies to fall damage unless specifically stated otherwise.
 
