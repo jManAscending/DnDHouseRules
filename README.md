@@ -58,6 +58,8 @@ When rolling stats, use 4d6 drop lowest 6 times, and reroll all 6 if the total i
 
 You start with the equipment provided in your class features in addition to the starting wealth listed for your class.  If you are higher than level 3, you can also roll extra d4s equal to your proficiency bonus with your starting wealth.  You may spend starting wealth on anything in the PHB before the first session, and trade out starting equipment for extra starting wealth.
 
+In the Interim Campaign, you cannot play as an Arcane spellcaster.  This means Wizards, Artificers, and Bards are off the table, as are most Sorcerers and some Warlocks.  This rule will not apply in the Cyberpunk era.
+
 ## Companion Creatures
 If you have a telepathic connection with a companion creature that you control and that creature rolls initiative at the same time as you, that creature does not roll initiative for itself, and instead acts on your turn.
 
