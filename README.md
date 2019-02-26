@@ -60,6 +60,8 @@ You start with the equipment provided in your class features in addition to the 
 
 In the Interim Campaign, you cannot play as an Arcane spellcaster.  This means Wizards, Artificers, and Bards are off the table, as are most Sorcerers and some Warlocks.  This rule will not apply in the Cyberpunk era.
 
+(will be expanded pending the Interim Campaign)
+
 ## Companion Creatures
 If you have a telepathic connection with a companion creature that you control and that creature rolls initiative at the same time as you, that creature does not roll initiative for itself, and instead acts on your turn.
 
