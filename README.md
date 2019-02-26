@@ -222,7 +222,7 @@ Any spell or ability with a 7 day duration or cooldown has that time reduced to 
 * Dual Wielder: if you can magically conjure or summon one weapon from a class feature, you can now conjure or summon two non-heavy weapons at once.
 
 ## Spell Changes
-* Blade Ward: Duration extended to 1 minute, but requires concentration.
+* Blade Ward: Duration extended to 1 minute, but requires concentration, and can be bypassed by magical weapon damage.
 * Control Flames: Can be used on magical flames created by the caster or under the caster's control
 * True Strike: Can be cast as a Bonus Action, and affects the next attack you make before the end of your next turn.
 * Armor of Agathys: While you have the temporary HP, you also have resistance to cold damage.
@@ -232,8 +232,10 @@ Any spell or ability with a 7 day duration or cooldown has that time reduced to 
 * Witch Bolt: You can use a Bonus Action instead of an Action to deal the damage on subsequent turns, and the repeat damage is scaled with higher level spell slots
 * Barkskin: Does not require concentration
 * Find Steed: Steed can take the form of any Large or Medium Beast of CR 1 or lower, with no Fly or Swim speed, that the caster has seen before.
+* Find Traps: All traps within line of sight glow until the end of your turn.
 * Sending: You must have at least seen the person you are trying to contact and know at least one name they have gone by, though you need not have met them in person.  Additionally, if you use the Sending spell to contact someone who knows you by a fake identity, they interpret it as coming from the identity they know.  If the recipent knows multiple identities belonging to the caster but does not know that they are the same person, the caster can decide which identity the Sending spell will use.
 * Find Greater Steed: Steed can take the form of any Large or Medium non-bipedal naturally-occuring creature of CR 2 or lower that the caster has seen before.
 * Stoneskin: Grants resistance to non-siege Bludgeoning/Piercing/Slashing damage, and grants a damage threshold of 5 for all types of damage except for Force, Psychic, and Poison.
 * Healing Spirit: Moving the spirit is free on your turn; healing requires a Bonus Action or Reaction.
+* Mordenkainen's Sword: No action required for it to attack
 * Plane Shift: The tuning fork requires about 250 gp in materials and a successful Smithing check to craft, but cannot be crafted without knowledge of the proper frequency for the target plane, which cannot be studied from anywhere but that plane.
