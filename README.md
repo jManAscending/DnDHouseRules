@@ -88,7 +88,7 @@ Half-Feat|120|feats that also give +1 to a stat; you don't get the +1 from the f
 Feat|240|you may get portions of the feat over time
 Other Class Feature|variable|depends on DM judgement calls~~
 
-~~Each downtime day training under someone with proficiency will double the points you gain for that day.  If they have expertise in the tool/skill and are teaching you mere proficiency, it will count triple.  Prices for training may vary depending on in-story context.  If you want a specific class feature, it will require training under someone of the relevant class.~
+~~Each downtime day training under someone with proficiency will double the points you gain for that day.  If they have expertise in the tool/skill and are teaching you mere proficiency, it will count triple.  Prices for training may vary depending on in-story context.  If you want a specific class feature, it will require training under someone of the relevant class.~~
 
 You will not have downtime during the War of Divinity.
 
