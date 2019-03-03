@@ -22,7 +22,6 @@
 [Inspiration](https://github.com/jManAscending/DnDHouseRules#inspiration)  
 [Milestone Leveling](https://github.com/jManAscending/DnDHouseRules#milestone-leveling)  
 [Multiclassing](https://github.com/jManAscending/DnDHouseRules#multiclassing)  
-[Ninth Level Spells](https://github.com/jManAscending/DnDHouseRules#ninth-level-spells)  
 [Nonlethality](https://github.com/jManAscending/DnDHouseRules#nonlethality)  
 [Potions](https://github.com/jManAscending/DnDHouseRules#potions)  
 [Preparing Spells](https://github.com/jManAscending/DnDHouseRules#preparing-spells)  
@@ -131,7 +130,7 @@ See the specific spell changes for information on Identify and Detect Magic.
 Not all "Cursed" items have negative effects, and some "non-cursed" items may have negative effects.  Cursed items can be created either on purpose or by weird stuff happening in an enchantment ritual.
 
 ## Inspiration
-(Removed pending the Interim Campaign)
+If you have Inspiration as a Demigod in the War of Divinity, You can expend inspiration as an Action to instantly reproduce the effect of any 8th or lower level spell, as if you had cast Wish.  If the spell has a duration, it lasts no more than 1 hour.
 
 ## Incapacitation
 If a creature is incapacitated for any reason, it cannot benefit from a DEX bonus to its AC.  
@@ -144,9 +143,6 @@ XP will not be kept track of, or given out.  All PCs will be the same level, reg
 If you want to multiclass, please let me know well in advance, and I will leave bread crumbs here and there for you.  You will need a roleplay reason to want to multiclass, and another roleplay excuse for how you will gain the new class features.  If you multiclass into any "learned" class, you will need to spend at least some downtime training for your new class features.  In the time directly leading up to and after your multiclass, I may slowly give you the level one features of that class depending on how you roleplay it.  Alternatively, if you are multiclassing into a 'gifted power' class, you will gain most of your level one features at once when it happens in the roleplay.
 
 The multiclass prerequisites can be changed around or ignored depending on your primary ability scores for your build.  For example, you do not need 13 Str to multiclass as a paladin if you use Dexterity for all your attack rolls, but you would need 13 Dex.  Bear in mind that I am more lenient with the prerequisites to multiclass out of a class than the prerequisites for multiclassing in.
-
-## Ninth Level Spells
-(Removed pending the Interim Campaign)
 
 ## Nonlethality
 Range/melee does not affect lethality.  Psychic and Lightning damage can be made nonlethal without issue; targets will drop to 0 and be stable.  Bludgeoning damage can be made nonlethal if it is the result of an attack roll, and targets will drop to 0 and be stable.  Necrotic damage canot be specified to be nonlethal.  All other types of damage can be made nonlethal if and only if the damage was dealt as the result of an attack roll.  If such an attack reduces the target to 0, the creature drops unconscious and unstable, making death saving throws according to player rules.  PCs at 0 HP will follow RAW for the most part, with one exception - if a PC takes nonlethal Bludgeoning, Lightning, or Psychic damage and they drop to 0, the PC will be immediately stable.
@@ -219,11 +215,12 @@ Any spell or ability with a 7 day duration or cooldown has that time reduced to 
   * At level 7, you can command your beast companion using your Bonus Action.  Your beast companion can immediately use its Reaction to take the Attack, Dash, Dodge, or Help actions.
 
 ## Feat Changes
-* Lucky: Whenever more than one d20 was rolled for something, the circumstances of the original roll must be finalized before choosing between the original die and the Luck die.
-* Tavern Brawler: With this feat, your Unarmed Strikes have the Finesse property.
-* Sharpshooter: Instead of -5/+10, the tradeoff is -prof/+ 1d{2x prof} (e.g. -2/+1d4, -3/+1d6, etc.)
-* Great Weapon Master: Instead of -5/+10, the tradeoff is -prof/+1d{2x prof} (e.g. -2/+1d4, -3/+1d6, etc.)
 * Dual Wielder: if you can magically conjure or summon one weapon from a class feature, you can now conjure or summon two non-heavy weapons at once.
+* Great Weapon Master: Instead of -5/+10, the tradeoff is -prof/+1d{2x prof} (e.g. -2/+1d4, -3/+1d6, etc.)
+* Heavy Armor Master: Damage reduction applies to magical weapon damage as well.
+* Lucky: Whenever more than one d20 was rolled for something, the circumstances of the original roll must be finalized before choosing between the original die and the Luck die.
+* Sharpshooter: Instead of -5/+10, the tradeoff is -prof/+ 1d{2x prof} (e.g. -2/+1d4, -3/+1d6, etc.)
+* Tavern Brawler: With this feat, your Unarmed Strikes have the Finesse property.
 
 ## Spell Changes
 * Blade Ward: Duration extended to 1 minute, but requires concentration, and can be bypassed by magical weapon damage.
