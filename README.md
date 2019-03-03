@@ -51,15 +51,15 @@ When you make a spellcasting character, multiclass into a spellcasting class, or
 If you are starting this character from level 1 with a different casting stat, you may change their starting saving proficiencies if they do not normally start with proficiency in saves from their new casting stat.  All characters must have one proficiency from the 3 more common saves (Dex, Wis, Con) and one proficiency from the 3 less common saves (Int, Cha, Str), so the save proficiency you replace must be in the same group as your new casting stat.
 
 ## Character Creation
-For your background, you may choose any two skill proficiencies and any two tool/weapon proficiencies or languages, if you don't think the ones provided by whichever background you choose fit your character's backstory.  If you really want to, I can also create a custom background feature for you, but bear in mind that I have screwed that up before.
+~~For your background, you may choose any two skill proficiencies and any two tool/weapon proficiencies or languages, if you don't think the ones provided by whichever background you choose fit your character's backstory.  If you really want to, I can also create a custom background feature for you, but bear in mind that I have screwed that up before.~~
 
-When rolling stats, use 4d6 drop lowest 6 times, and reroll all 6 if the total is less than 70.
+~~When rolling stats, use 4d6 drop lowest 6 times, and reroll all 6 if the total is less than 70.~~
 
-You start with the equipment provided in your class features in addition to the starting wealth listed for your class.  If you are higher than level 3, you can also roll extra d4s equal to your proficiency bonus with your starting wealth.  You may spend starting wealth on anything in the PHB before the first session, and trade out starting equipment for extra starting wealth.
+~~You start with the equipment provided in your class features in addition to the starting wealth listed for your class.  If you are higher than level 3, you can also roll extra d4s equal to your proficiency bonus with your starting wealth.  You may spend starting wealth on anything in the PHB before the first session, and trade out starting equipment for extra starting wealth.~~
 
-In the Interim Campaign, you cannot play as an Arcane spellcaster.  This means Wizards, Artificers, and Bards are off the table, as are most Sorcerers and some Warlocks.  This rule will not apply in the Cyberpunk era.
+~~In the Interim Campaign, you cannot play as an Arcane spellcaster.  This means Wizards, Artificers, and Bards are off the table, as are most Sorcerers and some Warlocks.  This rule will not apply in the Cyberpunk era.~~
 
-(will be expanded pending the Interim Campaign)
+(Irrelevent during the War of Divinity, see Deigod Progression document [here](https://www.gmbinder.com/share/-LXLm61o4qIiWNIzOIKI))
 
 ## Companion Creatures
 If you have a telepathic connection with a companion creature that you control and that creature rolls initiative at the same time as you, that creature does not roll initiative for itself, and instead acts on your turn.
@@ -73,9 +73,9 @@ Cursed items have two main properties that set them apart from other magic items
 If you choose to add dice from a resource or ability after you hit instead of before, the additional dice are not doubled if the attack is a critical.
 
 ## Downtime
-You can use downtime to gain abilities beyond those listed in your class.  You must have some roleplay reason to want the abilities, a roleplay justification for how you're learning, and must describe at least partially what you are doing during downtime to train.  You may train on your own for free (minus required materials), but the training will go faster if you train under someone who has the feature you are training to get.  Each downtime day requires approximately 8 hours of training, and gives a number of Downtime Points equal to your Intelligence modifier (minimum 1).
+~~You can use downtime to gain abilities beyond those listed in your class.  You must have some roleplay reason to want the abilities, a roleplay justification for how you're learning, and must describe at least partially what you are doing during downtime to train.  You may train on your own for free (minus required materials), but the training will go faster if you train under someone who has the feature you are training to get.  Each downtime day requires approximately 8 hours of training, and gives a number of Downtime Points equal to your Intelligence modifier (minimum 1).~~
 
-Ability | Points Required | Comments
+~~Ability | Points Required | Comments
 -----|-------|--------
 Simple Weapon Proficiency|15|none
 Martial Weapon Proficiency|30|none
@@ -86,9 +86,11 @@ Armor Proficiency|120|requires previous tier proficiency
 Half-Feat|120|feats that also give +1 to a stat; you don't get the +1 from the feat
 +1 to an Ability Score|120|up to a maximum of 20
 Feat|240|you may get portions of the feat over time
-Other Class Feature|variable|depends on DM judgement calls
+Other Class Feature|variable|depends on DM judgement calls~~
 
-Each downtime day training under someone with proficiency will double the points you gain for that day.  If they have expertise in the tool/skill and are teaching you mere proficiency, it will count triple.  Prices for training may vary depending on in-story context.  If you want a specific class feature, it will require training under someone of the relevant class.
+~~Each downtime day training under someone with proficiency will double the points you gain for that day.  If they have expertise in the tool/skill and are teaching you mere proficiency, it will count triple.  Prices for training may vary depending on in-story context.  If you want a specific class feature, it will require training under someone of the relevant class.~
+
+You will not have downtime during the War of Divinity.
 
 ## Drawing Weapons Magically
 If you have a class feature that says you can magically conjure or summon a weapon in your hand, it counts as a free object interaction, similar to actually drawing a weapon.
@@ -117,11 +119,15 @@ If your speed is greater than 0 when you hit the ground, you can make a Dexterit
 ## Fallen Classes
 If a Paladin, Cleric, or Warlock loses the favor of an entity that granted them powers, the player may have those powers stripped away.  All the character's levels in the relevent class will be replaced by one level of a "Fallen x" class.  The "Fallen x" class will include every nonmagical class feature the character had gained up until that point, including HP and Hit Dice, but not including Proficiency Bonus.  Subsequently gained levels in other classes will not grant new HP or Hit Dice until the character has surpassed the character level at which they fell, nor will they grant ASIs until the new classes' ASIs outnumber the ASIs they had under the first class.  If the character does not already have levels in any other classes at the time they fall, they do not need to meet the ability score prerequisites to multiclass into any other class, but must still have a valid roleplay reason to take the new class.
 
+As Demigods, your power is intrinsic, and cannot be taken away by the patron who promoted you.  However, beware pissing them off, as they are still more powerful than you.
+
 ## Firearms
 Firearms in this campaign are based around the type of firearm used in Matt's Gunslinger subclass.  For right now, the firearm table in the 1.3 Gunslinger sheet is the canon firearm table for the setting.
 
 ## Hit Points
-When rolling a hit die on a level up, if the die lands on a 1, you may reroll it until it lands on anything else.
+~~When rolling a hit die on a level up, if the die lands on a 1, you may reroll it until it lands on anything else.~~
+
+You are demigods; your HP is maxed.
 
 ## Identifying Magic Items
 An Arcana check may reveal whether an item has magical properties or not, and sometimes part of the nature of the magic if the effects are readily apparent.  Focusing on an item over a short rest does not reveal the nature of the item unless you attune to it.  
@@ -137,18 +143,24 @@ If a creature is incapacitated for any reason, it cannot benefit from a DEX bonu
 If a creature is indefinitely incapacitated and there is no other threat around, any lethal attack that would deal damage and could kill the target is an instant kill.  
 
 ## Milestone Leveling
-XP will not be kept track of, or given out.  All PCs will be the same level, regardless of deaths, and the PCs will level upon a DM judgement call.  If a player is a Fallen Cleric, Paladin, or Warlock, they will gain levels slightly faster until they catch back up.
+~~XP will not be kept track of, or given out.  All PCs will be the same level, regardless of deaths, and the PCs will level upon a DM judgement call.  If a player is a Fallen Cleric, Paladin, or Warlock, they will gain levels slightly faster until they catch back up.~~
+
+There are 8 missions you will be given in the War of Divinity before the final power struggle.  For every two missions you succeed on, you will level up once.
 
 ## Multiclassing
-If you want to multiclass, please let me know well in advance, and I will leave bread crumbs here and there for you.  You will need a roleplay reason to want to multiclass, and another roleplay excuse for how you will gain the new class features.  If you multiclass into any "learned" class, you will need to spend at least some downtime training for your new class features.  In the time directly leading up to and after your multiclass, I may slowly give you the level one features of that class depending on how you roleplay it.  Alternatively, if you are multiclassing into a 'gifted power' class, you will gain most of your level one features at once when it happens in the roleplay.
+~~If you want to multiclass, please let me know well in advance, and I will leave bread crumbs here and there for you.  You will need a roleplay reason to want to multiclass, and another roleplay excuse for how you will gain the new class features.  If you multiclass into any "learned" class, you will need to spend at least some downtime training for your new class features.  In the time directly leading up to and after your multiclass, I may slowly give you the level one features of that class depending on how you roleplay it.  Alternatively, if you are multiclassing into a 'gifted power' class, you will gain most of your level one features at once when it happens in the roleplay.~~
 
-The multiclass prerequisites can be changed around or ignored depending on your primary ability scores for your build.  For example, you do not need 13 Str to multiclass as a paladin if you use Dexterity for all your attack rolls, but you would need 13 Dex.  Bear in mind that I am more lenient with the prerequisites to multiclass out of a class than the prerequisites for multiclassing in.
+~~The multiclass prerequisites can be changed around or ignored depending on your primary ability scores for your build.  For example, you do not need 13 Str to multiclass as a paladin if you use Dexterity for all your attack rolls, but you would need 13 Dex.  Bear in mind that I am more lenient with the prerequisites to multiclass out of a class than the prerequisites for multiclassing in.~~
+
+You're done leveling up as characters.  You are now demigods.
 
 ## Nonlethality
 Range/melee does not affect lethality.  Psychic and Lightning damage can be made nonlethal without issue; targets will drop to 0 and be stable.  Bludgeoning damage can be made nonlethal if it is the result of an attack roll, and targets will drop to 0 and be stable.  Necrotic damage canot be specified to be nonlethal.  All other types of damage can be made nonlethal if and only if the damage was dealt as the result of an attack roll.  If such an attack reduces the target to 0, the creature drops unconscious and unstable, making death saving throws according to player rules.  PCs at 0 HP will follow RAW for the most part, with one exception - if a PC takes nonlethal Bludgeoning, Lightning, or Psychic damage and they drop to 0, the PC will be immediately stable.
 
 ## Potions
-Drinking a potion in combat is a bonus action.  Feeding a Potion to another character is an Action.  
+~~Drinking a potion in combat is a bonus action.  Feeding a Potion to another character is an Action.  ~~
+
+Potions don't work no mo.
 
 ## Preparing Spells
 Spells can be prepared soon after the end of a long rest or during a short rest.  This process takes 1 minute per spell level per spell (both the spells you're preparing and un-preparing), and requires concentration and the ability to perform verbal and somatic components for the duration.  If a spell requires material components or a focus, it cannot be prepared without the material components or focus present.
@@ -169,12 +181,14 @@ Most of the rules and statblocks from the UA Ships at Sea will now be used for s
 * In-combat repairs as an Action can use a DC 15 Carpenter's Tools check to regain 2d6 hull HP, or 8d6 hull HP with the Fabricate spell (requires Carpenter's Tools proficiency), or 1 HP with Mending (if the hull has more than 1 HP).
 
 ## Scrolls
-There are 3 known types of magic in the world that can be inscribed in a spell scroll: Arcane, Divine, and Natural.  If you can cast at least one spell of first level or higher, you can use any spell scroll of the same type of magic.  Which type of caster you are depends on how you got your magic.  There are plenty of rarer types of magic as well, but those generally cannot be inscribed as scrolls.
+~~There are 3 known types of magic in the world that can be inscribed in a spell scroll: Arcane, Divine, and Natural.  If you can cast at least one spell of first level or higher, you can use any spell scroll of the same type of magic.  Which type of caster you are depends on how you got your magic.  There are plenty of rarer types of magic as well, but those generally cannot be inscribed as scrolls.~~
 
-If you have proficiency in Arcana, you can use Arcane spell scrolls even if you do not know any Arcane spells.  The same applies to Religion for Divine scrolls and Nature for Natural scrolls.  If you do not know any spells of the relevent casting type, you must make an Arcana, Religion, or Nature check to use the scroll, with disadvantage.  You must have proficiency in Arcana to scribe Arcane scrolls, Religion to scribe Divine scrolls, and Nature to scribe Natural scrolls.  You can only scribe scrolls for spells you have the ability to cast on your own.
+~~If you have proficiency in Arcana, you can use Arcane spell scrolls even if you do not know any Arcane spells.  The same applies to Religion for Divine scrolls and Nature for Natural scrolls.  If you do not know any spells of the relevent casting type, you must make an Arcana, Religion, or Nature check to use the scroll, with disadvantage.  You must have proficiency in Arcana to scribe Arcane scrolls, Religion to scribe Divine scrolls, and Nature to scribe Natural scrolls.  You can only scribe scrolls for spells you have the ability to cast on your own.~~
+
+Scrolls don't work no mo.
 
 ## Spells Per Turn
-If you cast more than one spell on your turn, their combined level must not add up to more than the highest level spell slot you have.  Cantrips count as level 0.
+If you cast more than one spell on your turn, their combined level must not add up to more than the highest level spell you are able to cast.  Cantrips count as level 0.
 
 ## Suffocation
 You can hold your breath for a number of minutes equal to 1 + your Con modifier (minimum 30 seconds).  Every time you take damage while holding your breath, the number of rounds you have left is halved.  You immediately lose all your breath if you cast a spell using Verbal components, activate a magic item with a command word, or you are Incapacitated.  
@@ -182,7 +196,7 @@ You can hold your breath for a number of minutes equal to 1 + your Con modifier 
 If at the end of your turn you have no air left and wish to continue trying to hold your breath, make a Con save.  The DC starts at 10, then increases by 2 with each successive round of choking.  On a failure, you drop to 0 HP, becoming unconscious and unstable, and you cannot regain HP until you can breathe again.
 
 ## Surprise Rounds
-The Surprised condition wears off after one full round has passed, instead of on a surprised creature's first turn
+The Surprised condition wears off after one full round has passed, instead of on a surprised creature's first turn.
 
 ## Travel Paces
 Pace | Speed | Effects
