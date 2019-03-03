@@ -59,7 +59,7 @@ If you are starting this character from level 1 with a different casting stat, y
 
 ~~In the Interim Campaign, you cannot play as an Arcane spellcaster.  This means Wizards, Artificers, and Bards are off the table, as are most Sorcerers and some Warlocks.  This rule will not apply in the Cyberpunk era.~~
 
-(Irrelevent during the War of Divinity, see Deigod Progression document [here](https://www.gmbinder.com/share/-LXLm61o4qIiWNIzOIKI))
+(Irrelevent during the War of Divinity, see Demigod Progression document [here](https://www.gmbinder.com/share/-LXLm61o4qIiWNIzOIKI))
 
 ## Companion Creatures
 If you have a telepathic connection with a companion creature that you control and that creature rolls initiative at the same time as you, that creature does not roll initiative for itself, and instead acts on your turn.
