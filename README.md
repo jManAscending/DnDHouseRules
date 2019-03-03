@@ -158,7 +158,7 @@ You're done leveling up as characters.  You are now demigods.
 Range/melee does not affect lethality.  Psychic and Lightning damage can be made nonlethal without issue; targets will drop to 0 and be stable.  Bludgeoning damage can be made nonlethal if it is the result of an attack roll, and targets will drop to 0 and be stable.  Necrotic damage canot be specified to be nonlethal.  All other types of damage can be made nonlethal if and only if the damage was dealt as the result of an attack roll.  If such an attack reduces the target to 0, the creature drops unconscious and unstable, making death saving throws according to player rules.  PCs at 0 HP will follow RAW for the most part, with one exception - if a PC takes nonlethal Bludgeoning, Lightning, or Psychic damage and they drop to 0, the PC will be immediately stable.
 
 ## Potions
-~~Drinking a potion in combat is a bonus action.  Feeding a Potion to another character is an Action.  ~~
+~~Drinking a potion in combat is a bonus action.  Feeding a Potion to another character is an Action.~~
 
 Potions don't work no mo.
 
