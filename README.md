@@ -231,10 +231,10 @@ Any spell or ability with a 7 day duration or cooldown has that time reduced to 
 
 ## Feat Changes
 * Dual Wielder: if you can magically conjure or summon one weapon from a class feature, you can now conjure or summon two non-heavy weapons at once.
-* Great Weapon Master: Instead of -5/+10, the tradeoff is -prof/+1d{2x prof} (e.g. -2/+1d4, -3/+1d6, etc.)
+* Great Weapon Master: Instead of -5/+10, the tradeoff is -prof/+1d{2x prof} (e.g. -2/+1d4, -3/+1d6, etc).  When your proficiency bonus increases to 7 or above, roll 2 dice instead, and the progression restarts from d6's.  This maxes out at -10 / +2d12.
 * Heavy Armor Master: Damage reduction applies to magical weapon damage as well.
 * Lucky: Whenever more than one d20 was rolled for something, the circumstances of the original roll must be finalized before choosing between the original die and the Luck die.
-* Sharpshooter: Instead of -5/+10, the tradeoff is -prof/+ 1d{2x prof} (e.g. -2/+1d4, -3/+1d6, etc.)
+* Sharpshooter: Instead of -5/+10, the tradeoff is -prof/+ 1d{2x prof} (e.g. -2/+1d4, -3/+1d6, etc). When your proficiency bonus increases to 7 or above, roll 2 dice instead, and the progression restarts from d6's.  This maxes out at -10 / +2d12.
 * Tavern Brawler: With this feat, your Unarmed Strikes have the Finesse property.
 
 ## Spell Changes
