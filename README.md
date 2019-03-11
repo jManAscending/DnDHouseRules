@@ -245,7 +245,7 @@ Any spell or ability with a 7 day duration or cooldown has that time reduced to 
 * Ceremony: Invokes a spirit quest within the target(s)' mind related to the purpose of the casting.  The benefits of the spell only happen if this quest is successful.  If there is a skill check involved in the casting, the skill check's results determine the difficulty of the mission.  In addition, it is possible to use the Ceremony spell for more than just the listed uses, though the benefits (and risks) depend entirely on DM interpretation of the situation.
 * Find Familiar: Familiar can take the form of any Tiny or Small CR 0 Beast that the caster has seen before
 * Identify: Can identify cursed items if and only if the cursed item was enchanted with an equal or lower spell level than the one used to cast Identify.  Ritual casting Identify makes it count as 1st level.
-* Witch Bolt: You can use a Bonus Action instead of an Action to deal the damage on subsequent turns, and the repeat damage is scaled with higher level spell slots
+* Witch Bolt: The repeat damage is scaled with higher level spell slots
 * Barkskin: Does not require concentration
 * Find Steed: Steed can take the form of any Large or Medium Beast of CR 1 or lower, with no Fly or Swim speed, that the caster has seen before.
 * Find Traps: All traps within line of sight glow until the end of your turn.
