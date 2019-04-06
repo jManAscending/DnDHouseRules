@@ -23,6 +23,7 @@
 [Milestone Leveling](https://github.com/jManAscending/DnDHouseRules#milestone-leveling)  
 [Multiclassing](https://github.com/jManAscending/DnDHouseRules#multiclassing)  
 [Nonlethality](https://github.com/jManAscending/DnDHouseRules#nonlethality)  
+[Planar Boundaries](https://github.com/jManAscending/DnDHouseRules#planar-boundaries)  
 [Potions](https://github.com/jManAscending/DnDHouseRules#potions)  
 [Preparing Spells](https://github.com/jManAscending/DnDHouseRules#preparing-spells)  
 [Ranged Dual Wielding](https://github.com/jManAscending/DnDHouseRules#ranged-dual-wielding)  
@@ -156,6 +157,19 @@ You're done leveling up as characters.  You are now demigods.
 
 ## Nonlethality
 Range/melee does not affect lethality.  Psychic and Lightning damage can be made nonlethal without issue; targets will drop to 0 and be stable.  Bludgeoning damage can be made nonlethal if it is the result of an attack roll, and targets will drop to 0 and be stable.  Necrotic damage canot be specified to be nonlethal.  All other types of damage can be made nonlethal if and only if the damage was dealt as the result of an attack roll.  If such an attack reduces the target to 0, the creature drops unconscious and unstable, making death saving throws according to player rules.  PCs at 0 HP will follow RAW for the most part, with one exception - if a PC takes nonlethal Bludgeoning, Lightning, or Psychic damage and they drop to 0, the PC will be immediately stable.
+
+## Planar Boundaries
+All spells which can supposedly affect anything on the same plane as you, but cannot target anything on different planes (e.g. Teleport, Dream), can instead only affect targets on the same 'layer' of whatever plane you are on.  Each plane has a different definition of 'layer':
+* On the Prime Material, this refers to individual planets (see below).
+* The Feywild and Shadowfell have different individual planets as well, mirroring the Prime Material
+* The Elemental Torus is separated into 4 Quadrants, with the Border Elemental Planes separating them.  All 8 are treated as separate layers.
+* The Ethereal Depths is its own 'layer', as is every instance of the Border Ethereal
+* The Astral Sea has no innate layers, but artificial "layers" have been created by mages (e.g. Bags of Holding and the Demiplane spell)
+* The Outer Planes each have their own unique and weird structures (results may vary)
+
+The Plane Shift and Gate spells can still connect to whichever layer you want, so long as your destination is not magically warded from planar travel.
+	
+Note for the War of Divinity: Only the Gods and other beings on that level were previously aware that any life could exist on planets other than the one historically referred to as "The Prime".  As it was, very little life actually did, and that which did was not worth most of the gods' attention.  In the Spellplague, the entire star system was collapsed into a black hole, and all life in the Prime Material was snuffed out.
 
 ## Potions
 ~~Drinking a potion in combat is a bonus action.  Feeding a Potion to another character is an Action.~~
