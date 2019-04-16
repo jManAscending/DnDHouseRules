@@ -12,6 +12,7 @@
 [Downtime](https://github.com/jManAscending/DnDHouseRules#downtime)  
 [Drawing Weapons Magically](https://github.com/jManAscending/DnDHouseRules#drawing-weapons-magically)  
 [Dual Creature Types](https://github.com/jManAscending/DnDHouseRules#dual-creature-types)  
+[Dying Characters](https://github.com/jManAscending/DnDHouseRules#dying-characters)  
 [Extended Sourcebooks](https://github.com/jManAscending/DnDHouseRules#extended-sourcebooks)  
 [Fall Damage](https://github.com/jManAscending/DnDHouseRules#fall-damage)  
 [Fallen Classes](https://github.com/jManAscending/DnDHouseRules#fallen-classes)  
@@ -100,6 +101,11 @@ If you have a class feature that says you can magically conjure or summon a weap
 Some creatures may have 2 separate creature types, determined on a case-by-case basis by the DM.  As such, they are affected by anything that affects either of their creature types.  However, if one of their creature types is immune to an effect but the other isn't, the effect is reduced in a way determined by the DM.  For example, Warforged would be classified as both Construct and Humanoid, and would have advantage on saves vs Hold Person and similar magical effects.  
 
 Planetouched races such as Tieflings and Aasimar (as well as Dhampirs) are considered purely Humanoid, but with non-humanoid heritage that is divinable by certain spells and magical effects.  Undead creatures will never retain any semblance of their previous creature type, apart from appearance.
+
+## Dying Creatures
+Creatures at 0 HP and Unstable are not fully Unconscious.  Instead, they are Prone and Stunned.
+
+Creatures at 0 HP and Stable are still Unconscious.
 
 ## Extended Sourcebooks
 Spells, Feats, and Backgrounds from all officially published WotC material are available, though some have changes listed below.  All UA material and any features that are setting-specific require DM approval and possible modification before using.
