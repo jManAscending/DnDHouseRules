@@ -269,6 +269,7 @@ Any spell or ability with a 7 day duration or cooldown has that time reduced to 
 * Barkskin: Does not require concentration
 * Find Steed: Steed can take the form of any Large or Medium Beast of CR 1 or lower, with no Fly or Swim speed, that the caster has seen before.
 * Find Traps: All traps within line of sight glow until the end of your turn.
+* Dispel Magic: Can only dispel one spell per cast.  You must specify what spell you are dispelling (you do not necessarily need to know exactly what the spell is, only that it's there).
 * Sending: You must have at least seen the person you are trying to contact and know at least one name they have gone by, though you need not have met them in person.  Additionally, if you use the Sending spell to contact someone who knows you by a fake identity, they interpret it as coming from the identity they know.  If the recipent knows multiple identities belonging to the caster but does not know that they are the same person, the caster can decide which identity the Sending spell will use.
 * Find Greater Steed: Steed can take the form of any Large or Medium non-bipedal naturally-occuring creature of CR 2 or lower that the caster has seen before.
 * Stoneskin: Grants resistance to non-siege Bludgeoning/Piercing/Slashing damage, and grants a damage threshold of 5 for all types of damage except for Force, Psychic, and Poison.
