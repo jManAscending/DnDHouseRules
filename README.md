@@ -6,6 +6,7 @@
 [Cantrips](https://github.com/jManAscending/DnDHouseRules#cantrips)  
 [Changed Casting Stat](https://github.com/jManAscending/DnDHouseRules#changed-casting-stat)  
 [Character Creation](https://github.com/jManAscending/DnDHouseRules#character-creation)  
+[Chases](https://github.com/jManAscending/DnDHouseRules#chases)  
 [Companion Creatures](https://github.com/jManAscending/DnDHouseRules#companion-creatures)  
 [Cursed Items](https://github.com/jManAscending/DnDHouseRules#cursed-items)  
 [Crit Damage](https://github.com/jManAscending/DnDHouseRules#crit-damage)  
@@ -62,6 +63,25 @@ If you are starting this character from level 1 with a different casting stat, y
 ~~In the Interim Campaign, you cannot play as an Arcane spellcaster.  This means Wizards, Artificers, and Bards are off the table, as are most Sorcerers and some Warlocks.  This rule will not apply in the Cyberpunk era.~~
 
 (Irrelevent during the War of Divinity, see Demigod Progression document [here](https://www.gmbinder.com/share/-LXLm61o4qIiWNIzOIKI))
+
+## Chases
+Chases mostly follow normal combat rules, with the following exceptions:
+* The initiative order is set based on relative positions (quarry goes first, followed by pursuers in order)
+* At the end of each round, initiative is reset based on new relative positions
+* At the start of each round, the DM may introduce an obstacle that everyone involved needs to deal with on their turn.  For examples, see the Chase Complications tables in the DMG.
+* Opportunity Attacks cannot be used
+* During a chase, a creature can use the Dash action freely a number of times equal to 3 + their Constitution modifier.  After this, each additional Dash requires a DC 10 Con check.  On a failure, the creature gains 1 level of Exhaustion.  Levels of Exhaustion gained this way can be removed over a short or long rest.
+
+A chase ends if one of the following happens:
+* The quarry is Grappled, Restrained, or otherwise prevented from moving by their pursuers
+* The quarry has gained enough distance to be outside the maximum vision range of all pursuers
+* The quarry is out of sight, and takes the Hide action, successfully hiding from their pursuers
+* Either the quarry or all pursuers reach 5 levels of exhaustion
+* Either the quarry or the pursuers purposely stop
+
+When a chase ends, if normal combat follows, initiative is rolled at the end of the last round of the chase.
+
+If a creature attempts to run away during normal combat, the chase begins at initiative count 0 after the first pursuer gives chase.  If the remaining creatures are still fighting each other, initiative count 0 separates the normal combat from the chase.
 
 ## Companion Creatures
 If you have a telepathic connection with a companion creature that you control and that creature rolls initiative at the same time as you, that creature does not roll initiative for itself, and instead acts on your turn.
