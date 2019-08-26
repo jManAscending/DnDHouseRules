@@ -20,6 +20,7 @@
 [Initiative](https://github.com/jManAscending/DnDHouseRules#initiative)  
 [Inspiration](https://github.com/jManAscending/DnDHouseRules#inspiration)  
 [Leveling HP](https://github.com/jManAscending/DnDHouseRules#leveling-hp)  
+[Lingering Injuries](https://github.com/jManAscending/DnDHouseRules#lingering-injuries)  
 [Milestone Leveling](https://github.com/jManAscending/DnDHouseRules#milestone-leveling)  
 [Multiclassing](https://github.com/jManAscending/DnDHouseRules#multiclassing)  
 [Nonlethal Damage](https://github.com/jManAscending/DnDHouseRules#nonlethal-damage)  
@@ -158,6 +159,9 @@ Spending inspiration allows you to treat one ability check, attack roll, or savi
 
 ## Leveling HP
 When rolling a hit die on a level up, if the die lands on a 1, you may reroll it until it lands on anything else.
+
+## Lingering Injuries
+When you are reduced to 0 HP but not killed outright, you can use a reaction to expend and roll one hit die, regaining hit points equal to what you rolled plus your Constitution modifier.  When you do so, you must make a Constitution saving throw against a DC equal to the damage that put you to 0.  On a failure, you gain a [Lingering Injury](https://www.gmbinder.com/share/-LWu_LDHSZko9udS4vwN).
 
 ## Milestone Leveling
 XP will not be kept track of, or given out.  All PCs will be the same level, and the PCs will level up according to DM judgement call.  If a player controls a Fallen character, they will gain levels slightly faster until they catch back up.
