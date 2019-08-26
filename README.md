@@ -2,42 +2,41 @@
 ### While the campaign is in progress, players will be notified of changes to these rules.
 
 ## Table of Contents
-[Action Economy](https://github.com/jManAscending/DnDHouseRules#action-economy)  
-[Cantrips](https://github.com/jManAscending/DnDHouseRules#cantrips)  
 [Changed Casting Stat](https://github.com/jManAscending/DnDHouseRules#changed-casting-stat)  
 [Character Creation](https://github.com/jManAscending/DnDHouseRules#character-creation)  
-[Chases](https://github.com/jManAscending/DnDHouseRules#chases)  
 [Companion Creatures](https://github.com/jManAscending/DnDHouseRules#companion-creatures)  
-[Cursed Items](https://github.com/jManAscending/DnDHouseRules#cursed-items)  
-[Crit Damage](https://github.com/jManAscending/DnDHouseRules#crit-damage)  
+[Coup De Grace](https://github.com/jManAscending/DnDHouseRules#coup-de-grace)  
+[Criticals](https://github.com/jManAscending/DnDHouseRules#criticals)  
+[Downed Creatures](https://github.com/jManAscending/DnDHouseRules#downed-creatures)  
 [Downtime](https://github.com/jManAscending/DnDHouseRules#downtime)  
 [Drawing Weapons Magically](https://github.com/jManAscending/DnDHouseRules#drawing-weapons-magically)  
 [Dual Creature Types](https://github.com/jManAscending/DnDHouseRules#dual-creature-types)  
 [Dying Creatures](https://github.com/jManAscending/DnDHouseRules#dying-creatures)  
-[Extended Sourcebooks](https://github.com/jManAscending/DnDHouseRules#extended-sourcebooks)  
+[Extended Sources](https://github.com/jManAscending/DnDHouseRules#extended-sources)  
 [Fall Damage](https://github.com/jManAscending/DnDHouseRules#fall-damage)  
 [Fallen Classes](https://github.com/jManAscending/DnDHouseRules#fallen-classes)  
-[Firearms](https://github.com/jManAscending/DnDHouseRules#firearms)  
-[Hit Points](https://github.com/jManAscending/DnDHouseRules#hit-points)  
+[Foot Chases](https://github.com/jManAscending/DnDHouseRules#foot-chases)  
 [Identifying Magic Items](https://github.com/jManAscending/DnDHouseRules#identifying-magic-items)  
-[Incapacitation](https://github.com/jManAscending/DnDHouseRules#incapacitation)  
+[Initiative](https://github.com/jManAscending/DnDHouseRules#initiative)  
 [Inspiration](https://github.com/jManAscending/DnDHouseRules#inspiration)  
+[Leveling HP](https://github.com/jManAscending/DnDHouseRules#leveling-hp)  
 [Milestone Leveling](https://github.com/jManAscending/DnDHouseRules#milestone-leveling)  
 [Multiclassing](https://github.com/jManAscending/DnDHouseRules#multiclassing)  
-[Nonlethality](https://github.com/jManAscending/DnDHouseRules#nonlethality)  
+[Nonlethal Damage](https://github.com/jManAscending/DnDHouseRules#nonlethal-damage)  
 [Planar Boundaries](https://github.com/jManAscending/DnDHouseRules#planar-boundaries)  
 [Potions](https://github.com/jManAscending/DnDHouseRules#potions)  
 [Preparing Spells](https://github.com/jManAscending/DnDHouseRules#preparing-spells)  
+[Quick Actions](https://github.com/jManAscending/DnDHouseRules#quick-actions)  
 [Ranged Dual Wielding](https://github.com/jManAscending/DnDHouseRules#ranged-dual-wielding)  
 [Resurrection](https://github.com/jManAscending/DnDHouseRules#resurrection)  
 [Sailing](https://github.com/jManAscending/DnDHouseRules#sailing)  
 [Scrolls](https://github.com/jManAscending/DnDHouseRules#scrolls)  
+[Speed](https://github.com/jManAscending/DnDHouseRules#speed)  
 [Spells Per Turn](https://github.com/jManAscending/DnDHouseRules#spells-per-turn)  
 [Suffocation](https://github.com/jManAscending/DnDHouseRules#suffocation)  
 [Surprise Rounds](https://github.com/jManAscending/DnDHouseRules#surprise-rounds)  
-[Travel Paces](https://github.com/jManAscending/DnDHouseRules#travel-paces)  
-[Weapon Classifications](https://github.com/jManAscending/DnDHouseRules#weapon-classifications)  
-[Week Length](https://github.com/jManAscending/DnDHouseRules#week-length)  
+[Taking Ten](https://github.com/jManAscending/DnDHouseRules#taking-ten)  
+[Vehicle Combat](https://github.com/jManAscending/DnDHouseRules#vehicle-combat)  
 [Class Changes](https://github.com/jManAscending/DnDHouseRules#class-changes)  
 [Feat Changes](https://github.com/jManAscending/DnDHouseRules#feat-changes)  
 [Spell Changes](https://github.com/jManAscending/DnDHouseRules#spell-changes)  
@@ -104,15 +103,15 @@ Some creatures may have 2 separate creature types, determined on a case-by-case 
 
 Planetouched races such as Tieflings and Aasimar (including Warforged, for balance reasons) are considered Humanoid, but with non-humanoid influence that is divinable by certain spells and magical effects, and may affect how they react to certain abjuration magic.  Undead creatures will never retain any semblance of their previous creature type, apart from appearance.
 
-## Extended Sourcebooks
+## Extended Sources
 Materials from all officially published WotC material are available, though some have changes listed in these rules.  All UA material, Stream content, and any features that are setting-specific require DM approval and possible modification before using.
 
 Items not from official WotC material require heavy DM scutiny to be accepted, and may be reworked on the fly.
 
 Currently accepted homebrew material:
-* Matt Mercer's Blood Hunter + Lycan subclass (link to be added)
-* Kibbles Artificer (link to be added)
-* My homebrew subclasses and spells (link to be added)
+* Matt Mercer's Blood Hunter + Lycan subclass
+* Kibbles Artificer
+* My current homebrew material
 
 ## Fall Damage
 Falling damage compounds: 1 die per 10ft fallen, per 10ft fallen.  All creatures' fall damage caps at 100ft (55 dice), but the damage dice change based on the creature's size - the bigger you are, the harder you fall.
@@ -245,7 +244,7 @@ When combat starts inside a vehicle or between vehicles, the following rules app
 * Monk Weapons count as Finesse, including Unarmed Strikes
 * Monks of the Way of the Four Elements can use this [Remastered version](https://img.4plebs.org/boards/tg/image/1433/19/1433195829577.pdf).
 * Rangers of the Beast or Hunter conclave can use either the PHB or Revised Ranger stats.  If you choose the PHB Beastmaster, the subclass is changed as follows:
-  * Your beast companion rolls its own initiative, and has its own Movement, Action, Bonus Action, and Reaction, though it loses multiattack (if it has one) until level 11.
+  * Your beast companion rolls its own initiative and has its own turn, though it loses multiattack (if it has one) until level 11.
   * At level 7, you can command your beast companion using your Bonus Action.  Your beast companion can immediately use its Reaction to take the Attack, Dash, Dodge, or Help actions.
 * Warlock: The Hexblade subclass does not allow you to use Charisma for weapon attacks and damage.  Instead, that feature is part of Pact of the Blade, which can be taken by any Warlock at level 3.
 
@@ -262,7 +261,7 @@ When combat starts inside a vehicle or between vehicles, the following rules app
 * True Strike: Can be cast as a Bonus Action, and affects the next attack you make before the end of your next turn.
 * Armor of Agathys: While you have the temporary HP, you also have resistance to cold damage.
 * Ceremony: Invokes a spirit quest within the target(s)' mind related to the purpose of the casting.  The benefits of the spell only happen if this quest is successful.  If there is a skill check involved in the casting, the skill check's results determine the difficulty of the mission.  In addition, it is possible to use the Ceremony spell for more than just the listed uses, though the benefits (and risks) depend entirely on DM interpretation of the situation.
-* Find Familiar: Familiar can take the form of any Tiny CR 0 creature that the caster has seen before or can imagine.
+* Find Familiar: Familiar can take the form of any Tiny CR 0 creature.
 * Identify: Can identify cursed items if and only if the cursed item was enchanted with an equal or lower spell level than the one used to cast Identify.  Ritual casting Identify makes it count as 1st level.
 * Witch Bolt: The repeat damage is scaled with higher level spell slots
 * Barkskin: Does not require concentration
