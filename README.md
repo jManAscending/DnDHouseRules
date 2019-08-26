@@ -29,7 +29,6 @@
 [Quick Actions](https://github.com/jManAscending/DnDHouseRules#quick-actions)  
 [Ranged Dual Wielding](https://github.com/jManAscending/DnDHouseRules#ranged-dual-wielding)  
 [Resurrection](https://github.com/jManAscending/DnDHouseRules#resurrection)  
-[Sailing](https://github.com/jManAscending/DnDHouseRules#sailing)  
 [Scrolls](https://github.com/jManAscending/DnDHouseRules#scrolls)  
 [Speed](https://github.com/jManAscending/DnDHouseRules#speed)  
 [Spells Per Turn](https://github.com/jManAscending/DnDHouseRules#spells-per-turn)  
