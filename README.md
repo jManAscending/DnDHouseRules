@@ -230,6 +230,8 @@ The Surprised condition wears off after one full round has passed, instead of on
 ## Taking Ten
 When in a non-stressful situation where you can repeat a skill check for an arbitrary amount of time, you can choose to use your passive skill in place of an active skill check.  For example, this can apply to searching a room for hidden doors or compartments, studying a topic in a library over downtime, or crafting an item that you have crafted before.
 
+If you would have advantage on the check, your passive score increases by 5 for that check, and vice versa for disadvantage.
+
 ## Vehicle Combat
 When combat starts inside a vehicle or between vehicles, the following rules apply:
 * On initiative count 20 (losing ties), the vehicles are respaced depending on their relative speeds and angles.  Each vehicle has a maximum speed, but the driver may choose to go slower than that for various reasons, chief among them being that vehicles are very hard to control at their actual top speed.
