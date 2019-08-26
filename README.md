@@ -42,54 +42,32 @@
 [Feat Changes](https://github.com/jManAscending/DnDHouseRules#feat-changes)  
 [Spell Changes](https://github.com/jManAscending/DnDHouseRules#spell-changes)  
 
-## Quick Actions
-It is possible to use an Action on your turn to use an ability that would normally be a Bonus Action or Reaction, and it is possible to use your Bonus Action on your turn to use an ability that would normally be your Reaction.  
-
-## Preparing Cantrips
-Apart from cantrips that have been selected normally, the cantrip list for each class can be treated as an extension of the class' first level spell list.  In addition, if you have the Spellcasting or Pact Magic feature, you may swap out one cantrip each time you gain a level in the class that grants it.
-
 ## Changed Casting Stat
 When you make a spellcasting character, multiclass into a spellcasting class, or otherwise gain the ability to cast spells from a class or feat, you may request for the class' spellcasting ability score to change to a different one, if you can give a solid justification for it.  For example, you may decide that your warlock gained their power through studying forgotten research of an eldritch entity, and thus uses Intelligence as their casting stat.  Once you start playing this character as a spellcaster, you may not change their casting stat.
 
-If you are starting this character from level 1 with a different casting stat, you may change their starting saving proficiencies if they do not normally start with proficiency in saves from their new casting stat.  All characters must have one proficiency from the 3 more common saves (Dex, Wis, Con) and one proficiency from the 3 less common saves (Int, Cha, Str), so the save proficiency you replace must be in the same group as your new casting stat.
+If you are starting this character from level 1 with a different casting stat, you may change their starting saving proficiencies if they do not normally start with proficiency in saves from their new casting stat.  All characters must have one proficiency from the 3 more common saves (Dex, Wis, Con) and one proficiency from the 3 less common saves (Int, Cha, Str), so the save proficiency you replace must be in the same tier as your new casting stat.
 
 ## Character Creation
-For your background, you may choose any two skill proficiencies and any two tool/weapon proficiencies or languages.  As this is a sci-fi/cyberpunk era campaign, background features have a lot of room to be reflavored and changed.  Many jobs exist now that didn't exist in any normal D&D world, so if you want a completely different homebrew background, just tell the DM what profession you want your character to be trained in, and we can work out what your background feature could be.  As an example, I have a few homebrew modern-day backgrounds: (link to be added)
+For your background, you may choose any two skill proficiencies and any two tool/weapon proficiencies or languages.  As this is a sci-fi/cyberpunk era campaign, background features have a lot of room to be reflavored and changed.  Many jobs exist now that didn't exist in any normal D&D world, so if you want a completely different homebrew background, just tell the DM what profession you want your character to be trained in, and we can work out what your background feature could be, and what equipment you could start with.
 
 When rolling stats, use 4d6 drop lowest 6 times, and reroll all 6 if the total is less than 70.
 
-You start with the equipment provided in your class features in addition to the starting wealth listed for your class.  If you are creating a character higher than level 3, you can also roll extra d4s equal to your proficiency bonus with your starting wealth.  You may spend starting wealth on whatever equipment you can afford before the first session, and trade out starting equipment for extra starting wealth.
-
-## Foot/Mounted Chases
-Chases mostly follow normal combat rules, with the following exceptions:
-* The initiative order is set based on relative positions (quarry goes first, followed by pursuers in order)
-* At the end of each round, initiative is reset based on new relative positions
-* At the start of each round, the DM may introduce an obstacle that everyone involved needs to deal with on their turn.  For examples, see the Chase Complications tables in the DMG.
-* Opportunity Attacks cannot be used
-* During a chase, a creature can use the Dash action freely a number of times equal to 3 + their Constitution modifier.  After this, each additional Dash requires a DC 10 Con check.  On a failure, the creature gains 1 level of Exhaustion.  Levels of Exhaustion gained this way can be removed over a short or long rest.
-
-A chase ends if one of the following happens:
-* The quarry is Grappled, Restrained, or otherwise prevented from moving by their pursuers
-* The quarry has gained enough distance to be outside the maximum vision range of all pursuers
-* The quarry is out of sight, and takes the Hide action, successfully hiding from their pursuers
-* Either the quarry or all pursuers reach 5 levels of exhaustion
-* Either the quarry or the pursuers purposely stop
-
-When a chase ends, if normal combat follows, initiative is rolled at the end of the last round of the chase.
-
-If a creature attempts to run away during normal combat, the chase begins at initiative count 0 after the first pursuer gives chase.  If the remaining creatures are still fighting each other, initiative count 0 separates the normal combat from the chase.
-
-## Vehicle Combat
-When combat starts inside a vehicle or between vehicles, the following rules apply:
-* On initiative count 20 (losing ties), the vehicles are respaced depending on their relative speeds and angles.  Each vehicle has a maximum speed, but the driver may choose to go slower than that for various reasons, chief among them being that vehicles are very hard to control at their actual top speed.
-* If the vehicle is in manual control mode, one creature must use an Action every round to drive the vehicle.  When doing so, the driver decides what speed the vehicle is going, whether to make a turn, and how to evade any incoming obstacles.  If an entire round passes with nobody driving, the vehicle swerves and may crash.  This creature may need to make a skill/tool check each round to control the car in heavy traffic or other adverse conditions, with a DC depending on their speed.
-* If the vehicle is in auopilot mode, the AI will act on initiative count 20, obeying all traffic laws and driving as safely as possible.  If the autopilot has been hacked, then what happens depends on what the hacker attempts to make the vehicle do.  A hacker may decide to give the vehicle false information or change its destination, in which case the AI would still act on initiative count 20.  Alternatively, a hacker could take complete control of the vehicle, in which case the hacker would be considered equivalent to a manual driver.
+You start with the equipment provided in your class features in addition to the starting wealth listed for your class.  If you are creating a character higher than level 3, you can also roll extra d4s equal to your proficiency bonus with your starting wealth.  You may spend starting wealth on whatever equipment you can afford before the first session, and trade out starting equipment for extra starting wealth.  When converting money between the PHB rules and the modern setting, 1sp = $1.
 
 ## Companion Creatures
 If you have a telepathic connection with a companion creature that you control and that creature rolls initiative at the same time as you, that creature does not roll initiative for itself, and instead acts on your turn.
 
-## Critical Hits
-Critical hits deal the maximum damage for the attack, plus another roll of the dice.  This applies to all dice rolled as part of the attack hitting - even if the dice were added after you hit, or if the target had the opportunity to make a saving throw to avoid half of it (e.g. poisons)
+## Coup De Grace
+If a creature is indefinitely incapacitated and there is no other threat around, any attack from within 5ft that would deal lethal damage to that creature automatically hits, and instantly reduces them to 0 HP.
+
+## Criticals
+On attack rolls, Critical Hits deal the maximum damage for the attack, plus another roll of the dice.  This applies to all dice rolled as part of the attack hitting - even if the target had the opportunity to make a saving throw to avoid half of it (e.g. poisons).
+
+On saving throws, Critical Successes automatically succeed, and Critical Failures automatically fail.
+
+On contested ability checks, Critical Successes automatically win, and Critical Failures automatically lose.
+
+On regular ability checks, criticals mean nothing.
 
 ## Downed Creatures
 Creatures at 0 HP and Unstable are not fully Unconscious.  Instead, they are considered Prone and Stunned, meaning they are still somewhat aware of their surroundings and can speak falteringly.  Creatures at 0 HP and Stable are Unconscious.
@@ -99,7 +77,6 @@ Any purposeful attack against a downed creature at 0 HP from within 5ft will inf
 Failed death saving throws last until a creature's next long rest.  A creature can expend hit dice over a short rest to remove failed death saving throws (one die per saving throw).  Hit dice expended to remove a death saving throw restore no hit points.
 
 Each time a creature drops to 0 HP, they gain a level of Exhaustion.  This rule does not apply to Path of the Zealot Barbarians.
-
 
 ## Downtime
 You can use downtime to gain abilities beyond those listed in your class.  You must have some roleplay reason to want the abilities, a roleplay justification for how you're learning, and must describe at least partially what you are doing during downtime to train.  You may train on your own for free (minus required materials), but the training will go faster if you train under someone who has the feature you are training to get.  Each downtime day requires approximately 8 hours of training, and gives a number of Downtime Points equal to your Intelligence modifier (minimum 1).
@@ -123,10 +100,9 @@ You cannot train yourself from nothing.  In order to learn a new skill or abilit
 If you have a class feature that says you can magically conjure or summon a weapon in your hand, it counts as a free object interaction, similar to actually drawing a weapon.
 
 ## Dual Creature Types
-Some creatures may have 2 separate creature types, determined on a case-by-case basis by the DM.  As such, they are affected by anything that affects either of their creature types.  However, if one of their creature types is immune to an effect but the other isn't, the effect is reduced in a way determined by the DM.  For example, Warforged would be classified as both Construct and Humanoid, and would have advantage on saves vs Hold Person and similar magical effects.  
+Some creatures may have 2 separate creature types, determined on a case-by-case basis by the DM.  As such, they are affected by anything that affects either of their creature types.  However, if one of their creature types is immune to an effect but the other isn't, the effect is reduced in a way determined by the DM.
 
-Planetouched races such as Tieflings and Aasimar (as well as Dhampirs) are considered purely Humanoid, but with non-humanoid heritage that is divinable by certain spells and magical effects, and may affect how they react to certain abjuration magic.  Pure Undead creatures will never retain any semblance of their previous creature type, apart from appearance.
-
+Planetouched races such as Tieflings and Aasimar (including Warforged, for balance reasons) are considered Humanoid, but with non-humanoid influence that is divinable by certain spells and magical effects, and may affect how they react to certain abjuration magic.  Undead creatures will never retain any semblance of their previous creature type, apart from appearance.
 
 ## Extended Sourcebooks
 Materials from all officially published WotC material are available, though some have changes listed in these rules.  All UA material, Stream content, and any features that are setting-specific require DM approval and possible modification before using.
@@ -154,19 +130,36 @@ If a Paladin breaks their oath, a Cleric loses the favor of their God, or a Warl
 
 All the character's levels in the relevent class will be replaced by one level of a "Fallen" class.  The "Fallen" class will include every nonmagical class feature the character had gained up until that point, including HP and Hit Dice, but not including Proficiency Bonus.  Subsequently gained levels in other classes will not grant new HP or Hit Dice until the character has surpassed the character level at which they fell, nor will they grant ASIs until the new classes' ASIs outnumber the ASIs they had under the first class.  If the character does not already have levels in any other classes at the time they fall, they do not need to meet the ability score prerequisites to multiclass into any other class, but must still have a valid roleplay reason to take the new class.
 
-## Leveling HP
-When rolling a hit die on a level up, if the die lands on a 1, you may reroll it until it lands on anything else.
+## Foot Chases
+Chases mostly follow normal combat rules, with the following exceptions:
+* The initiative order is set based on relative positions (quarry goes first, followed by pursuers in order)
+* At the end of each round, initiative is reset based on new relative positions
+* At the start of each round, the DM may introduce an obstacle that everyone involved needs to deal with on their turn.  For examples, see the Chase Complications tables in the DMG.
+* Opportunity Attacks cannot be used
+* During a chase, a creature can use the Dash action freely a number of times equal to 3 + their Constitution modifier.  After this, each additional Dash requires a DC 10 Con check.  On a failure, the creature gains 1 level of Exhaustion.  Levels of Exhaustion gained this way can be removed over a short or long rest.
+
+A chase ends if one of the following happens:
+* The quarry is Grappled, Restrained, or otherwise prevented from moving by their pursuers
+* The quarry has gained enough distance to be outside the maximum vision range of all pursuers
+* The quarry is out of sight, and takes the Hide action, successfully hiding from their pursuers
+* Either the quarry or all pursuers reach 5 levels of exhaustion
+* Either the quarry or the pursuers purposely stop
+
+When a chase ends, if normal combat follows, initiative is rolled at the end of the last round of the chase.
+
+If a creature attempts to run away during normal combat, the chase begins at initiative count 0 after the first pursuer gives chase.  If the remaining creatures are still fighting each other, initiative count 0 separates the normal combat from the chase.
 
 ## Identifying Magic Items
 An Arcana check may reveal whether an item has magical properties or not, and sometimes the nature of the enchantment if the effects are readily apparent.  Focusing on an item over a short rest does not reveal the nature of the item unless you attune to it.  
 
-Not all "Cursed" items have negative effects, and some "non-cursed" items may have negative effects.
+## Initiative
+Every creature's base initiative bonus is their Dexterity modifier plus their Wisdom modifier.
 
 ## Inspiration
 Spending inspiration allows you to treat one ability check, attack roll, or saving throw as if you had rolled a natural 20, though this does not count as a critical success.  You cannot choose to do this if you have already rolled.
 
-## Coup De Grace
-If a creature is indefinitely incapacitated and there is no other threat around, any attack that would deal lethal damage to that creature automatically hits, and instantly reduces them to 0 HP.
+## Leveling HP
+When rolling a hit die on a level up, if the die lands on a 1, you may reroll it until it lands on anything else.
 
 ## Milestone Leveling
 XP will not be kept track of, or given out.  All PCs will be the same level, and the PCs will level up according to DM judgement call.  If a player controls a Fallen character, they will gain levels slightly faster until they catch back up.
@@ -199,15 +192,19 @@ The Plane Shift and Gate spells can still connect to whichever layer you want, s
 ## Potions
 Drinking a potion in combat is a bonus action.  Feeding a Potion to another character is an Action.
 
+## Preparing Cantrips
+Apart from cantrips that have been selected normally, the cantrip list for each class can be treated as an extension of the class' first level spell list.  In addition, if you have the Spellcasting or Pact Magic feature, you may swap out one cantrip each time you gain a level in the class that grants it.
+
 ## Preparing Spells
 Spells can be prepared at the end of a long rest or during a short rest.  This process takes 1 minute per spell level per spell (both the spells you're preparing and un-preparing), and requires concentration and the ability to perform verbal and somatic components for the duration.  If a spell requires material components or a focus, it cannot be prepared without the material components or focus present.
+
+## Quick Actions
+It is possible to use an Action on your turn to use an ability that would normally be a Bonus Action or Reaction, and it is possible to use your Bonus Action on your turn to use an ability that would normally be your Reaction.  
 
 ## Ranged Dual Wielding
 One-handed Light ranged weapons can be wielded in the off hand, and a bonus action can be used to attack as if using the Two Weapon Fighting mechanics.  
 
 The ranged weapon does not have to be Light if the wielder has the Dual Wielder feat, but the +1 to AC will not apply unless both weapons are melee weapons.  
-
-The Crossbow Expert feat does not apply to guns.  
 
 ## Resurrection
 After being resurrected via Revivify, Raise Dead, or similar magic, you automatically have one failed death save.  After being resurrected twice, you have two permanently failed death saves.  After being resurrected for a third time, the next time you would normally be unconscious and unstable, you die instantly and cannot be revived.  This restriction does not apply to Zealot Barbarians, the Reincarnate spell, or Undead.
@@ -215,7 +212,10 @@ After being resurrected via Revivify, Raise Dead, or similar magic, you automati
 ## Scrolls
 There are 3 known types of magic in the world that can be inscribed in a spell scroll: Arcane, Divine, and Natural.  If you can cast at least one spell of first level or higher, you can use any spell scroll of the same type of magic.  Which type of caster you are depends on how you got your magic.  There are rarer types of magic as well, but those generally cannot be inscribed as scrolls.
 
-If you have proficiency in Arcana, you can use Arcane spell scrolls even if you do not know any Arcane spells.  The same applies to Religion for Divine scrolls and Nature for Natural scrolls.  If you do not know any spells of the relevent casting type, you must make an Arcana, Religion, or Nature check to use the scroll.
+If you have proficiency in Arcana, you can use Arcane spell scrolls even if you do not know any Arcane spells.  The same applies to Religion for Divine scrolls and Nature for Natural scrolls.  If you do not know any spells of the relevent casting type, or if you do not have a spell slot high enough to cast the scribed spell, you must make an Arcana, Religion, or Nature check to use the scroll.
+
+## Speed
+Every character gets a bonus to their speed equal to 5 times their Strength modifier or Dexterity modifier, whichever's lowest.  If one of those ability modifiers is negative, then the speed bonus is 0.  If both ability modifiers are negative, the penalty equals 5 times the higher bonus.
 
 ## Spells Per Turn
 If you cast more than one spell on your turn, their combined level must not add up to more than the highest level spell you are able to cast or the highest level spell slot you have (whichever's higher).  Cantrips count as level 0.
@@ -230,7 +230,12 @@ The Surprised condition wears off after one full round has passed, instead of on
 
 ## Taking Ten
 When in a non-stressful situation where you can repeat a skill check for an arbitrary amount of time, you can choose to use your passive skill in place of an active skill check.  For example, this can apply to searching a room for hidden doors or compartments, studying a topic in a library over downtime, or crafting an item that you have crafted before.
-	
+
+## Vehicle Combat
+When combat starts inside a vehicle or between vehicles, the following rules apply:
+* On initiative count 20 (losing ties), the vehicles are respaced depending on their relative speeds and angles.  Each vehicle has a maximum speed, but the driver may choose to go slower than that for various reasons, chief among them being that vehicles are very hard to control at their actual top speed.
+* If the vehicle is in manual control mode, one creature must use an Action every round to drive the vehicle.  When doing so, the driver decides what speed the vehicle is going, whether to make a turn, and how to evade any incoming obstacles.  If an entire round passes with nobody driving, the vehicle swerves and may crash.  This creature may need to make a skill/tool check each round to control the car in heavy traffic or other adverse conditions, with a DC depending on their speed.
+* If the vehicle is in auopilot mode, the AI will act on initiative count 20, obeying all traffic laws and driving as safely as possible.  If the autopilot has been hacked, then what happens depends on what the hacker attempts to make the vehicle do.  A hacker may decide to give the vehicle false information or change its destination, in which case the AI would still act on initiative count 20.  Alternatively, a hacker could take complete control of the vehicle, in which case the hacker would be considered equivalent to a manual driver.
 
 ## Class Changes
 * Bard level 20 capstone: If you have spent one minute with no uses of bardic inspiration left and no other creatures having inspiration granted by you, you regain one use of bardic inspiration.
