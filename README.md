@@ -83,7 +83,7 @@ Failed death saving throws last until a creature's next long rest.  A creature c
 Each time a creature drops to 0 HP, they gain a level of Exhaustion.  This rule does not apply to Path of the Zealot Barbarians.
 
 ## Downtime
-You can use downtime to gain abilities beyond those listed in your class.  You must have some roleplay reason to want the abilities, a roleplay justification for how you're learning, and must describe at least partially what you are doing during downtime to train.  You may train on your own for free (minus required materials), but the training will go faster if you train under someone who has the feature you are training to get.  Each downtime day requires approximately 8 hours of training, and gives a number of Downtime Points equal to your Intelligence modifier (minimum 1).
+You can use downtime to gain abilities beyond those listed in your class.  You must have some roleplay reason to want the abilities, a roleplay justification for how you're learning, and must describe at least partially what you are doing during downtime to train.  Each downtime day requires approximately 8 hours of training, and gives a number of Downtime Points equal to your Intelligence modifier (minimum 1).
 
 Ability | Points Required | Comments
 -----|-------|--------
