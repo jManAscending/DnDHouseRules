@@ -256,7 +256,6 @@ All abilities which normally last for or recharge after 7 days have that duratio
 * Druid level 20 capstone: If at the start of your turn you have no uses of Wild Shape remaining and are not wildshaped, you regain 1 use of Wild Shape.
 * Monk level 20 capstone: If you have less than 4 ki points remaining, you can spend an Action to center yourself and regain 1 ki point.
 * Monk Weapons count as Finesse, including Unarmed Strikes
-* Monks of the Way of the Four Elements can use this [Remastered version](https://img.4plebs.org/boards/tg/image/1433/19/1433195829577.pdf).
 * Rangers of the Beast or Hunter conclave can use either the PHB or Revised Ranger stats.  If you choose the PHB Beastmaster, the subclass is changed as follows:
   * Your beast companion rolls its own initiative and has its own turn, though it loses multiattack (if it has one) until level 11.
   * At level 7, you can command your beast companion using your Bonus Action.  Your beast companion can immediately use its Reaction to take the Attack, Dash, Dodge, or Help actions.
