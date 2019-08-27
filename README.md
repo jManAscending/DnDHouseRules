@@ -47,7 +47,9 @@ When you make a spellcasting character, multiclass into a spellcasting class, or
 If you are starting this character from level 1 with a different casting stat, you may change their starting saving proficiencies if they do not normally start with proficiency in saves from their new casting stat.  All characters must have one proficiency from the 3 more common saves (Dex, Wis, Con) and one proficiency from the 3 less common saves (Int, Cha, Str), so the save proficiency you replace must be in the same tier as your new casting stat.
 
 ## Character Creation
-For your background, you may choose any two skill proficiencies and any two tool/weapon proficiencies or languages.  As this is a sci-fi/cyberpunk era campaign, background features have a lot of room to be reflavored and changed.  Many jobs exist now that didn't exist in any normal D&D world, so if you want a completely different homebrew background, just tell the DM what profession you want your character to be trained in, and we can work out what your background feature could be, and what equipment you could start with.
+For your background, you may choose any two skill proficiencies and any two tool/weapon proficiencies or languages.  Instead of two skill proficiencies, you may choose one skill expertise. 
+
+As this is a sci-fi/cyberpunk era campaign, background features have a lot of room to be reflavored and changed.  Many jobs exist now that didn't exist in any normal D&D world, so if you want a completely different homebrew background, just tell the DM what profession you want your character to be trained in, and we can work out what your background feature could be, and what equipment you could start with.
 
 When rolling stats, use 4d6 drop lowest 6 times, and reroll all 6 if the total is less than 70.
 
