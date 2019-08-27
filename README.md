@@ -37,6 +37,7 @@
 [Surprise Rounds](https://github.com/jManAscending/DnDHouseRules#surprise-rounds)  
 [Taking Ten](https://github.com/jManAscending/DnDHouseRules#taking-ten)  
 [Vehicle Combat](https://github.com/jManAscending/DnDHouseRules#vehicle-combat)  
+[Week Length](https://github.com/jManAscending/DnDHouseRules#week-length)  
 [Class Changes](https://github.com/jManAscending/DnDHouseRules#class-changes)  
 [Feat Changes](https://github.com/jManAscending/DnDHouseRules#feat-changes)  
 [Spell Changes](https://github.com/jManAscending/DnDHouseRules#spell-changes)  
@@ -54,6 +55,8 @@ As this is a sci-fi/cyberpunk era campaign, background features have a lot of ro
 When rolling stats, use 4d6 drop lowest 6 times, and reroll all 6 if the total is less than 70.
 
 You start with the equipment provided in your class features in addition to the starting wealth listed for your class.  If you are creating a character higher than level 3, you can also roll extra d4s equal to your proficiency bonus with your starting wealth.  You may spend starting wealth on whatever equipment you can afford before the first session, and trade out starting equipment for extra starting wealth.  When converting money between the PHB rules and the modern setting, 1sp = $1.
+
+See full guide [here](https://www.gmbinder.com/share/-LmJVKwpjP1DS_ufoH_i)
 
 ## Companion Creatures
 If you have a telepathic connection with a companion creature that you control and that creature rolls initiative at the same time as you, that creature does not roll initiative for itself, and instead acts on your turn.
@@ -111,9 +114,10 @@ Materials from all officially published WotC material are available, though some
 Items not from official WotC material require heavy DM scutiny to be accepted, and may be reworked on the fly.
 
 Currently accepted homebrew material:
-* Matt Mercer's Blood Hunter + Lycan subclass
-* Kibbles Artificer
-* My current homebrew material
+* Matt Mercer's [Blood Hunter](http://www.dmsguild.com/product/175606/Order-of-the-Lycan-for-Blood-Hunters) + [Lycan subclass](http://www.dmsguild.com/product/175606/Order-of-the-Lycan-for-Blood-Hunters)
+* [Kibbles Artificer](https://www.gmbinder.com/share/-LAEn6ZdC6lYUKhQ67Qk) (UA Artificer Revisited also allowed)
+* [Way of the Four Elements Remastered](https://img.4plebs.org/boards/tg/image/1433/19/1433195829577.pdf)
+* My current homebrew material: [spells and feats](https://www.gmbinder.com/share/-Lcp7PI9Uwo7sVCh9iUS), subclasses TBD
 
 ## Fall Damage
 Falling damage compounds: 1 die per 10ft fallen, per 10ft fallen.  All creatures' fall damage caps at 100ft (55 dice), but the damage dice change based on the creature's size - the bigger you are, the harder you fall.
@@ -242,6 +246,9 @@ When combat starts inside a vehicle or between vehicles, the following rules app
 * On initiative count 20 (losing ties), the vehicles are respaced depending on their relative speeds and angles.  Each vehicle has a maximum speed, but the driver may choose to go slower than that for various reasons, chief among them being that vehicles are very hard to control at their actual top speed.
 * If the vehicle is in manual control mode, one creature must use an Action every round to drive the vehicle.  When doing so, the driver decides what speed the vehicle is going, whether to make a turn, and how to evade any incoming obstacles.  If an entire round passes with nobody driving, the vehicle swerves and may crash.  This creature may need to make a skill/tool check each round to control the car in heavy traffic or other adverse conditions, with a DC depending on their speed.
 * If the vehicle is in auopilot mode, the AI will act on initiative count 20, obeying all traffic laws and driving as safely as possible.  If the autopilot has been hacked, then what happens depends on what the hacker attempts to make the vehicle do.  A hacker may decide to give the vehicle false information or change its destination, in which case the AI would still act on initiative count 20.  Alternatively, a hacker could take complete control of the vehicle, in which case the hacker would be considered equivalent to a manual driver.
+
+## Week Length
+All abilities which normally last for or recharge after 7 days have that duration shortened to 6 days.
 
 ## Class Changes
 * Bard level 20 capstone: If you have spent one minute with no uses of bardic inspiration left and no other creatures having inspiration granted by you, you regain one use of bardic inspiration.
