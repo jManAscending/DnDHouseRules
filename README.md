@@ -115,7 +115,7 @@ Items not from official WotC material require heavy DM scutiny to be accepted, a
 
 Currently accepted homebrew material:
 * Matt Mercer's [Blood Hunter](http://www.dmsguild.com/product/175606/Order-of-the-Lycan-for-Blood-Hunters) + [Lycan subclass](http://www.dmsguild.com/product/175606/Order-of-the-Lycan-for-Blood-Hunters)
-* [Kibbles Artificer](https://www.gmbinder.com/share/-LAEn6ZdC6lYUKhQ67Qk) (UA Artificer Revisited also allowed)
+* [KibblesTasty Artificer](https://www.gmbinder.com/share/-LAEn6ZdC6lYUKhQ67Qk) (UA Artificer Revisited also allowed)
 * [Way of the Four Elements Remastered](https://img.4plebs.org/boards/tg/image/1433/19/1433195829577.pdf)
 * My current homebrew material: [spells and feats](https://www.gmbinder.com/share/-Lcp7PI9Uwo7sVCh9iUS), subclasses TBD
 
@@ -251,6 +251,7 @@ When combat starts inside a vehicle or between vehicles, the following rules app
 All abilities which normally last for or recharge after 7 days have that duration shortened to 6 days.
 
 ## Class Changes
+* Artificer (KibblesTasty): The Cannonsmith's Thunder Cannon uses the base stats of a Hunting Rifle.
 * Bard level 20 capstone: If you have spent one minute with no uses of bardic inspiration left and no other creatures having inspiration granted by you, you regain one use of bardic inspiration.
 * Druids, while wildshaped, count as dual type Humanoid/Beast.
 * Druid level 20 capstone: If at the start of your turn you have no uses of Wild Shape remaining and are not wildshaped, you regain 1 use of Wild Shape.
