@@ -117,7 +117,7 @@ Currently accepted homebrew material:
 * Matt Mercer's [Blood Hunter](http://www.dmsguild.com/product/175606/Order-of-the-Lycan-for-Blood-Hunters) + [Lycan subclass](http://www.dmsguild.com/product/175606/Order-of-the-Lycan-for-Blood-Hunters)
 * [KibblesTasty Artificer](https://www.gmbinder.com/share/-LAEn6ZdC6lYUKhQ67Qk) (UA Artificer Revisited also allowed)
 * [Way of the Four Elements Remastered](https://img.4plebs.org/boards/tg/image/1433/19/1433195829577.pdf)
-* My current homebrew material: [spells and feats](https://www.gmbinder.com/share/-Lcp7PI9Uwo7sVCh9iUS), [subclasses](https://www.gmbinder.com/share/-LnS1Bf4hT4MjAESfURs)
+* My current homebrew material: [spells and feats](https://www.gmbinder.com/share/-Lcp7PI9Uwo7sVCh9iUS), [weapons and armor](https://www.gmbinder.com/share/-LnS1Bf4hT4MjAESfURs), [subclasses](https://www.gmbinder.com/share/-LnIrHFC7w4wx0g2bYrt)
 
 ## Fall Damage
 Falling damage compounds: 1 die per 10ft fallen, per 10ft fallen.  All creatures' fall damage caps at 100ft (55 dice), but the damage dice change based on the creature's size - the bigger you are, the harder you fall.
