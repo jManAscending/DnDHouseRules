@@ -163,7 +163,7 @@ When you Ready an Attack action, your reaction attack benefits from the Extra At
 An Arcana check may reveal whether an item has magical properties or not, and sometimes the nature of the enchantment if the effects are readily apparent.  Focusing on an item over a short rest does not reveal the nature of the item unless you attune to it.  
 
 ## Improvised Tools
-If you wish to craft something without tools specifically made for the job, you can attempt to do so with whatever you have access to, provided you can justify how you want it to work.  For example, you could make an improvised set of Thieves' Tools with bobby pins, or an improvised set of Hacking Tools with scripts quickly downloaded off the internet.
+If you wish to craft, repair, or manipulate something without tools specifically made for the job, you can attempt to do so with whatever you have access to, provided you can justify how you want it to work.  For example, you could make an improvised set of Thieves' Tools with bent wire, or an improvised set of Hacking Tools with scripts quickly downloaded off the internet.
 
 When you make a check using improvised tools, you have disadvantage on the roll.
 
