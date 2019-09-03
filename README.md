@@ -16,6 +16,7 @@
 [Fall Damage](https://github.com/jManAscending/DnDHouseRules#fall-damage)  
 [Fallen Classes](https://github.com/jManAscending/DnDHouseRules#fallen-classes)  
 [Foot Chases](https://github.com/jManAscending/DnDHouseRules#foot-chases)  
+[Held Attacks](https://github.com/jManAscending/DnDHouseRules#held-attacks)  
 [Identifying Magic Items](https://github.com/jManAscending/DnDHouseRules#identifying-magic-items)  
 [Initiative](https://github.com/jManAscending/DnDHouseRules#initiative)  
 [Inspiration](https://github.com/jManAscending/DnDHouseRules#inspiration)  
@@ -153,6 +154,9 @@ A chase ends if one of the following happens:
 When a chase ends, if normal combat follows, initiative is rolled at the end of the last round of the chase.
 
 If a creature attempts to run away during normal combat, the chase begins at initiative count 0 after the first pursuer gives chase.  If the remaining creatures are still fighting each other, initiative count 0 separates the normal combat from the chase.
+
+## Held Attacks
+When you Ready an Attack action, your reaction attack benefits from the Extra Attack feature.
 
 ## Identifying Magic Items
 An Arcana check may reveal whether an item has magical properties or not, and sometimes the nature of the enchantment if the effects are readily apparent.  Focusing on an item over a short rest does not reveal the nature of the item unless you attune to it.  
