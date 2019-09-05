@@ -67,7 +67,7 @@ If you have a telepathic connection with a companion creature that you control a
 If a creature is indefinitely incapacitated and there is no other threat around, any attack from within 5ft that would deal lethal damage to that creature automatically hits, and instantly reduces them to 0 HP.
 
 ## Criticals
-On attack rolls, Critical Hits deal the maximum damage for the attack, plus another roll of the dice.  This applies to all dice rolled as part of the attack hitting - even if the target had the opportunity to make a saving throw to avoid half of it (e.g. poisons).
+On attack rolls, Critical Hits deal the normal damage for the attack, plus the maximum the dice could have rolled.  This applies to all dice rolled as part of the attack hitting - even if the target had the opportunity to make a saving throw to avoid half of it (e.g. poisons).
 
 On saving throws, Critical Successes automatically succeed, and Critical Failures automatically fail.
 
