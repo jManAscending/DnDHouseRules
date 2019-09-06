@@ -85,19 +85,20 @@ Failed death saving throws last until a creature's next long rest.  A creature c
 Each time a creature drops to 0 HP, they gain a level of Exhaustion.  This rule does not apply to Path of the Zealot Barbarians.
 
 ## Downtime
-You can use downtime to gain abilities beyond those listed in your class.  You must have some roleplay reason to want the abilities, a roleplay justification for how you're learning, and must describe at least partially what you are doing during downtime to train.  Each downtime day requires approximately 8 hours of training, and gives a number of Downtime Points equal to your Intelligence modifier (minimum 1).
+You can use downtime to gain abilities beyond those listed in your class.  You must have some roleplay reason to want the abilities, a roleplay justification for how you're learning, and must describe at least partially what you are doing during downtime to train.  Each downtime day requires approximately 8 hours of training, and gives a number of Downtime Points equal to your Intelligence score.  If you are training directly under someone who has the skill you are learning, you may add their proficiency bonus to your daily Downtime Points.
 
 Ability | Points Required | Comments
 -----|-------|--------
-Simple Weapon Proficiency|15|none
-Martial Weapon Proficiency|30|none
-Language|60|none
-Skill/Tool Proficiency|80|none
-Skill/Tool Expertise|90|requires skill proficiency
-Armor Proficiency|120|requires previous tier proficiency
-Half-Feat|120|feats that also give +1 to a stat; you don't get the +1 from the feat
-+1 to an Ability Score|120|up to a maximum of 20
-Feat|240|you may get portions of the feat over time
+Simple Weapon Proficiency|60|none
+Martial Weapon Proficiency|180|none
+Tool Proficiency|300|none
+Language|450|none
+Skill Proficiency|600|none
+Skill/Tool Expertise|900|requires skill proficiency
+Armor Proficiency|900|requires previous tier proficiency
+Half-Feat|900|feats that also give +1 to a stat; you don't get the +1 from the feat
++1 to an Ability Score|900|up to a maximum of 20
+Feat|1800|you may get portions of the feat over time
 Other Class Feature|variable|depends on DM judgement calls
 
 You cannot train yourself from nothing.  In order to learn a new skill or ability, you either need to find reference material or a teacher.  Either way, it could end up being an expensive or involved process, depending on how you go about learning.
