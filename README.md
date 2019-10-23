@@ -274,7 +274,8 @@ All abilities which normally last for or recharge after 7 days have that duratio
 * Warlock: The Hexblade subclass does not allow you to use Charisma for weapon attacks and damage.  Instead, that feature is part of Pact of the Blade, which can be taken by any Warlock at level 3.
 
 ## Feat Changes
-* Dual Wielder: if you can magically conjure or summon one weapon from a class feature, you can now conjure or summon two non-heavy weapons at once.
+* Dual Wielder: If you can magically conjure or summon one weapon from a class feature, you can now conjure or summon two non-heavy weapons at once.
+* Grappler: If a creature you are grappling is your size or smaller, you can attempt to throw that creature with an Athletics check, contested by the target's Athletics or Acrobatics.  If you succeed, you can throw the creature a number of feet equal to your strength modifier × 5 (minimum 5ft).  The maximum distance you can throw a creature doubles for each size category it is smaller than you.
 * Heavy Armor Master: Damage reduction applies to magical weapon damage as well.
 * Lucky: Whenever more than one d20 was rolled for something, the circumstances of the original roll must be finalized before choosing between the original die and the Luck die.
 * Tavern Brawler: With this feat, your Unarmed Strikes have the Finesse property.
