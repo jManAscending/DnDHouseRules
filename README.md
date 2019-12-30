@@ -56,7 +56,9 @@ As this is a sci-fi/cyberpunk era campaign, background features have a lot of ro
 
 When rolling stats, use 4d6 drop lowest 6 times, and reroll all 6 if the total is less than 70.
 
-You start with the equipment provided in your class features in addition to the starting wealth listed for your class.  If you are creating a character higher than level 3, you can also roll extra d4s equal to your proficiency bonus with your starting wealth.  You may spend starting wealth on whatever equipment you can afford before the first session, and trade out starting equipment for extra starting wealth.  When converting money between the PHB rules and the modern setting, 1sp = $1.
+You start with the equipment provided in your class features in addition to the starting wealth listed for your class.  If you are creating a character at level 5 or higher, you also gain significantly more wealth.  Instead of d4s, roll dice that have a number of sides equal to twice your proficiency bonus.  For example, with a proficiency bonus of +3, roll d6s.  In addition, you can roll extra dice equal to your proficiency bonus.
+
+You may spend starting wealth on whatever equipment you can afford before the first session, and trade out starting equipment for extra starting wealth.  When converting money between the PHB rules and the modern setting, 1sp = $1.
 
 See full guide [here](https://www.gmbinder.com/share/-LmJVKwpjP1DS_ufoH_i)
 
