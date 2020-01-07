@@ -273,6 +273,7 @@ All abilities which normally last for or recharge after 7 days have that duratio
 * Rangers of the Beast or Hunter conclave can use either the PHB or Revised Ranger stats.  If you choose the PHB Beastmaster, the subclass is changed as follows:
   * Your beast companion rolls its own initiative and has its own turn, though it loses multiattack (if it has one) until level 11.
   * At level 7, you can command your beast companion using your Bonus Action.  Your beast companion can immediately use its Reaction to take the Attack, Dash, Dodge, or Help actions.
+* Rogue: Sneak Attack damage dice increase in size when you reach certain levels in the Rogue class: d8s at 5th level, d10s at 11th level, and d12s at 17th level.
 * Warlock: The Hexblade subclass does not allow you to use Charisma for weapon attacks and damage.  Instead, that feature is part of Pact of the Blade, which can be taken by any Warlock at level 3.
 
 ## Feat Changes
@@ -291,15 +292,17 @@ All abilities which normally last for or recharge after 7 days have that duratio
 * Ceremony: Invokes a spirit quest within the target(s)' mind related to the purpose of the casting.  The benefits of the spell only happen if this quest is successful.  If there is a skill check involved in the casting, the skill check's results determine the difficulty of the mission.  In addition, it is possible to use the Ceremony spell for more than just the listed uses, though the benefits (and risks) depend entirely on DM interpretation of the situation.
 * Find Familiar: Familiar can take the form of any Tiny CR 0 creature.
 * Identify: Can identify cursed items if and only if the cursed item was enchanted with an equal or lower spell level than the one used to cast Identify.  Ritual casting Identify makes it count as 1st level.
-* Witch Bolt: The repeat damage is scaled with higher level spell slots
-* Barkskin: Does not require concentration
+* Mage Armor: The target's base AC becomes 10 + your spellcasting ability modifier + its Dexterity modifier.
+* Shield: While the shield is up, nonmagical damage against you is reduced by an amount equal to your proficiency bonus.
+* Witch Bolt: The repeat damage is scaled with higher level spell slots.
+* Barkskin: AC increased to 17; does not require concentration.
 * Find Steed: Steed can take the form of any Large or Medium Beast of CR 1 or lower, with no Fly or Swim speed, that the caster has seen before.
 * Find Traps: All traps within line of sight glow until the end of your turn.
 * Dispel Magic: Can only dispel one spell per cast.  You must specify what spell you are dispelling (you do not necessarily need to know exactly what the spell is, only that it's there).  Also may be able to dispel other magical effects or properties, with a DC dependent on DM judgement.
 * Sending: You must have at least seen the person you are trying to contact and know at least one name they have gone by, though you need not have met them in person.  Additionally, if you use the Sending spell to contact someone who knows you by a fake identity, they interpret it as coming from the identity they know.  If the recipent knows multiple identities belonging to the caster but does not know that they are the same person, the caster can decide which identity the Sending spell will use.  Also, modern technology can intercept Sending messages, like unencrypted radio signals.
 * Summon Lesser/Greater Demon: These spells are banned.  Not for balance reasons - the Abyss just happened to get thrown into a black hole.
 * Find Greater Steed: Steed can take the form of any Large or Medium non-bipedal creature of CR 2 or lower that the caster has seen before.
-* Stoneskin: Grants resistance to non-siege Bludgeoning/Piercing/Slashing damage, and grants a damage threshold of 5 for all types of damage except for Force, Psychic, and Poison.
+* Stoneskin: Grants resistance to non-siege Bludgeoning/Piercing/Slashing damage, and grants 5 poins of damage reduction for all types of damage except for Force, Psychic, and Poison.
 * Healing Spirit: Moving the spirit is free on your turn; healing requires a Bonus Action or Reaction.
 * Mordenkainen's Sword: No action required for it to attack
 * Plane Shift: The tuning fork requires about 250 gp in materials and a successful Smithing check to craft, but cannot be crafted without knowledge of the proper frequency for the target plane, which cannot be studied from anywhere but that plane.
