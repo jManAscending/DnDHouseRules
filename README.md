@@ -56,9 +56,21 @@ As this is a sci-fi/cyberpunk era campaign, background features have a lot of ro
 
 When rolling stats, use 4d6 drop lowest 6 times, and reroll all 6 if the total is less than 70.
 
-You start with the equipment provided in your class features in addition to the starting wealth listed for your class.  If you are creating a character at level 5 or higher, you also gain significantly more wealth.  Instead of d4s, roll dice that have a number of sides equal to twice your proficiency bonus.  For example, with a proficiency bonus of +3, roll d6s.  In addition, you can roll extra dice equal to your proficiency bonus.
+When creating a low-level character, you start with the equipment provided in your class features and background in addition to the starting wealth listed for your class.  When converting money between the PHB rules and the modern setting, 1sp = $1.
 
-You may spend starting wealth on whatever equipment you can afford before the first session, and trade out starting equipment for extra starting wealth.  When converting money between the PHB rules and the modern setting, 1sp = $1.
+If you are creating a character at level 5 or higher, use the following table instead of your class' starting wealth:
+
+Level | Money | Magic Items
+-----|-------|--------
+1-4|see class|none
+5-8|$5,000 + 1d10×250|1 common
+9-12|$25,000 + 1d10×1250|2 common, 1 uncommon
+13-16|$50,000 + 1d10×2500|3 common, 2 uncommon
+17-20|$200,000 + 1d10×10000|3 common, 2 uncommon, 1 rare
+
+You can forgo getting two free magic items of one tier in order to start with one free magic item of a higher rarity tier.  For example, you could give up two uncommon items to start with one rare item.  This can stack with other free magic items; for example, at level 17 you could start with three common items and one very rare magic item.
+
+You may spend starting wealth on whatever equipment you can afford before the first session.  This potentially includes more magic items, but you cannot combine purchased magic items with your free magic items to get higher tier items.  
 
 See full guide [here](https://www.gmbinder.com/share/-LmJVKwpjP1DS_ufoH_i)
 
