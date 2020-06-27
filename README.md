@@ -220,7 +220,7 @@ All spells which can supposedly affect anything on the same plane as you, but ca
 * The Astral Sea has no innate layers, but artificial "layers" have been magically created (e.g. Bags of Holding and the Demiplane spell)
 * The Outer Planes each have their own unique and weird structures (results may vary)
 
-The Plane Shift and Gate spells can still connect to whichever layer you want, so long as your destination is not magically warded from planar travel.  
+The Gate spell can still connect to whichever layer you want, so long as your destination is not magically warded from planar travel.  Plane Shift can only take you to the first or 'primary' layer of that plane (e.g. you can plane shift to Avernus, but not Dis).
 
 ## Potions
 Drinking a potion in combat is a bonus action.  Feeding a Potion to another character is an Action.
