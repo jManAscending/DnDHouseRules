@@ -54,7 +54,7 @@ For your background, you may choose any two skill proficiencies and any two tool
 
 As this is a sci-fi/cyberpunk era campaign, background features have a lot of room to be reflavored and changed.  Many jobs exist now that didn't exist in any normal D&D world, so if you want a completely different homebrew background, just tell the DM what profession you want your character to be trained in, and we can work out what your background feature could be, and what equipment you could start with.
 
-When rolling stats, use 4d6 drop lowest 6 times, and reroll all 6 if the total is less than 70.
+When rolling stats, use 4d6 drop lowest 6 times, and reroll all 6 if the total is less than 70.  If the total is over 70 but you still have no good stats, you can subtract 2 from one roll in exchange for adding 1 to another.  You can do this up to twice, and you cannot increase a roll beyond 18 with this bonus.
 
 When creating a low-level character, you start with the equipment provided in your class features and background in addition to the starting wealth listed for your class.  When converting money between the PHB rules and the modern setting, 1sp = $1.
 
