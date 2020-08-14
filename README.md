@@ -286,6 +286,7 @@ All abilities which normally last for or recharge after 7 days have that duratio
   * Your beast companion rolls its own initiative and has its own turn, though it loses multiattack (if it has one) until level 11.
   * At level 7, you can command your beast companion using your Bonus Action.  Your beast companion can immediately use its Reaction to take the Attack, Dash, Dodge, or Help actions.
 * Rogue: Sneak Attack damage dice increase in size when you reach certain levels in the Rogue class: d8s at 5th level, d10s at 11th level, and d12s at 17th level.
+* Sorcerer: Instead of learning metamagic options permanently, you can prepare 2 metamagic options from the list of available ones at the end of a long rest.  In addition, if your sorcerer subclass does not have a feature at level 1 giving you bonus spells, you gain the Origin Spells feature, giving you more known spells from 1st to 5th level based on your specific subclass.  I'll have my own version eventually, but for right now, use [this document](https://homebrewery.naturalcrit.com/share/HyBT1deBmN).
 * Warlock: The Hexblade subclass does not allow you to use Charisma for weapon attacks and damage.  Instead, that feature is part of Pact of the Blade, which can be taken by any Warlock at level 3.
 
 ## Feat Changes
