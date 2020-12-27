@@ -38,6 +38,7 @@
 [Suffocation](https://github.com/jManAscending/DnDHouseRules#suffocation)  
 [Surprise Rounds](https://github.com/jManAscending/DnDHouseRules#surprise-rounds)  
 [Taking Ten](https://github.com/jManAscending/DnDHouseRules#taking-ten)  
+[Tattoos](https://github.com/jManAscending/DnDHouseRules#tattoos)  
 [Vehicle Combat](https://github.com/jManAscending/DnDHouseRules#vehicle-combat)  
 [Week Length](https://github.com/jManAscending/DnDHouseRules#week-length)  
 [Class Changes](https://github.com/jManAscending/DnDHouseRules#class-changes)  
@@ -265,6 +266,13 @@ The Surprised condition wears off after one full round has passed, instead of on
 When in a non-stressful situation where you can repeat a skill check for an arbitrary amount of time, you can choose to use your passive skill in place of an active skill check.  For example, this can apply to searching a room for hidden doors or compartments, studying a topic in a library over downtime, or crafting an item that you have crafted before.
 
 If you would have advantage on the check, your passive score increases by 5 for that check, and vice versa for disadvantage.
+
+## Tattoos
+The magic tattoos from Tasha's Cauldron are available, but are not flavored as described in the items' descriptions.  Instead, they are created using tattoo ink infused with residuum, and effectively must be applied by a tattoo artist casting Enchant Magic Item using a specialized tattoo needle that is itself enchanted to handle the residuum.  Unattuning from a tattoo does not result in the tattoo disappearing, but does result in being unable to use the tattoo's magical properties, and the tattoo will fade to be almost invisible.  The tattoo will also temporarily fade inside an Antimagic Field.
+
+Spellwrought tattoos can be created without casting Enchant Magic Item, but do disappear completely once used.  Applying one requires a skill check, similar to crafting an expendable magic item.
+
+Tattoos can only be applied to skin.  Depending on cybernetic augmentations, this may limit the number and location of potential tattoos.
 
 ## Vehicle Combat
 When combat starts inside a vehicle or between vehicles, the following rules apply:
