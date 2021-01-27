@@ -8,7 +8,8 @@
 [Coup De Grace](https://github.com/jManAscending/DnDHouseRules#coup-de-grace)  
 [Criticals](https://github.com/jManAscending/DnDHouseRules#criticals)  
 [Downed Creatures](https://github.com/jManAscending/DnDHouseRules#downed-creatures)  
-[Downtime](https://github.com/jManAscending/DnDHouseRules#downtime)  
+[Downtime Crafting](https://github.com/jManAscending/DnDHouseRules#downtime-crafting)  
+[Downtime Training](https://github.com/jManAscending/DnDHouseRules#downtime-training)  
 [Drawing Weapons Magically](https://github.com/jManAscending/DnDHouseRules#drawing-weapons-magically)  
 [Dual Creature Types](https://github.com/jManAscending/DnDHouseRules#dual-creature-types)  
 [Dying Creatures](https://github.com/jManAscending/DnDHouseRules#dying-creatures)  
@@ -99,7 +100,12 @@ Failed death saving throws last until a creature's next long rest.  A creature c
 
 Each time a creature drops to 0 HP, they gain a level of Exhaustion.  This rule does not apply to Path of the Zealot Barbarians.
 
-## Downtime
+## Downtime Crafting
+If you have proficiency in an Artisan's Tool, You can spend downtime to craft a nonmagical object with that tool.  You must have raw materials equal to half the value of what you want to craft.  If what you are trying to craft costs $100 or less, you can complete it in one 8-hour workday.  Otherwise, each day you work on it you can make $100 worth of progress, and the item is completed when you have spent enough time on it to match its price.  If you have Expertise in the necessary tool, you can craft $200 worth of stuff per day.
+
+Enchanting magic items has its own system, detailed in the homebrew spells document.
+
+## Downtime Training
 You can use downtime to gain abilities beyond those listed in your class.  You must have some roleplay reason to want the abilities, a roleplay justification for how you're learning, and must describe at least partially what you are doing during downtime to train.  Each downtime day requires approximately 8 hours of training, and gives a number of Downtime Points equal to your Intelligence score.  If you are training directly under someone who has the skill you are learning, you may add their proficiency bonus to your daily Downtime Points.
 
 Ability | Points Required | Comments
@@ -133,20 +139,26 @@ Items not from official WotC material require heavy DM scutiny to be accepted, a
 
 Currently accepted homebrew material:
 * Matt Mercer's [Blood Hunter](http://www.dmsguild.com/product/175606/Order-of-the-Lycan-for-Blood-Hunters) + [Lycan subclass](http://www.dmsguild.com/product/175606/Order-of-the-Lycan-for-Blood-Hunters)
-* [KibblesTasty Artificer](https://www.gmbinder.com/share/-LAEn6ZdC6lYUKhQ67Qk) (UA Artificer Revisited also allowed)
+* [KibblesTasty Artificer](https://www.gmbinder.com/share/-LAEn6ZdC6lYUKhQ67Qk) (UA/TCE Artificer also allowed)
 * [Way of the Four Elements Remastered](https://img.4plebs.org/boards/tg/image/1433/19/1433195829577.pdf)
 * My current homebrew material: [spells and feats](https://www.gmbinder.com/share/-Lcp7PI9Uwo7sVCh9iUS), [weapons and armor](https://www.gmbinder.com/share/-LnS1Bf4hT4MjAESfURs), [subclasses](https://www.gmbinder.com/share/-LnIrHFC7w4wx0g2bYrt)
 
 ## Fall Damage
-Falling damage compounds: 1 die per 10ft fallen, per 10ft fallen.  All creatures' fall damage caps at 100ft (55 dice), but the damage dice change based on the creature's size - the bigger you are, the harder you fall.
-* Tiny creatures take 1 damage per 10ft, to a maximum of 55 points
-* Small creatures take 1d4 damage per 10 ft, to a maximum of 55d4
-* Medium creatures take 1d6 damage per 10 ft, to a maximum of 55d6
-* Large creatures take 1d8 damage per 10 ft, to a maximum of 55d8
-* Huge creatures take 1d10 damage per 10 ft, to a maximum of 55d10
-* Gargantuan creatures take 1d12 damage per 10 ft, to a maximum of 55d12
+Falling damage compounds as you fall.  When a creature falls 10ft or more, the fall deals a number of damage dice equal to the number of feet fallen divided by 10, then raised to the 1.4th power (rounded to the closest whole number).  This caps out at 200ft, or 66 dice.
 
-If your speed is greater than 0 when you hit the ground, you can make a Dexterity saving throw (DC=10+{feet fell}/10) to reduce your effective fall distance by 10ft before damage is rolled.  Evasion does not apply to this save.  If you have resistance or immunity to nonmagical bludgeoning damage, it applies to fall damage unless specifically stated otherwise.
+All creatures' fall damage caps at 200ft (66 dice), but the damage dice change based on the creature's size - the bigger you are, the harder you fall.
+* Tiny creatures take 1 damage, to a maximum of 66 points
+* Small creatures take 1d4 damage, to a maximum of 66d4
+* Medium creatures take 1d6 damage, to a maximum of 66d6
+* Large creatures take 1d8 damage, to a maximum of 66d8
+* Huge creatures take 1d10 damage, to a maximum of 66d10
+* Gargantuan creatures take 1d12 damage, to a maximum of 66d12
+
+If your speed is greater than 0 when you hit the ground, you can make a Dexterity saving throw (DC=10+{feet fell}/10) to reduce your effective fall distance by 10ft.  Evasion does not apply to this save.  If you have resistance or immunity to nonmagical bludgeoning damage, it applies to fall damage unless specifically stated otherwise.
+
+If a creature or object falls onto another creature or object, half of the fall damage taken by the falling creature or object is also dealt to the target.  A creature can make a Dexterity saving throw to halve the damage again (Evasion can apply to this save.)
+
+Creatures and objects normally fall at a rate of 500ft per round.  For falls less than 500ft, the fall is treated as happening nearly instantly, though if a creature falls on their turn, they can use their Action, Bonus Action, or Reaction during the fall.
 
 ## Fallen Classes
 If a Paladin breaks their oath, a Cleric loses the favor of their God, or a Warlock breaks their contract, the player may have those powers stripped away.  
@@ -206,7 +218,7 @@ If you want to multiclass, please let the DM know before you level up, so that p
 The multiclass prerequisites can be modified or ignored depending on your primary ability scores for your build.  For example, you do not need 13 Str to multiclass as a paladin if you use Dexterity for all your attack rolls, but you would need 13 Dex.  Personally, I am much more lenient with the prerequisites to multiclass out of a class than the prerequisites for multiclassing into a class.
 
 ## Nonlethal Damage
-Range does not affect lethality.  Psychic and Lightning damage can be made nonlethal without issue; targets will drop to 0 and be stable.  Bludgeoning damage can be made nonlethal if it is the result of an attack roll, and targets will drop to 0 and be stable.  Necrotic damage canot be specified to be nonlethal.  
+Range does not affect lethality.  Psychic and Lightning damage can be made nonlethal without issue; targets will drop to 0 and be stable.  Bludgeoning damage can be made nonlethal if it is the result of an attack roll, and targets will drop to 0 and be stable.  Necrotic damage cannot be specified to be nonlethal.  
 
 All other types of damage can be made nonlethal if the damage was dealt as the result of an attack roll.  If such an attack reduces the target to 0 HP, the creature becomes Unstable, making death saving throws according to player rules.  
 
