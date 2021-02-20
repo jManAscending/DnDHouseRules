@@ -326,7 +326,6 @@ All abilities which normally last for or recharge after 7 days have that duratio
 * Find Familiar: Familiar can take the form of any Tiny CR 0 creature.
 * Identify: Can identify cursed items if and only if the cursed item was enchanted with an equal or lower spell level than the one used to cast Identify.  Ritual casting Identify makes it count as 1st level.
 * Mage Armor: The target's base AC becomes 10 + your spellcasting ability modifier + its Dexterity modifier.
-* Shield: While the shield is up, nonmagical damage against you is reduced by an amount equal to your proficiency bonus.
 * Witch Bolt: The repeat damage is scaled with higher level spell slots.
 * Barkskin: AC increased to 17; does not require concentration.
 * Find Steed: Steed can take the form of any Large or Medium Beast of CR 1 or lower, with no Fly or Swim speed, that the caster has seen before.
