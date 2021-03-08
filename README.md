@@ -5,6 +5,7 @@
 [Changed Casting Stat](https://github.com/jManAscending/DnDHouseRules#changed-casting-stat)  
 [Character Creation](https://github.com/jManAscending/DnDHouseRules#character-creation)  
 [Companion Creatures](https://github.com/jManAscending/DnDHouseRules#companion-creatures)  
+[Colossal Size](https://github.com/jManAscending/DnDHouseRules#colossal-size)  
 [Coup De Grace](https://github.com/jManAscending/DnDHouseRules#coup-de-grace)  
 [Criticals](https://github.com/jManAscending/DnDHouseRules#criticals)  
 [Downed Creatures](https://github.com/jManAscending/DnDHouseRules#downed-creatures)  
@@ -78,6 +79,9 @@ See full guide [here](https://www.gmbinder.com/share/-LmJVKwpjP1DS_ufoH_i)
 
 ## Companion Creatures
 If you have a telepathic connection with a companion creature that you control and that creature rolls initiative at the same time as you, that creature does not roll initiative for itself, and instead acts on your turn.
+
+## Colossal Size
+Some Creatures, Vehicles, and other Objects that take up spaces larger than 30ft x 30ft are considered Colossal.  Colossal entities cannot be grappled except by other colossal entities, and on a battlemap are treated more as terrain than as an actual singular entity.  They follow the same action economy rules as other creatures and vehicles, but generally have different sets of hit points for different parts of them.  For example, a colossal sailing ship might have a separate HP pool for its hull and sails, or a plane may have separate HP pools for its wings and fuselage.  The largest of creatures and vehicles may even have different hit point pools for different sections of a single segment.
 
 ## Coup De Grace
 If a creature is indefinitely incapacitated and there is no other threat around, any attack from within 5ft that would deal lethal damage to that creature automatically hits, and instantly reduces them to 0 HP.
@@ -153,6 +157,7 @@ All creatures' fall damage caps at 200ft (66 dice), but the damage dice change b
 * Large creatures take 1d8 damage, to a maximum of 66d8
 * Huge creatures take 1d10 damage, to a maximum of 66d10
 * Gargantuan creatures take 1d12 damage, to a maximum of 66d12
+* Colossal creatures take 1d20 damage, to a maximum of 66d20
 
 If your speed is greater than 0 when you hit the ground, you can make a Dexterity saving throw (DC=10+{feet fell}/10) to reduce your effective fall distance by 10ft.  Evasion does not apply to this save.  If you have resistance or immunity to nonmagical bludgeoning damage, it applies to fall damage unless specifically stated otherwise.
 
@@ -287,10 +292,17 @@ Spellwrought tattoos can be created without casting Enchant Magic Item, but do d
 Tattoos can only be applied to skin.  Depending on cybernetic augmentations, this may limit the number and location of potential tattoos.
 
 ## Vehicle Combat
-When combat starts inside a vehicle or between vehicles, the following rules apply:
-* On initiative count 20 (losing ties), the vehicles are respaced depending on their relative speeds and angles.  Each vehicle has a maximum speed, but the driver may choose to go slower than that for various reasons, chief among them being that vehicles are very hard to control at their actual top speed.
-* If the vehicle is in manual control mode, one creature must use an Action every round to drive the vehicle.  When doing so, the driver decides what speed the vehicle is going, whether to make a turn, and how to evade any incoming obstacles.  If an entire round passes with nobody driving, the vehicle swerves and may crash.  This creature may need to make a skill/tool check each round to control the car in heavy traffic or other adverse conditions, with a DC depending on their speed.
-* If the vehicle is in auopilot mode, the AI will act on initiative count 20, obeying all traffic laws and driving as safely as possible.  If the autopilot has been hacked, then what happens depends on what the hacker attempts to make the vehicle do.  A hacker may decide to give the vehicle false information or change its destination, in which case the AI would still act on initiative count 20.  Alternatively, a hacker could take complete control of the vehicle, in which case the hacker would be considered equivalent to a manual driver.
+When starting a vehicle from a full stop, it cannot move further than its Combat speed that turn.  After the first turn, it can accelerate up to its top speed.  If a vehicle is traveling in a straight line, or making a 45 degree or less turn, it can be going any speed up to its top speed, chosen by the driver when they use their Action to control the vehicle.  In order to be able to make tighter turns, the vehicle cannot go above its Combat speed.  Some vehicles that are hard to turn may not have a combat speed, in which case it can never turn more than 45 degrees in one round.
+
+If the vehicle is in manual control mode, one creature must use an Action every round to drive the vehicle.  When doing so, the driver decides what speed the vehicle is going, and moves the vehicle.  If an entire round passes with nobody driving, the vehicle swerves and may crash.  The driver may need to make an ability check each round to control the car in heavy traffic or other adverse conditions, with a DC depending on their speed and the obstacles.
+
+If the vehicle is in autopilot mode, the AI will act on initiative count 20, obeying all traffic laws and driving as safely as possible.  If the autopilot has been hacked, then what happens depends on what the hacker attempts to make the vehicle do.  A hacker may decide to give the vehicle false information or change its destination, in which case the AI would still act on initiative count 20.  Alternatively, a hacker could take complete control of the vehicle, in which case the hacker would be considered equivalent to a manual driver.
+
+If a vehicle in motion hits an obstacle, whether that obstacle is a creature, another vehicle, or some other object, both the obstacle and the vehicle take bludgeoning damage from the impact equal to the fall damage that the vehicle would take from falling a number of feet equal to their current speed in mph.  If the obstacle is not reduced to 0 HP from this impact, the vehicle crashes and stops moving.  If the obstacle is a creature or another vehicle that is being controlled, that target can potentially dodge the crash.  If the impact was on purpose, the driver/pilot must make an attack roll using the vehicle's Dexterity.  Otherwise, the target must make a Dex save, against a DC equal to 10 + (the vehicle's speed in mph)/10.  On a missed attack, or on a successful save, the vehicle does not impact the target.
+
+If a Huge or smaller vehicle takes bludgeoning or thunder damage, whether that damage is the result of a crash or not, half that damage is also dealt to all creatures in the vehicle.  If a Gargantuan or Colossal vehicle takes damage, what happens to the passengers depends on their positioning within the vehicle and where the damage happened.  This damage can be further reduced by safety devices such as airbags and seat belts.
+
+If a vehicle has the Open property and no seat belts, harnesses, or similar mechanism, crashes will fling the passengers from the vehicle instead of transferring the damage.  The amount of damage the passengers then take is decided by the DM depending on where they were flung and how fast.
 
 ## Week Length
 All abilities which normally last for or recharge after 7 days have that duration shortened to 6 days.
