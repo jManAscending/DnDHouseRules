@@ -222,7 +222,7 @@ Whenever two spellcasters are in a 1v1 battle with no other threats, they enter 
 * If you have the Arcane Duelist feat, it applies to every spell you cast in this way.
 
 Some organized dueling rings have optional rules layered on top of these, to make fights more interesting or more survivable.  Not all of these apply at every dueling ring, but these are the most common extra rules:
-* The fight ends before either side reaches 0HP: some high-level dueling rings stop when one side is Bloodied, while lower-level rings might only go to first blood.
+* The fight ends before either side reaches 0HP: some dueling rings stop when one side is Bloodied, while other, lower-level rings might only go to first blood.
 * Necrotic damage is banned (and sometimes lethal damage entirely).
 * Spells only - no other weapons or attacks
 * If both sides run out of spell slots/spell points, the duel is a draw.
