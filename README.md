@@ -25,6 +25,7 @@
 [Inspiration](https://github.com/jManAscending/DnDHouseRules#inspiration)  
 [Leveling HP](https://github.com/jManAscending/DnDHouseRules#leveling-hp)  
 [Lingering Injuries](https://github.com/jManAscending/DnDHouseRules#lingering-injuries)  
+[Mage Duels](https://github.com/jManAscending/DnDHouseRules#mage-duels)  
 [Milestone Leveling](https://github.com/jManAscending/DnDHouseRules#milestone-leveling)  
 [Multiclassing](https://github.com/jManAscending/DnDHouseRules#multiclassing)  
 [Nonlethal Damage](https://github.com/jManAscending/DnDHouseRules#nonlethal-damage)  
@@ -211,6 +212,21 @@ When rolling a hit die on a level up, if the die lands on a 1, you may reroll it
 
 ## Lingering Injuries
 When you are reduced to 0 HP but not killed outright, you can use a reaction to expend and roll one hit die, regaining hit points equal to what you rolled plus your Constitution modifier.  When you do so, you gain a point of Exhaustion, and you must make a Constitution saving throw against a DC equal to the damage that put you to 0.  On a failure, you gain a [Lingering Injury](https://www.gmbinder.com/share/-LWu_LDHSZko9udS4vwN).
+
+## Mage Duels
+Whenever two spellcasters are in a 1v1 battle with no other threats, they enter a Mage Duel.  This acts mostly the same as a normal round of combat, but with the following additional rules:
+* Every spell with a casting time of 1 Action or lower can be used as if it were Counterspell, if you can justify how the spell's effect nullifies the effect of your opponent's spell.  For example, you could cast Wall of Fire to shield yourself from a Cone of Cold.
+* When casting a spell in this way, its casting time becomes one Reaction, and its duration becomes Instantaneous.
+* Like Counterspell, countering in this way automatically works if the spell's level is greater than or equal to the level of the countered spell.
+* Unlike Counterspell, if the countering spell was lower level, the two spellcasters make a contested check using their spellcasting ability to resolve the conflict.  If the lower level spell is a Cantrip, the person casting it has disadvantage on this check.
+* If you have the Arcane Duelist feat, it applies to every spell you cast in this way.
+
+Some organized dueling rings have optional rules layered on top of these, to make fights more interesting or more survivable.  Not all of these apply at every dueling ring, but these are the most common extra rules:
+* The fight ends before either side reaches 0HP: some high-level dueling rings stop when one side is Bloodied, while lower-level rings might only go to first blood.
+* Necrotic damage is banned (and sometimes lethal damage entirely).
+* Spells only - no other weapons or attacks
+* If both sides run out of spell slots/spell points, the duel is a draw.
+* Counterspell and Dispel Magic are banned (come on, be more creative).
 
 ## Milestone Leveling
 XP will not be kept track of, or given out.  All PCs will be the same level, and the PCs will level up according to DM judgement call.  If a player controls a Fallen character, they will gain levels slightly faster until they catch back up.
