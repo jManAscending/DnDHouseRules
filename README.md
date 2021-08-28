@@ -339,7 +339,7 @@ All abilities which normally last for or recharge after 7 days have that duratio
 * Sorcerer:
   * Instead of learning metamagic options permanently, you can prepare 2 metamagic options from the list of available ones at the end of a long rest. This increases at 10th and 17th level, in line with where RAW sorcerers learn more options.
   * You may use the Spell Points system instead of Spell Slots for your sorcerer Spellcasting.
-  * If your sorcerer subclass does not have a feature at level 1 giving you bonus spells, you gain the Origin Spells feature, giving you more known spells from 1st to 5th level based on your specific subclass.  I'll have my own version eventually, but for right now, use [this document](https://homebrewery.naturalcrit.com/share/HyBT1deBmN).
+  * If your sorcerer subclass does not have a feature at level 1 giving you bonus spells, you gain the Origin Spells feature, giving you more known spells from 1st to 5th level based on your specific subclass.  See [this document](https://www.gmbinder.com/share/-MiDX1WprrjtW-LMYtSW).
 * Warlock: The Hexblade subclass does not allow you to use Charisma for weapon attacks and damage.  Instead, that feature is part of Pact of the Blade, which can be taken by any Warlock at level 3.
 
 ## Feat Changes
