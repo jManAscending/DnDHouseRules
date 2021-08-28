@@ -326,15 +326,20 @@ All abilities which normally last for or recharge after 7 days have that duratio
 ## Class Changes
 * Artificer (KibblesTasty): The Cannonsmith's Thunder Cannon uses the base stats of a Hunting Rifle.
 * Bard level 20 capstone: If you have spent one minute with no uses of bardic inspiration left and no other creatures having inspiration granted by you, you regain one use of bardic inspiration.
-* Druids, while wildshaped, count as dual type Humanoid/Beast.
-* Druid level 20 capstone: If at the start of your turn you have no uses of Wild Shape remaining and are not wildshaped, you regain 1 use of Wild Shape.
-* Monk level 20 capstone: If you have less than 4 ki points remaining, you can spend an Action to center yourself and regain 1 ki point.
-* Monk Weapons count as Finesse, including Unarmed Strikes
+* Druid:
+  * While wildshaped, you count as dual type Humanoid/Beast.
+  * Level 20 capstone: If at the start of your turn you have no uses of Wild Shape remaining, you regain 1 use of Wild Shape.
+* Monk:
+  * Level 20 capstone: If you have less than 4 ki points remaining, you can spend an Action to center yourself and regain 1 ki point.
+  * Monk Weapons count as Finesse, including Unarmed Strikes
 * Rangers of the Beast or Hunter conclave can use either the PHB or Revised Ranger stats.  If you choose the PHB Beastmaster, the subclass is changed as follows:
   * Your beast companion rolls its own initiative and has its own turn, though it loses multiattack (if it has one) until level 11.
-  * At level 7, you can command your beast companion using your Bonus Action.  Your beast companion can immediately use its Reaction to take the Attack, Dash, Dodge, or Help actions.
+  * At level 7, you can command your beast companion using your Bonus Action.  Your beast companion can immediately use its Reaction to take the Attack, Dash, Dodge, or Help action.
 * Rogue: Sneak Attack damage dice increase in size when you reach certain levels in the Rogue class: d8s at 5th level, d10s at 11th level, and d12s at 17th level.
-* Sorcerer: Instead of learning metamagic options permanently, you can prepare 2 metamagic options from the list of available ones at the end of a long rest.  In addition, if your sorcerer subclass does not have a feature at level 1 giving you bonus spells, you gain the Origin Spells feature, giving you more known spells from 1st to 5th level based on your specific subclass.  I'll have my own version eventually, but for right now, use [this document](https://homebrewery.naturalcrit.com/share/HyBT1deBmN).
+* Sorcerer:
+  * Instead of learning metamagic options permanently, you can prepare 2 metamagic options from the list of available ones at the end of a long rest. This increases at 10th and 17th level, in line with where RAW sorcerers learn more options.
+  * You may use the Spell Points system instead of Spell Slots for your sorcerer Spellcasting.
+  * If your sorcerer subclass does not have a feature at level 1 giving you bonus spells, you gain the Origin Spells feature, giving you more known spells from 1st to 5th level based on your specific subclass.  I'll have my own version eventually, but for right now, use [this document](https://homebrewery.naturalcrit.com/share/HyBT1deBmN).
 * Warlock: The Hexblade subclass does not allow you to use Charisma for weapon attacks and damage.  Instead, that feature is part of Pact of the Blade, which can be taken by any Warlock at level 3.
 
 ## Feat Changes
