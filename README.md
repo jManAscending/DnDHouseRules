@@ -368,6 +368,5 @@ All abilities which normally last for or recharge after 7 days have that duratio
 * Summon Lesser/Greater Demon: These spells are banned.  Not for balance reasons - the Abyss just happened to get thrown into a black hole.
 * Find Greater Steed: Steed can take the form of any Large or Medium non-bipedal creature of CR 2 or lower that the caster has seen before.
 * Stoneskin: Grants resistance to non-siege Bludgeoning/Piercing/Slashing damage, and grants 5 poins of damage reduction for all types of damage except for Force, Psychic, and Poison.
-* Healing Spirit: Moving the spirit is free on your turn; healing requires a Bonus Action or Reaction.
 * Mordenkainen's Sword: No action required for it to attack
 * Plane Shift: The tuning fork requires about 250 gp in materials and a successful Smithing check to craft, but cannot be crafted without knowledge of the proper frequency for the target plane, which cannot be studied from anywhere but that plane.  In addition, Plane Shift can only take you to a location on the plane's first or primary layer/planet.
