@@ -336,6 +336,7 @@ All abilities which normally last for or recharge after 7 days have that duratio
   * Your beast companion rolls its own initiative and has its own turn, though it loses multiattack (if it has one) until level 11.
   * At level 7, you can command your beast companion using your Bonus Action.  Your beast companion can immediately use its Reaction to take the Attack, Dash, Dodge, or Help action.
 * Rogue: Sneak Attack damage dice increase in size when you reach certain levels in the Rogue class: d8s at 5th level, d10s at 11th level, and d12s at 17th level.
+* Monk/Rogue: Evasion doesn't apply if your movement is 0.
 * Sorcerer:
   * Instead of learning metamagic options permanently, you can prepare 2 metamagic options from the list of available ones at the end of a long rest. This increases at 10th and 17th level, in line with where RAW sorcerers learn more options.
   * You may use the Spell Points system instead of Spell Slots for your sorcerer Spellcasting.
