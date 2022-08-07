@@ -211,7 +211,7 @@ Spending inspiration allows you to treat one ability check, attack roll, or savi
 When rolling a hit die on a level up, if the die lands on a 1, you may reroll it until it lands on anything else.
 
 ## Lingering Injuries
-When you are reduced to 0 HP but not killed outright, you can use a reaction to expend and roll one hit die, regaining hit points equal to what you rolled plus your Constitution modifier.  When you do so, you gain a point of Exhaustion, and you must make a Constitution saving throw against a DC equal to the damage that put you to 0.  On a failure, you gain a [Lingering Injury](https://www.gmbinder.com/share/-LWu_LDHSZko9udS4vwN).
+When damage would reduce you to 0 HP but not kill you outright, you can use a reaction to expend and roll one hit die, regaining hit points equal to what you rolled plus your Constitution modifier.  When you do so, you gain a point of Exhaustion, and you must make a Constitution saving throw against a DC equal to the damage that put you to 0.  On a failure, you gain a [Lingering Injury](https://www.gmbinder.com/share/-LWu_LDHSZko9udS4vwN).
 
 ## Mage Duels
 Whenever two spellcasters are in a 1v1 battle with no other threats, they enter a Mage Duel.  This acts mostly the same as a normal round of combat, but with the following additional rules:
