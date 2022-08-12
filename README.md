@@ -7,6 +7,7 @@
 [Companion Creatures](https://github.com/jManAscending/DnDHouseRules#companion-creatures)  
 [Coup De Grace](https://github.com/jManAscending/DnDHouseRules#coup-de-grace)  
 [Criticals](https://github.com/jManAscending/DnDHouseRules#criticals)  
+[Damage Types](https://github.com/jManAscending/DnDHouseRules#damage-types)  
 [Downed Creatures](https://github.com/jManAscending/DnDHouseRules#downed-creatures)  
 [Downtime Crafting](https://github.com/jManAscending/DnDHouseRules#downtime-crafting)  
 [Downtime Training](https://github.com/jManAscending/DnDHouseRules#downtime-training)  
@@ -92,6 +93,14 @@ On saving throws, Critical Successes automatically succeed, and Critical Failure
 On contested ability checks, Critical Successes automatically win, and Critical Failures automatically lose.
 
 On regular ability checks, criticals mean nothing.
+
+## Damage Types
+There are two new physical damage types: Ballistic and Friction
+
+* Ballistic damage is dealt by small items moving very quickly, such as bullets. It is similar to Piercing damage, but with items so small and fast that it would penetrate skin regardless of how sharp it is.
+* Friction damage is dealt by rubbing a creature along a relatively flat, rough surface. How much damage is dealt depends on how fast the creature/object is moving, and how rough the surface is. As a general rule to base other rulings off of, skidding along rough concrete deals 1d6 Friction damage x their speed (in MPH) divided by 10. For example, crashing at 50 MPH on a motorcycle deals 5d6 Friction damage.
+
+Both of these damage types are considered nonmagical physical damage. If an ability or spell affects Bludgeoning, Piercing, and Slashing damage, then it also affects Ballistic and Friction damage.
 
 ## Downed Creatures
 Creatures at 0 HP and Unstable are not fully Unconscious.  Instead, they are considered Prone and Stunned, meaning they are still somewhat aware of their surroundings and can speak falteringly.  Creatures at 0 HP and Stable are Unconscious.
