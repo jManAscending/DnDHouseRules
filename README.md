@@ -160,7 +160,7 @@ If your speed is not 0 when you land, you can make a Dexterity saving throw (DC=
 
 For the purposes of resistance/immunity, falling deals nonmagical bludgeoning or piercing damage, depending on the surface you fall onto.
 
-If a Tiny or larger creature or object falls onto another creature or object, half of the fall damage taken by the falling creature or object is also dealt to the target. A creature can make a Dexterity saving throw to avoid the damage. The saving throw DC starts at 10 for a Tiny object or creature, and increases by 2 for each size category it is above Tiny, up to a maximum of 20 for a Gargantuan or Colossal creature or object. If the falling creature/object is Collosal, creatures not within 10ft of the edge of the object automatically fail this saving throw unless they have some reasonable source of cover.
+If a Tiny or larger creature or object falls onto another creature or object, half of the fall damage taken by the falling creature or object is also dealt to the target. A creature can make a Dexterity saving throw to avoid the damage. The saving throw DC starts at 10 for a Tiny falling entity, and increases by 2 for each size category it is above Tiny, up to a maximum of 20 for a Gargantuan or Colossal entity. If the falling entity is Collosal, creatures not within 10ft of the edge of the object automatically fail this saving throw unless they have some reasonable source of cover.
 
 Creatures and objects normally fall at a rate of 500ft per round. For falls less than 500ft, the fall is treated as happening nearly instantly, though if a creature falls on their turn, they can use their Action, Bonus Action, or Reaction during the fall.
 
