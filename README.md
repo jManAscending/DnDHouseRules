@@ -156,7 +156,7 @@ All creatures' fall damage caps at 500ft (50 dice), but the damage dice change b
 * Gargantuan creatures take 1d12 damage, to a maximum of 50d12
 * Colossal creatures take 1d20 damage, to a maximum of 50d20
 
-If your speed is not 0 when you land, you can make a Dexterity saving throw (DC=10+{feet fell}/10) to reduce your effective fall distance and land upright instead of prone. If you succeed on this saving throw, you reduce the effective fall distance by 10ft. If you succeed by 5 or more, you can reduce the effective fall distance by 10ft for each 5 that you beat the DC by. For example, if you fall 50ft and roll a 25 Dex save, you can reduce the effective falling distance by 30ft, taking damage as if you fell 20ft.
+If your speed is not 0 when you land, you can make a Dexterity saving throw (DC=10+{feet fell}/10) to reduce your effective fall distance and land upright instead of prone. If you succeed on this saving throw, you reduce the effective fall distance by 10ft. If you succeed by 5 or more, you can reduce the effective fall distance by an additional 10ft for each 5 that you beat the DC by. For example, if you fall 50ft and roll a 25 Dex save, you can reduce the effective falling distance by 30ft, taking damage as if you fell 20ft.
 
 For the purposes of resistance/immunity, falling deals nonmagical bludgeoning or piercing damage, depending on the surface you fall onto.
 
