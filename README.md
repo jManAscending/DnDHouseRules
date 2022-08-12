@@ -5,7 +5,6 @@
 [Changed Casting Stat](https://github.com/jManAscending/DnDHouseRules#changed-casting-stat)  
 [Character Creation](https://github.com/jManAscending/DnDHouseRules#character-creation)  
 [Companion Creatures](https://github.com/jManAscending/DnDHouseRules#companion-creatures)  
-[Colossal Size](https://github.com/jManAscending/DnDHouseRules#colossal-size)  
 [Coup De Grace](https://github.com/jManAscending/DnDHouseRules#coup-de-grace)  
 [Criticals](https://github.com/jManAscending/DnDHouseRules#criticals)  
 [Downed Creatures](https://github.com/jManAscending/DnDHouseRules#downed-creatures)  
@@ -36,6 +35,7 @@
 [Ranged Dual Wielding](https://github.com/jManAscending/DnDHouseRules#ranged-dual-wielding)  
 [Resurrection](https://github.com/jManAscending/DnDHouseRules#resurrection)  
 [Scrolls](https://github.com/jManAscending/DnDHouseRules#scrolls)  
+[Size](https://github.com/jManAscending/DnDHouseRules#size)  
 [Speed](https://github.com/jManAscending/DnDHouseRules#speed)  
 [Spells Per Turn](https://github.com/jManAscending/DnDHouseRules#spells-per-turn)  
 [Suffocation](https://github.com/jManAscending/DnDHouseRules#suffocation)  
@@ -80,9 +80,6 @@ See full guide [here](https://www.gmbinder.com/share/-LmJVKwpjP1DS_ufoH_i)
 
 ## Companion Creatures
 If you have a telepathic connection with a companion creature that you control and that creature rolls initiative at the same time as you, that creature does not roll initiative for itself, and instead acts on your turn.
-
-## Colossal Size
-Some Creatures, Vehicles, and other Objects that take up spaces larger than 30ft x 30ft are considered Colossal.  Colossal entities cannot be grappled except by other colossal entities, and on a battlemap are treated more as terrain than as an actual singular entity.  They follow the same action economy rules as other creatures and vehicles, but generally have different sets of hit points for different parts of them.  For example, a colossal sailing ship might have a separate HP pool for its hull and sails (or even separate HP pools for separate segments of its hull), or a plane may have separate HP pools for its wings and fuselage.  The largest of creatures and vehicles may even have different hit point pools for different sections of a single segment.
 
 ## Coup De Grace
 If a creature is indefinitely incapacitated and there is no other threat around, any attack from within 5ft that would deal lethal damage to that creature automatically hits, and instantly reduces them to 0 HP.
@@ -149,27 +146,28 @@ Currently accepted homebrew material:
 * My current homebrew material: [spells and feats](https://www.gmbinder.com/share/-Lcp7PI9Uwo7sVCh9iUS), [weapons and armor](https://www.gmbinder.com/share/-LnS1Bf4hT4MjAESfURs), [subclasses](https://www.gmbinder.com/share/-LnIrHFC7w4wx0g2bYrt)
 
 ## Fall Damage
-Falling damage compounds as you fall.  When a creature falls 10ft or more, the fall deals a number of damage dice equal to the number of feet fallen divided by 10, then raised to the 1.4th power (rounded to the closest whole number).  This caps out at 200ft, or 66 dice.
+All creatures' fall damage caps at 500ft (50 dice), but the damage dice change based on the creature's size - the bigger you are, the harder you fall.
+* Miniscule creatures take no damage from falling
+* Tiny creatures take 1 damage, to a maximum of 50 points
+* Small creatures take 1d4 damage, to a maximum of 50d4
+* Medium creatures take 1d6 damage, to a maximum of 50d6
+* Large creatures take 1d8 damage, to a maximum of 50d8
+* Huge creatures take 1d10 damage, to a maximum of 50d10
+* Gargantuan creatures take 1d12 damage, to a maximum of 50d12
+* Colossal creatures take 1d20 damage, to a maximum of 50d20
 
-All creatures' fall damage caps at 200ft (66 dice), but the damage dice change based on the creature's size - the bigger you are, the harder you fall.
-* Tiny creatures take 1 damage, to a maximum of 66 points
-* Small creatures take 1d4 damage, to a maximum of 66d4
-* Medium creatures take 1d6 damage, to a maximum of 66d6
-* Large creatures take 1d8 damage, to a maximum of 66d8
-* Huge creatures take 1d10 damage, to a maximum of 66d10
-* Gargantuan creatures take 1d12 damage, to a maximum of 66d12
-* Colossal creatures take 1d20 damage, to a maximum of 66d20
+If your speed is not 0 when you land, you can make a Dexterity saving throw (DC=10+{feet fell}/10) to reduce your effective fall distance and land upright instead of prone. If you succeed on this saving throw, you reduce the effective fall distance by 10ft. If you succeed by 5 or more, you can reduce the effective fall distance by 10ft for each 5 that you beat the DC by. For example, if you fall 50ft and roll a 25 Dex save, you can reduce the effective falling distance by 30ft, taking damage as if you fell 20ft.
 
-If your speed is greater than 0 when you hit the ground, you can make a Dexterity saving throw (DC=10+{feet fell}/10) to reduce your effective fall distance by 10ft.  Evasion does not apply to this save.  If you have resistance or immunity to nonmagical bludgeoning damage, it applies to fall damage unless specifically stated otherwise.
+For the purposes of resistance/immunity, falling deals nonmagical bludgeoning or piercing damage, depending on the surface you fall onto.
 
-If a creature or object falls onto another creature or object, half of the fall damage taken by the falling creature or object is also dealt to the target.  A creature can make a Dexterity saving throw to halve the damage again (Evasion can apply to this save.)
+If a Tiny or larger creature or object falls onto another creature or object, half of the fall damage taken by the falling creature or object is also dealt to the target. A creature can make a Dexterity saving throw to avoid the damage. The saving throw DC starts at 10 for a Tiny object or creature, and increases by 2 for each size category it is above Tiny, up to a maximum of 20 for a Gargantuan or Colossal creature or object. If the falling creature/object is Collosal, creatures not within 10ft of the edge of the object automatically fail this saving throw unless they have some reasonable source of cover.
 
-Creatures and objects normally fall at a rate of 500ft per round.  For falls less than 500ft, the fall is treated as happening nearly instantly, though if a creature falls on their turn, they can use their Action, Bonus Action, or Reaction during the fall.
+Creatures and objects normally fall at a rate of 500ft per round. For falls less than 500ft, the fall is treated as happening nearly instantly, though if a creature falls on their turn, they can use their Action, Bonus Action, or Reaction during the fall.
 
 ## Fallen Classes
 If a Paladin breaks their oath, a Cleric loses the favor of their God, or a Warlock breaks their contract, the player may have those powers stripped away.  
 
-All the character's levels in the relevent class will be replaced by one level of a "Fallen" class.  The "Fallen" class will include every nonmagical class feature the character had gained up until that point, including HP and Hit Dice, but not including Proficiency Bonus.  Subsequently gained levels in other classes will not grant new HP or Hit Dice until the character has surpassed the character level at which they fell, nor will they grant ASIs until the new classes' ASIs outnumber the ASIs they had under the first class.  If the character does not already have levels in any other classes at the time they fall, they do not need to meet the ability score prerequisites to multiclass into any other class, but must still have a valid roleplay reason to take the new class.
+All the character's levels in the relevent class will be replaced by one level of a "Fallen" class. The "Fallen" class will include every nonmagical class feature the character had gained up until that point, including HP and Hit Dice, but not including Proficiency Bonus.  Subsequently gained levels in other classes will not grant new HP or Hit Dice until the character has surpassed the character level at which they fell, nor will they grant ASIs until the new classes' ASIs outnumber the ASIs they had under the first class.  If the character does not already have levels in any other classes at the time they fall, they do not need to meet the ability score prerequisites to multiclass into any other class, but must still have a valid roleplay reason to take the new class.
 
 ## Foot Chases
 Chases mostly follow normal combat rules, with the following exceptions:
@@ -281,6 +279,13 @@ There are 3 known types of magic in the world that can be inscribed in a spell s
 
 If you have proficiency in Arcana, you can use Arcane spell scrolls even if you do not know any Arcane spells.  The same applies to Religion for Divine scrolls and Nature for Natural scrolls.  If you do not know any spells of the relevent casting type, or if you do not have a spell slot high enough to cast the scribed spell, you must make an Arcana, Religion, or Nature check to use the scroll.
 
+## Size
+There are two new homebrew sizes with unique properties: Miniscule and Colossal
+
+**Miniscule:** One size category below Tiny. Miniscule entities are incredibly small, and can fit through gaps 1 inch wide without squeezing. Creatures this size have their base carry capacity halved twice, and do not take or deal damage from falling. This size category is intended for insects and similarly-sized creatures/objects.
+
+**Colossal:** One size category above Gargantuan. Creatures, Vehicles, and other Objects that take up spaces larger than 30ft x 30ft are considered Colossal. Colossal entities cannot be grappled except by other colossal entities, and on a battlemap are treated more as terrain than as an actual singular entity. They usually follow the same action economy rules as other creatures and vehicles, but generally have different sets of hit points for different parts of them.  For example, a colossal sailing ship might have a separate HP pool for its hull and sails (or even separate HP pools for separate segments of its hull), or a plane may have separate HP pools for its wings and fuselage. The largest of creatures and vehicles may even have different hit point pools for different Large or Huge sections of a single segment.
+
 ## Speed
 Every character gets a bonus to their speed equal to 5 times their Strength modifier or Dexterity modifier, whichever's lowest.  If one of those ability modifiers is negative, then the speed bonus is 0.  If both ability modifiers are negative, the penalty equals 5 times the higher bonus.
 
@@ -296,7 +301,7 @@ If at the end of your turn you have no air left and continue trying to hold your
 The Surprised condition wears off after one full round has passed, instead of on a surprised creature's first turn.
 
 ## Taking Ten
-When in a non-stressful situation where you can repeat a skill check for an arbitrary amount of time, you can choose to use your passive skill in place of an active skill check.  For example, this can apply to searching a room for hidden doors or compartments, studying a topic in a library over downtime, or crafting an item that you have crafted before.
+When in a non-stressful situation where you can repeat a skill check for an arbitrary amount of time, you can choose to use your passive skill in place of an active skill check. For example, this can apply to searching a room for hidden doors or compartments, studying a topic in a library over downtime, or crafting an item that you have crafted before.
 
 If you would have advantage on the check, your passive score increases by 5 for that check, and vice versa for disadvantage.
 
