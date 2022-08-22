@@ -143,7 +143,11 @@ Some creatures may have 2 separate creature types, determined on a case-by-case 
 Planetouched races such as Tieflings and Aasimar (including Warforged, for balance reasons) are considered Humanoid, but with non-humanoid influence that is divinable by certain spells and magical effects, and may affect how they react to certain abjuration magic.  Undead creatures will never retain any semblance of their previous creature type, apart from appearance.
 
 ## Extended Sources
-Materials from all officially published WotC material are available, though some have changes listed in these rules.  All UA material, Stream content, and any features that are setting-specific require DM approval and possible modification before using.
+Materials from almost all officially published WotC material are available, though some have changes listed in these rules.  All UA material, Stream content, and any features that are setting-specific require DM approval and possible modification before using.
+
+Currently, the only allowed material from S:AiS/AAG is:
+* The Air Bubble spell
+* The Autognome race, reflavored as a modern AI-piloted robot. You can choose to be Medium or Small.
 
 Items not from official WotC material require heavy DM scutiny to be accepted, and may be reworked on the fly.
 
