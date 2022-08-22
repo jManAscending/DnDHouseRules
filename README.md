@@ -13,7 +13,6 @@
 [Downtime Training](https://github.com/jManAscending/DnDHouseRules#downtime-training)  
 [Drawing Weapons Magically](https://github.com/jManAscending/DnDHouseRules#drawing-weapons-magically)  
 [Dual Creature Types](https://github.com/jManAscending/DnDHouseRules#dual-creature-types)  
-[Dying Creatures](https://github.com/jManAscending/DnDHouseRules#dying-creatures)  
 [Extended Sources](https://github.com/jManAscending/DnDHouseRules#extended-sources)  
 [Fall Damage](https://github.com/jManAscending/DnDHouseRules#fall-damage)  
 [Fallen Classes](https://github.com/jManAscending/DnDHouseRules#fallen-classes)  
