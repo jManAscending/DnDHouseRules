@@ -152,8 +152,8 @@ Currently, the only allowed material from S:AiS/AAG is:
 Items not from official WotC material require heavy DM scutiny to be accepted, and may be reworked on the fly.
 
 Currently accepted homebrew material:
-* Matt Mercer's [Blood Hunter](http://www.dmsguild.com/product/175606/Order-of-the-Lycan-for-Blood-Hunters) + [Lycan subclass](http://www.dmsguild.com/product/175606/Order-of-the-Lycan-for-Blood-Hunters)
-* [KibblesTasty Artificer](https://www.gmbinder.com/share/-LAEn6ZdC6lYUKhQ67Qk) (UA/TCE Artificer also allowed)
+* Matt Mercer's [Blood Hunter](https://www.dmsguild.com/product/301641/Blood-Hunter-Class-for-DD-5e-2020?) + [Lycan subclass](http://www.dmsguild.com/product/175606/Order-of-the-Lycan-for-Blood-Hunters)
+* [KibblesTasty Inventor](https://www.gmbinder.com/share/-LAEn6ZdC6lYUKhQ67Qk) (UA/TCE Artificer also allowed)
 * [Way of the Four Elements Remastered](https://img.4plebs.org/boards/tg/image/1433/19/1433195829577.pdf)
 * My current homebrew material: [spells and feats](https://www.gmbinder.com/share/-Lcp7PI9Uwo7sVCh9iUS), [weapons and armor](https://www.gmbinder.com/share/-LnS1Bf4hT4MjAESfURs), [subclasses](https://www.gmbinder.com/share/-LnIrHFC7w4wx0g2bYrt)
 
