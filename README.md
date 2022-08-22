@@ -79,7 +79,7 @@ You may spend starting wealth on whatever equipment you can afford before the fi
 See full guide [here](https://www.gmbinder.com/share/-LmJVKwpjP1DS_ufoH_i)
 
 ## Companion Creatures
-If you have a telepathic connection with a companion creature that you control and that creature rolls initiative at the same time as you, that creature does not roll initiative for itself, and instead acts on your turn.
+If you have a companion creature that you control and that creature rolls initiative at the same time as you, you can choose whether that creature rolls initiative for itself or acts on your turn.
 
 ## Coup De Grace
 If a creature is indefinitely incapacitated and there is no other threat around, any attack from within 5ft that would deal lethal damage to that creature automatically hits, and instantly reduces them to 0 HP.
