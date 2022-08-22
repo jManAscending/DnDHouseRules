@@ -341,11 +341,11 @@ If a vehicle has the Open property and no seat belts, harnesses, or similar mech
 All abilities which normally last for or recharge after 7 days have that duration shortened to 6 days.
 
 ## Class Changes
-* Artificer (KibblesTasty): The Cannonsmith's Thunder Cannon uses the base stats of a Hunting Rifle.
 * Bard level 20 capstone: If you have spent one minute with no uses of bardic inspiration left and no other creatures having inspiration granted by you, you regain one use of bardic inspiration.
 * Druid:
   * While wildshaped, you count as dual type Humanoid/Beast.
   * Level 20 capstone: If at the start of your turn you have no uses of Wild Shape remaining, you regain 1 use of Wild Shape.
+* Inventor (KibblesTasty): The Cannonsmith's Thunder Cannon uses the base stats of a Hunting Rifle.
 * Monk:
   * Level 20 capstone: If you have less than 4 ki points remaining, you can spend an Action to center yourself and regain 1 ki point.
   * Monk Weapons count as Finesse, including Unarmed Strikes
