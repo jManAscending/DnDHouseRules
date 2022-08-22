@@ -345,7 +345,7 @@ All abilities which normally last for or recharge after 7 days have that duratio
 * Druid:
   * While wildshaped, you count as dual type Humanoid/Beast.
   * Level 20 capstone: If at the start of your turn you have no uses of Wild Shape remaining, you regain 1 use of Wild Shape.
-* Inventor (KibblesTasty): The Cannonsmith's Thunder Cannon uses the base stats of a Hunting Rifle.
+* Inventor (KibblesTasty): If you are a Cannonsmith, you can replace the base stats of their starting Stormforged Weapon with the stats of any Simple modern weapon. You can also turn any modern nonmagical weapon into a Stormforged Weapon, expending $2000 worth of raw materials over 3 downtime days to do so.
 * Monk:
   * Level 20 capstone: If you have less than 4 ki points remaining, you can spend an Action to center yourself and regain 1 ki point.
   * Monk Weapons count as Finesse, including Unarmed Strikes
