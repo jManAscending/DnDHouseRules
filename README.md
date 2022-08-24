@@ -1,6 +1,9 @@
 # DnD House Rules
 ### While the campaign is in progress, players will be notified of changes to these rules.
 
+### Note: Deprecated
+As of this commit, this rules list will no longer be actively supported. Please check the [Ascendant Multiverse](https://sites.google.com/view/ascendant-multiverse/house-rules) site for the updated house rules.
+
 ## Table of Contents
 [Changed Casting Stat](https://github.com/jManAscending/DnDHouseRules#changed-casting-stat)  
 [Character Creation](https://github.com/jManAscending/DnDHouseRules#character-creation)  
@@ -373,7 +376,7 @@ All abilities which normally last for or recharge after 7 days have that duratio
 * Control Flames: Can be used on magical flames created by the caster or under the caster's control
 * True Strike: Can be cast as a Bonus Action, and affects the next attack you make before the end of your next turn.
 * Armor of Agathys: While you have the temporary HP, you also have resistance to cold damage.
-* Ceremony: Invokes a spirit quest within the target(s)' mind related to the purpose of the casting.  The benefits of the spell only happen if this quest is successful.  If there is a skill check involved in the casting, the skill check's results determine the difficulty of the mission.  In addition, it is possible to use the Ceremony spell for more than just the listed uses, though the benefits (and risks) depend entirely on DM interpretation of the situation.
+* Ceremony: Invokes a spirit quest within the target(s)' mind related to the purpose of the casting.  The benefits of the spell only happen if this quest is successful. If there is a skill check involved in the casting, the skill check's results determine the difficulty of the mission.  In addition, it is possible to use the Ceremony spell for more than just the listed uses, though the benefits (and risks) depend entirely on DM interpretation of the situation.
 * Find Familiar: Familiar can take the form of any Tiny CR 0 creature.
 * Identify: Can identify cursed items if and only if the cursed item was enchanted with an equal or lower spell level than the one used to cast Identify.  Ritual casting Identify makes it count as 1st level.
 * Mage Armor: The target's base AC becomes 10 + your spellcasting ability modifier + its Dexterity modifier.
@@ -382,7 +385,7 @@ All abilities which normally last for or recharge after 7 days have that duratio
 * Find Steed: Steed can take the form of any Large or Medium Beast of CR 1 or lower, with no Fly or Swim speed, that the caster has seen before.
 * Find Traps: All traps within line of sight glow until the end of your turn.
 * Dispel Magic: Can only dispel one spell per cast.  You must specify what spell you are dispelling (you do not necessarily need to know exactly what the spell is, only that it's there).  Also may be able to dispel other magical effects or properties, with a DC dependent on DM judgement.
-* Sending: You must have at least seen the person you are trying to contact and know at least one name they have gone by, though you need not have met them in person.  Additionally, if you use the Sending spell to contact someone who knows you by a fake identity, they interpret it as coming from the identity they know.  If the recipent knows multiple identities belonging to the caster but does not know that they are the same person, the caster can decide which identity the Sending spell will use.  Also, modern technology can intercept Sending messages, like unencrypted radio signals.
+* Sending: You must have at least seen the person you are trying to contact and know at least one name they have gone by, though you need not have met them in person.  Additionally, if you use the Sending spell to contact someone who knows you by a fake identity, they interpret it as coming from the identity they know.  If the recipent knows multiple identities belonging to the caster but does not know that they are the same person, the caster can decide which identity the Sending spell will use. Also, modern technology can intercept Sending messages, like unencrypted radio signals.
 * Summon Lesser/Greater Demon: These spells are banned.  Not for balance reasons - the Abyss just happened to get thrown into a black hole.
 * Find Greater Steed: Steed can take the form of any Large or Medium non-bipedal creature of CR 2 or lower that the caster has seen before.
 * Stoneskin: Grants resistance to non-siege physical damage (bludgeoning/piercing/slashing/ballistic/friction), and grants 5 points of damage reduction for all types of damage except for Force, Psychic, and Poison.
